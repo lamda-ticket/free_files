@@ -41,3 +41,24 @@ http://api.new.livestream.com/accounts/7861901/events/8505052/live.m3u8
 
 #EXTINF:-1 GROUP-TITLE="FRANCE",Francophone
 http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9BK5VE0.png" group-title="BELGIUM",Bel RTL
+http://bel-lh.akamaihd.net/i/BEL_1@321282/master.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dA31yD6.png" group-title="BELGIUM",Bruzz
+http://hls-origin01-bruzz.cdn02.rambla.be/adliveorigin-bruzz/_definst_/AZwy8w.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/BX1_logo.svg/1106px-BX1_logo.svg.png" group-title="BELGIUM",BX1 (Opt-2)
+https://59959724487e3.streamlock.net/stream/live/playlist.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s8Eo7fA.png" group-title="BELGIUM",City Music TV
+http://5592f056abba8.streamlock.net/citytv/citytv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WJPvVdm.png" group-title="BELGIUM",NRJ Hits TV
+https://5be019f0d8c6e.streamlock.net/ngroup/ngrp:NRJHitsTV_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u9cYVmP.png" group-title="BELGIUM",QMusic 103.3 FM Bruges
+https://dpp-streamlive-plain.medialaancdn.be/qmusic/plain/hls_hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xsspfDW.png" group-title="BELGIUM",Radio Contact 102.2 FM Brussels
+http://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8
