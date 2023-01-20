@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="QURAN LIVE RADIO", Live Nablus Palestine((إذاعة القرآن الكريم نابلس)
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="QURAN LIVE NABLUS", Live Nablus Palestine((إذاعة القرآن الكريم نابلس)
 http://streaming.zaytonatube.com:8080/holyquran/holyquran/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WIa5TN4.jpg" group-title="QURAN LIVE RADIO",---Amazing short Recitations---
