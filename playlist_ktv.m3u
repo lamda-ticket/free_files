@@ -1,641 +1,641 @@
 #EXTM3U
-#EXTINF:-1,group-title="FRANCE", TF1
+#EXTINF:-1,group-title="FRANCE TV ", TF1
 http://livetv.ktv.zone/3/play.m3u8
-#EXTINF:-1,group-title="FRANCE", France 2
+#EXTINF:-1,group-title="FRANCE TV ", France 2
 http://livetv.ktv.zone/4/play.m3u8
-#EXTINF:-1,group-title="FRANCE", France 3
+#EXTINF:-1,group-title="FRANCE TV ", France 3
 http://livetv.ktv.zone/5/play.m3u8
-#EXTINF:-1,group-title="FRANCE", Canal+
+#EXTINF:-1,group-title="FRANCE TV ", Canal+
 http://livetv.ktv.zone/6/play.m3u8
-#EXTINF:-1,group-title="FRANCE", France 5
+#EXTINF:-1,group-title="FRANCE TV ", France 5
 http://livetv.ktv.zone/7/play.m3u8
-#EXTINF:-1,group-title="FRANCE", M6
+#EXTINF:-1,group-title="FRANCE TV ", M6
 http://livetv.ktv.zone/8/play.m3u8
-#EXTINF:-1,group-title="FRANCE", Arte
+#EXTINF:-1,group-title="FRANCE TV ", Arte
 http://livetv.ktv.zone/9/play.m3u8
-#EXTINF:-1,group-title="FRANCE", C8
+#EXTINF:-1,group-title="FRANCE TV ", C8
 http://livetv.ktv.zone/10/play.m3u8
-#EXTINF:-1,group-title="FRANCE", W9
+#EXTINF:-1,group-title="FRANCE TV ", W9
 http://livetv.ktv.zone/11/play.m3u8
-#EXTINF:-1,group-title="FRANCE", TMC
+#EXTINF:-1,group-title="FRANCE TV ", TMC
 http://livetv.ktv.zone/12/play.m3u8
-#EXTINF:-1,group-title="FRANCE", TFX
+#EXTINF:-1,group-title="FRANCE TV ", TFX
 http://livetv.ktv.zone/13/play.m3u8
-#EXTINF:-1,group-title="FRANCE", NRJ 12
+#EXTINF:-1,group-title="FRANCE TV ", NRJ 12
 http://livetv.ktv.zone/14/play.m3u8
-#EXTINF:-1,group-title="FRANCE", LCP
+#EXTINF:-1,group-title="FRANCE TV ", LCP
 http://livetv.ktv.zone/15/play.m3u8
-#EXTINF:-1,group-title="FRANCE", France 4
+#EXTINF:-1,group-title="FRANCE TV ", France 4
 http://livetv.ktv.zone/16/play.m3u8
-#EXTINF:-1,group-title="FRANCE", BFM TV
+#EXTINF:-1,group-title="FRANCE TV ", BFM TV
 http://livetv.ktv.zone/17/play.m3u8
-#EXTINF:-1,group-title="FRANCE", CNews
+#EXTINF:-1,group-title="FRANCE TV ", CNews
 http://livetv.ktv.zone/18/play.m3u8
-#EXTINF:-1,group-title="FRANCE", CStar
+#EXTINF:-1,group-title="FRANCE TV ", CStar
 http://livetv.ktv.zone/19/play.m3u8
-#EXTINF:-1,group-title="FRANCE", Gulli
+#EXTINF:-1,group-title="FRANCE TV ", Gulli
 http://livetv.ktv.zone/20/play.m3u8
-#EXTINF:-1,group-title="FRANCE", France O
+#EXTINF:-1,group-title="FRANCE TV ", France O
 http://livetv.ktv.zone/21/play.m3u8
-#EXTINF:-1,group-title="FRANCE", TF1 Séries Films
+#EXTINF:-1,group-title="FRANCE TV ", TF1 Séries Films
 http://livetv.ktv.zone/22/play.m3u8
-#EXTINF:-1,group-title="FRANCE", L'Equipe 21
+#EXTINF:-1,group-title="FRANCE TV ", L'Equipe 21
 http://livetv.ktv.zone/23/play.m3u8
-#EXTINF:-1,group-title="FRANCE", 6ter
+#EXTINF:-1,group-title="FRANCE TV ", 6ter
 http://livetv.ktv.zone/24/play.m3u8
-#EXTINF:-1,group-title="FRANCE", RMC Story
+#EXTINF:-1,group-title="FRANCE TV ", RMC Story
 http://livetv.ktv.zone/25/play.m3u8
-#EXTINF:-1,group-title="FRANCE", RMC Découverte
+#EXTINF:-1,group-title="FRANCE TV ", RMC Découverte
 http://livetv.ktv.zone/26/play.m3u8
-#EXTINF:-1,group-title="FRANCE", Chérie 25
+#EXTINF:-1,group-title="FRANCE TV ", Chérie 25
 http://livetv.ktv.zone/27/play.m3u8
-#EXTINF:-1,group-title="FRANCE", LCI
+#EXTINF:-1,group-title="FRANCE TV ", LCI
 http://livetv.ktv.zone/28/play.m3u8
-#EXTINF:-1,group-title="FRANCE", Franceinfo
+#EXTINF:-1,group-title="FRANCE TV ", Franceinfo
 http://livetv.ktv.zone/29/play.m3u8
-#EXTINF:-1,group-title="FRANCE", Melody TV
+#EXTINF:-1,group-title="FRANCE TV ", Melody TV
 http://livetv.ktv.zone/30/play.m3u8
-#EXTINF:-1,group-title="FRANCE", France 3 Alpes
+#EXTINF:-1,group-title="FRANCE TV ", France 3 Alpes
 http://livetv.ktv.zone/32/play.m3u8
-#EXTINF:-1,group-title="FRANCE", 8 Mont Blanc
+#EXTINF:-1,group-title="FRANCE TV ", 8 Mont Blanc
 http://livetv.ktv.zone/33/play.m3u8
-#EXTINF:-1,group-title="FRANCE", Mont Blanc Live
+#EXTINF:-1,group-title="FRANCE TV ", Mont Blanc Live
 http://livetv.ktv.zone/169/play.m3u8
-#EXTINF:-1,group-title="FRANCE", CGTN Français
+#EXTINF:-1,group-title="FRANCE TV ", CGTN Français
 http://livetv.ktv.zone/52/play.m3u8
-#EXTINF:-1,group-title="FRANCE", Arirang World
+#EXTINF:-1,group-title="FRANCE TV ", Arirang World
 http://livetv.ktv.zone/53/play.m3u8
-#EXTINF:-1,group-title="FRANCE", France 24
+#EXTINF:-1,group-title="FRANCE TV ", France 24
 http://livetv.ktv.zone/56/play.m3u8
-#EXTINF:-1,group-title="FRANCE", France 24 (EN)
+#EXTINF:-1,group-title="FRANCE TV ", France 24 (EN)
 http://livetv.ktv.zone/57/play.m3u8
-#EXTINF:-1,group-title="FRANCE", RT
+#EXTINF:-1,group-title="FRANCE TV ", RT
 http://livetv.ktv.zone/58/play.m3u8
-#EXTINF:-1,group-title="FRANCE", CNN HD
+#EXTINF:-1,group-title="FRANCE TV ", CNN HD
 http://livetv.ktv.zone/59/play.m3u8
-#EXTINF:-1,group-title="FRANCE", BBC World
+#EXTINF:-1,group-title="FRANCE TV ", BBC World
 http://livetv.ktv.zone/60/play.m3u8
-#EXTINF:-1,group-title="FRANCE", TV5 Monde Europe
+#EXTINF:-1,group-title="FRANCE TV ", TV5 Monde Europe
 http://livetv.ktv.zone/61/play.m3u8
-#EXTINF:-1,group-title="FRANCE", CNBC Europe
+#EXTINF:-1,group-title="FRANCE TV ", CNBC Europe
 http://livetv.ktv.zone/62/play.m3u8
-#EXTINF:-1,group-title="FRANCE", Bloomberg
+#EXTINF:-1,group-title="FRANCE TV ", Bloomberg
 http://livetv.ktv.zone/63/play.m3u8
-#EXTINF:-1,group-title="FRANCE", Euronews FR
+#EXTINF:-1,group-title="FRANCE TV ", Euronews FR
 http://livetv.ktv.zone/73/play.m3u8
-#EXTINF:-1,group-title="FRANCE", Eurosport (GER)
+#EXTINF:-1,group-title="FRANCE TV ", Eurosport (GER)
 http://livetv.ktv.zone/65/play.m3u8
-#EXTINF:-1,group-title="FRANCE", M6 Boutique & Co
+#EXTINF:-1,group-title="FRANCE TV ", M6 Boutique & Co
 http://livetv.ktv.zone/66/play.m3u8
-#EXTINF:-1,group-title="FRANCE", RTL II (AU)
+#EXTINF:-1,group-title="FRANCE TV ", RTL II (AU)
 http://livetv.ktv.zone/67/play.m3u8
-#EXTINF:-1,group-title="FRANCE", KIKA
+#EXTINF:-1,group-title="FRANCE TV ", KIKA
 http://livetv.ktv.zone/68/play.m3u8
-#EXTINF:-1,group-title="FRANCE", 3 SAT
+#EXTINF:-1,group-title="FRANCE TV ", 3 SAT
 http://livetv.ktv.zone/69/play.m3u8
-#EXTINF:-1,group-title="FRANCE", Telesur
+#EXTINF:-1,group-title="FRANCE TV ", Telesur
 http://livetv.ktv.zone/80/play.m3u8
-#EXTINF:-1,group-title="FRANCE", Galicia TV Europa
+#EXTINF:-1,group-title="FRANCE TV ", Galicia TV Europa
 http://livetv.ktv.zone/81/play.m3u8
-#EXTINF:-1,group-title="FRANCE", AD Sport1
+#EXTINF:-1,group-title="FRANCE TV ", AD Sport1
 http://livetv.ktv.zone/82/play.m3u8
-#EXTINF:-1,group-title="FRANCE", Al Sharqiya
+#EXTINF:-1,group-title="FRANCE TV ", Al Sharqiya
 http://livetv.ktv.zone/83/play.m3u8
-#EXTINF:-1,group-title="FRANCE", Al Arabiya
+#EXTINF:-1,group-title="FRANCE TV ", Al Arabiya
 http://livetv.ktv.zone/84/play.m3u8
-#EXTINF:-1,group-title="FRANCE", Sky News Arabia
+#EXTINF:-1,group-title="FRANCE TV ", Sky News Arabia
 http://livetv.ktv.zone/86/play.m3u8
-#EXTINF:-1,group-title="FRANCE", Dubai TV
+#EXTINF:-1,group-title="FRANCE TV ", Dubai TV
 http://livetv.ktv.zone/87/play.m3u8
-#EXTINF:-1,group-title="FRANCE", Dubai Sports
+#EXTINF:-1,group-title="FRANCE TV ", Dubai Sports
 http://livetv.ktv.zone/88/play.m3u8
-#EXTINF:-1,group-title="FRANCE", Sama Dubai
+#EXTINF:-1,group-title="FRANCE TV ", Sama Dubai
 http://livetv.ktv.zone/89/play.m3u8
-#EXTINF:-1,group-title="FRANCE", VOX (GER)
+#EXTINF:-1,group-title="FRANCE TV ", VOX (GER)
 http://livetv.ktv.zone/91/play.m3u8
-#EXTINF:-1,group-title="FRANCE", Record Inter
+#EXTINF:-1,group-title="FRANCE TV ", Record Inter
 http://livetv.ktv.zone/92/play.m3u8
-#EXTINF:-1,group-title="FRANCE", KTO
+#EXTINF:-1,group-title="FRANCE TV ", KTO
 http://livetv.ktv.zone/93/play.m3u8
-#EXTINF:-1,group-title="FRANCE", ZDF
+#EXTINF:-1,group-title="FRANCE TV ", ZDF
 http://livetv.ktv.zone/99/play.m3u8
-#EXTINF:-1,group-title="FRANCE", TF1 avec sous-titres
+#EXTINF:-1,group-title="FRANCE TV ", TF1 avec sous-titres
 http://livetv.ktv.zone/103/play.m3u8
-#EXTINF:-1,group-title="FRANCE", France 2 avec sous-titres
+#EXTINF:-1,group-title="FRANCE TV ", France 2 avec sous-titres
 http://livetv.ktv.zone/104/play.m3u8
-#EXTINF:-1,group-title="FRANCE", France 3 avec sous-titres
+#EXTINF:-1,group-title="FRANCE TV ", France 3 avec sous-titres
 http://livetv.ktv.zone/105/play.m3u8
-#EXTINF:-1,group-title="FRANCE", France 5 avec sous-titres
+#EXTINF:-1,group-title="FRANCE TV ", France 5 avec sous-titres
 http://livetv.ktv.zone/107/play.m3u8
-#EXTINF:-1,group-title="FRANCE", M6 avec sous-titres
+#EXTINF:-1,group-title="FRANCE TV ", M6 avec sous-titres
 http://livetv.ktv.zone/108/play.m3u8
-#EXTINF:-1,group-title="FRANCE", Arte avec sous-titres
+#EXTINF:-1,group-title="FRANCE TV ", Arte avec sous-titres
 http://livetv.ktv.zone/109/play.m3u8
-#EXTINF:-1,group-title="FRANCE", C8 avec sous-titres
+#EXTINF:-1,group-title="FRANCE TV ", C8 avec sous-titres
 http://livetv.ktv.zone/110/play.m3u8
-#EXTINF:-1,group-title="FRANCE", W9 avec sous-titres
+#EXTINF:-1,group-title="FRANCE TV ", W9 avec sous-titres
 http://livetv.ktv.zone/111/play.m3u8
-#EXTINF:-1,group-title="FRANCE", TMC avec sous-titres
+#EXTINF:-1,group-title="FRANCE TV ", TMC avec sous-titres
 http://livetv.ktv.zone/112/play.m3u8
-#EXTINF:-1,group-title="FRANCE", TFX avec sous-titres
+#EXTINF:-1,group-title="FRANCE TV ", TFX avec sous-titres
 http://livetv.ktv.zone/113/play.m3u8
-#EXTINF:-1,group-title="FRANCE", NRJ 12 avec sous-titres
+#EXTINF:-1,group-title="FRANCE TV ", NRJ 12 avec sous-titres
 http://livetv.ktv.zone/114/play.m3u8
-#EXTINF:-1,group-title="FRANCE", LCP avec sous-titres
+#EXTINF:-1,group-title="FRANCE TV ", LCP avec sous-titres
 http://livetv.ktv.zone/115/play.m3u8
-#EXTINF:-1,group-title="FRANCE", France 4 avec sous-titres
+#EXTINF:-1,group-title="FRANCE TV ", France 4 avec sous-titres
 http://livetv.ktv.zone/116/play.m3u8
-#EXTINF:-1,group-title="FRANCE", BFM TV avec sous-titres
+#EXTINF:-1,group-title="FRANCE TV ", BFM TV avec sous-titres
 http://livetv.ktv.zone/117/play.m3u8
-#EXTINF:-1,group-title="FRANCE", CNews avec sous-titres
+#EXTINF:-1,group-title="FRANCE TV ", CNews avec sous-titres
 http://livetv.ktv.zone/118/play.m3u8
-#EXTINF:-1,group-title="FRANCE", CStar avec sous-titres
+#EXTINF:-1,group-title="FRANCE TV ", CStar avec sous-titres
 http://livetv.ktv.zone/119/play.m3u8
-#EXTINF:-1,group-title="FRANCE", Gulli avec sous-titres
+#EXTINF:-1,group-title="FRANCE TV ", Gulli avec sous-titres
 http://livetv.ktv.zone/120/play.m3u8
-#EXTINF:-1,group-title="FRANCE", France O avec sous-titres
+#EXTINF:-1,group-title="FRANCE TV ", France O avec sous-titres
 http://livetv.ktv.zone/121/play.m3u8
-#EXTINF:-1,group-title="FRANCE", TF1 Séries Films avec sous-titres
+#EXTINF:-1,group-title="FRANCE TV ", TF1 Séries Films avec sous-titres
 http://livetv.ktv.zone/122/play.m3u8
-#EXTINF:-1,group-title="FRANCE", RTS Un avec sous-titres
+#EXTINF:-1,group-title="FRANCE TV ", RTS Un avec sous-titres
 http://livetv.ktv.zone/101/play.m3u8
-#EXTINF:-1,group-title="FRANCE", RTS Deux avec sous-titres
+#EXTINF:-1,group-title="FRANCE TV ", RTS Deux avec sous-titres
 http://livetv.ktv.zone/102/play.m3u8
-#EXTINF:-1,group-title="FRANCE", RTS Un
+#EXTINF:-1,group-title="FRANCE TV ", RTS Un
 http://livetv.ktv.zone/1/play.m3u8
-#EXTINF:-1,group-title="FRANCE", RTS Deux
+#EXTINF:-1,group-title="FRANCE TV ", RTS Deux
 http://livetv.ktv.zone/2/play.m3u8
-#EXTINF:-1,group-title="FRANCE", SRF 1
+#EXTINF:-1,group-title="FRANCE TV ", SRF 1
 http://livetv.ktv.zone/128/play.m3u8
-#EXTINF:-1,group-title="FRANCE", RSI La 1
+#EXTINF:-1,group-title="FRANCE TV ", RSI La 1
 http://livetv.ktv.zone/129/play.m3u8
-#EXTINF:-1,group-title="FRANCE", Rai 1
+#EXTINF:-1,group-title="FRANCE TV ", Rai 1
 http://livetv.ktv.zone/130/play.m3u8
-#EXTINF:-1,group-title="FRANCE", Rai 2
+#EXTINF:-1,group-title="FRANCE TV ", Rai 2
 http://livetv.ktv.zone/131/play.m3u8
-#EXTINF:-1,group-title="FRANCE", Rai 3
+#EXTINF:-1,group-title="FRANCE TV ", Rai 3
 http://livetv.ktv.zone/132/play.m3u8
-#EXTINF:-1,group-title="FRANCE", Rai News
+#EXTINF:-1,group-title="FRANCE TV ", Rai News
 http://livetv.ktv.zone/133/play.m3u8
-#EXTINF:-1,group-title="FRANCE", Dorcel TV
+#EXTINF:-1,group-title="FRANCE TV ", Dorcel TV
 http://livetv.ktv.zone/191/play.m3u8
-#EXTINF:-1,group-title="FRANCE", France 3
+#EXTINF:-1,group-title="FRANCE TV ", France 3
 http://livetv.ktv.zone/209/play.m3u8
-#EXTINF:-1,group-title="FRANCE", France 3 Alpes
+#EXTINF:-1,group-title="FRANCE TV ", France 3 Alpes
 http://livetv.ktv.zone/210/play.m3u8
-#EXTINF:-1,group-title="FRANCE", France 3 Alsace
+#EXTINF:-1,group-title="FRANCE TV ", France 3 Alsace
 http://livetv.ktv.zone/211/play.m3u8
-#EXTINF:-1,group-title="FRANCE", France 3 Aquitaine
+#EXTINF:-1,group-title="FRANCE TV ", France 3 Aquitaine
 http://livetv.ktv.zone/212/play.m3u8
-#EXTINF:-1,group-title="FRANCE", France 3 Auvergne
+#EXTINF:-1,group-title="FRANCE TV ", France 3 Auvergne
 http://livetv.ktv.zone/213/play.m3u8
-#EXTINF:-1,group-title="FRANCE", France 3 Basse-Normandie
+#EXTINF:-1,group-title="FRANCE TV ", France 3 Basse-Normandie
 http://livetv.ktv.zone/214/play.m3u8
-#EXTINF:-1,group-title="FRANCE", France 3 Bourgogne
+#EXTINF:-1,group-title="FRANCE TV ", France 3 Bourgogne
 http://livetv.ktv.zone/215/play.m3u8
-#EXTINF:-1,group-title="FRANCE", France 3 Bretagne
+#EXTINF:-1,group-title="FRANCE TV ", France 3 Bretagne
 http://livetv.ktv.zone/216/play.m3u8
-#EXTINF:-1,group-title="FRANCE", France 3 Centre
+#EXTINF:-1,group-title="FRANCE TV ", France 3 Centre
 http://livetv.ktv.zone/217/play.m3u8
-#EXTINF:-1,group-title="FRANCE", France 3 Champagne-Ardenne
+#EXTINF:-1,group-title="FRANCE TV ", France 3 Champagne-Ardenne
 http://livetv.ktv.zone/218/play.m3u8
-#EXTINF:-1,group-title="FRANCE", France 3 Côte d'Azur
+#EXTINF:-1,group-title="FRANCE TV ", France 3 Côte d'Azur
 http://livetv.ktv.zone/220/play.m3u8
-#EXTINF:-1,group-title="FRANCE", France 3 Franche-Comté
+#EXTINF:-1,group-title="FRANCE TV ", France 3 Franche-Comté
 http://livetv.ktv.zone/221/play.m3u8
-#EXTINF:-1,group-title="FRANCE", France 3 Haute-Normandie
+#EXTINF:-1,group-title="FRANCE TV ", France 3 Haute-Normandie
 http://livetv.ktv.zone/222/play.m3u8
-#EXTINF:-1,group-title="FRANCE", France 3 Languedoc
+#EXTINF:-1,group-title="FRANCE TV ", France 3 Languedoc
 http://livetv.ktv.zone/223/play.m3u8
-#EXTINF:-1,group-title="FRANCE", France 3 Limousin
+#EXTINF:-1,group-title="FRANCE TV ", France 3 Limousin
 http://livetv.ktv.zone/224/play.m3u8
-#EXTINF:-1,group-title="FRANCE", France 3 Lorraine
+#EXTINF:-1,group-title="FRANCE TV ", France 3 Lorraine
 http://livetv.ktv.zone/225/play.m3u8
-#EXTINF:-1,group-title="FRANCE", France 3 Midi-Pyrénées
+#EXTINF:-1,group-title="FRANCE TV ", France 3 Midi-Pyrénées
 http://livetv.ktv.zone/226/play.m3u8
-#EXTINF:-1,group-title="FRANCE", France 3 Nord Pas-de-Calais
+#EXTINF:-1,group-title="FRANCE TV ", France 3 Nord Pas-de-Calais
 http://livetv.ktv.zone/227/play.m3u8
-#EXTINF:-1,group-title="FRANCE", France 3 Paris Ile-de-France
+#EXTINF:-1,group-title="FRANCE TV ", France 3 Paris Ile-de-France
 http://livetv.ktv.zone/228/play.m3u8
-#EXTINF:-1,group-title="FRANCE", France 3 Pays de la Loire
+#EXTINF:-1,group-title="FRANCE TV ", France 3 Pays de la Loire
 http://livetv.ktv.zone/229/play.m3u8
-#EXTINF:-1,group-title="FRANCE", France 3 Picardie
+#EXTINF:-1,group-title="FRANCE TV ", France 3 Picardie
 http://livetv.ktv.zone/230/play.m3u8
-#EXTINF:-1,group-title="FRANCE", France 3 Poitou-Charentes
+#EXTINF:-1,group-title="FRANCE TV ", France 3 Poitou-Charentes
 http://livetv.ktv.zone/231/play.m3u8
-#EXTINF:-1,group-title="FRANCE", France 3 Provence-Alpes
+#EXTINF:-1,group-title="FRANCE TV ", France 3 Provence-Alpes
 http://livetv.ktv.zone/232/play.m3u8
-#EXTINF:-1,group-title="FRANCE", France 3 Rhône-Alpes
+#EXTINF:-1,group-title="FRANCE TV ", France 3 Rhône-Alpes
 http://livetv.ktv.zone/233/play.m3u8
-#EXTINF:-1,group-title="FRANCE", FB Nord
+#EXTINF:-1,group-title="RADIO FRANCE", FB Nord
 http://direct.francebleu.fr/live/fbnord-midfi.mp3
-#EXTINF:-1,group-title="FRANCE", FB Basse-Normandie
+#EXTINF:-1,group-title="RADIO FRANCE", FB Basse-Normandie
 http://direct.francebleu.fr/live/fbbassenormandie-midfi.mp3
-#EXTINF:-1,group-title="FRANCE", FB Besançon
+#EXTINF:-1,group-title="RADIO FRANCE", FB Besançon
 http://direct.francebleu.fr/live/fbbesancon-midfi.mp3
-#EXTINF:-1,group-title="FRANCE", FB 107.1
+#EXTINF:-1,group-title="RADIO FRANCE", FB 107.1
 http://direct.francebleu.fr/live/fb1071-midfi.mp3
-#EXTINF:-1,group-title="FRANCE", FB Sud Lorraine
+#EXTINF:-1,group-title="RADIO FRANCE", FB Sud Lorraine
 http://direct.francebleu.fr/live/fbsudlorraine-midfi.mp3
-#EXTINF:-1,group-title="FRANCE", FB Haute-Normandie
+#EXTINF:-1,group-title="RADIO FRANCE", FB Haute-Normandie
 http://direct.francebleu.fr/live/fbhautenormandie-midfi.mp3
-#EXTINF:-1,group-title="FRANCE", FB Picardie
+#EXTINF:-1,group-title="RADIO FRANCE", FB Picardie
 http://direct.francebleu.fr/live/fbpicardie-midfi.mp3
-#EXTINF:-1,group-title="FRANCE", France Culture
+#EXTINF:-1,group-title="RADIO FRANCE", France Culture
 http://direct.franceculture.fr/live/franceculture-midfi.mp3
-#EXTINF:-1,group-title="FRANCE", France Info
+#EXTINF:-1,group-title="RADIO FRANCE", France Info
 http://direct.franceinfo.fr/live/franceinfo-midfi.mp3
-#EXTINF:-1,group-title="FRANCE", France Inter
+#EXTINF:-1,group-title="RADIO FRANCE", France Inter
 http://direct.franceinter.fr/live/franceinter-midfi.mp3
-#EXTINF:-1,group-title="FRANCE", France Musique
+#EXTINF:-1,group-title="RADIO FRANCE", France Musique
 http://direct.francemusique.fr/live/francemusique-midfi.mp3
-#EXTINF:-1,group-title="FRANCE", Le Mouv'
+#EXTINF:-1,group-title="RADIO FRANCE", Le Mouv'
 http://direct.mouv.fr/live/mouv-midfi.mp3
-#EXTINF:-1,group-title="FRANCE", Evasion FM
+#EXTINF:-1,group-title="RADIO FRANCE", Evasion FM
 http://stream1.evasionfm.com/Paris
-#EXTINF:-1,group-title="FRANCE", Fun Radio
+#EXTINF:-1,group-title="RADIO FRANCE", Fun Radio
 http://ais.rtl.fr:80/fun-1-44-128
-#EXTINF:-1,group-title="FRANCE", Jazz Radio
+#EXTINF:-1,group-title="RADIO FRANCE", Jazz Radio
 http://jazzradio.ice.infomaniak.ch/jazzradio-high.mp3
-#EXTINF:-1,group-title="FRANCE", Montagne FM
+#EXTINF:-1,group-title="RADIO FRANCE", Montagne FM
 http://montagnefm.ice.infomaniak.ch/montagnefm-96.mp3
-#EXTINF:-1,group-title="FRANCE", Radio Evasion
+#EXTINF:-1,group-title="RADIO FRANCE", Radio Evasion
 http://radioevasion.fr:8020/;stream.nsv
-#EXTINF:-1,group-title="FRANCE", Radio Campus Lille
+#EXTINF:-1,group-title="RADIO FRANCE", Radio Campus Lille
 http://radiocampuslille.bcast.infomaniak.ch:8000/radiocampuslille-128.mp3
-#EXTINF:-1,group-title="FRANCE", Radio Campus Paris
+#EXTINF:-1,group-title="RADIO FRANCE", Radio Campus Paris
 http://www.radiocampusparis.org:8000/stream_rcp
-#EXTINF:-1,group-title="FRANCE", RFM
+#EXTINF:-1,group-title="RADIO FRANCE", RFM
 http://rfm-live-mp3-128.scdn.arkena.com/rfm.mp3
-#EXTINF:-1,group-title="FRANCE", RTL
+#EXTINF:-1,group-title="RADIO FRANCE", RTL
 http://ais.rtl.fr:80/rtl-1-44-128
-#EXTINF:-1,group-title="FRANCE", RTL2
+#EXTINF:-1,group-title="RADIO FRANCE", RTL2
 http://ais.rtl.fr:80/rtl2-1-44-128
-#EXTINF:-1,group-title="FRANCE", Nostalgie
+#EXTINF:-1,group-title="RADIO FRANCE", Nostalgie
 http://185.52.127.132/fr/30601/aac_64.mp3?origine=playernostalgie
-#EXTINF:-1,group-title="FRANCE", NRJ
+#EXTINF:-1,group-title="RADIO FRANCE", NRJ
 http://cdn.nrjaudio.fm/audio1/fr/30001/mp3_128.mp3?origine=fluxradios
-#EXTINF:-1,group-title="FRANCE", Ouï FM
+#EXTINF:-1,group-title="RADIO FRANCE", Ouï FM
 http://ouifm.ice.infomaniak.ch/ouifm-high.mp3
-#EXTINF:-1,group-title="FRANCE", Radio Classique
+#EXTINF:-1,group-title="RADIO FRANCE", Radio Classique
 http://radioclassique.ice.infomaniak.ch/radioclassique-high.mp3?ua=wwwradioclassique
-#EXTINF:-1,group-title="FRANCE", Europe 1
+#EXTINF:-1,group-title="RADIO FRANCE", Europe 1
 http://mp3lg3.scdn.arkena.com/10489/europe1.mp3
-#EXTINF:-1,group-title="FRANCE", Rire et Chanson
+#EXTINF:-1,group-title="RADIO FRANCE", Rire et Chanson
 http://cdn.nrjaudio.fm/audio1/fr/30401/mp3_128.mp3?origine=fluxradios
-#EXTINF:-1,group-title="FRANCE", RMC
+#EXTINF:-1,group-title="RADIO FRANCE", RMC
 http://chai5she.cdn.dvmr.fr/rmcinfo
-#EXTINF:-1,group-title="FRANCE", BFM
+#EXTINF:-1,group-title="RADIO FRANCE", BFM
 http://bfmbusiness.cdn.dvmr.fr/bfmbusiness
-#EXTINF:-1,group-title="FRANCE", Chérie FM
+#EXTINF:-1,group-title="RADIO FRANCE", Chérie FM
 http://185.52.127.132/fr/30201/aac_64.mp3?origine=playercherie
-#EXTINF:-1,group-title="FRANCE", Skyrock
+#EXTINF:-1,group-title="RADIO FRANCE", Skyrock
 http://icecast.skyrock.net/s/natio_mp3_128k
-#EXTINF:-1,group-title="FRANCE", Voltage
+#EXTINF:-1,group-title="RADIO FRANCE", Voltage
 http://start-voltage.ice.infomaniak.ch/start-voltage-high.aac
-#EXTINF:-1,group-title="FRANCE", Virgin Radio
+#EXTINF:-1,group-title="RADIO FRANCE", Virgin Radio
 http://mp3lg3.scdn.arkena.com/10490/virginradio.mp3
-#EXTINF:-1,group-title="FRANCE", Vibration
+#EXTINF:-1,group-title="RADIO FRANCE", Vibration
 http://vibration.ice.infomaniak.ch:80/vibration-high.aac
-#EXTINF:-1,group-title="FRANCE", Ado
+#EXTINF:-1,group-title="RADIO FRANCE", Ado
 http://broadcast.infomaniak.ch/start-adofm-high.mp3
-#EXTINF:-1,group-title="FRANCE", Fip
+#EXTINF:-1,group-title="RADIO FRANCE", Fip
 http://direct.fipradio.fr/live/fip-midfi.mp3
-#EXTINF:-1,group-title="FRANCE", Grosse Radio Reggae
+#EXTINF:-1,group-title="RADIO FRANCE", Grosse Radio Reggae
 http://hd.lagrosseradio.info:8300/;stream.nsv
-#EXTINF:-1,group-title="FRANCE", Latina
+#EXTINF:-1,group-title="RADIO FRANCE", Latina
 http://broadcast.infomaniak.net/start-latina-high.mp3
-#EXTINF:-1,group-title="FRANCE", mKm Caraïbes
+#EXTINF:-1,group-title="RADIO FRANCE", mKm Caraïbes
 http://mkmradio.com:8000/;file.mp3
-#EXTINF:-1,group-title="FRANCE", Grosse Radio Metal
+#EXTINF:-1,group-title="RADIO FRANCE", Grosse Radio Metal
 http://hd.lagrosseradio.info:8200/;stream.nsv
-#EXTINF:-1,group-title="FRANCE", Grosse Radio Rock
+#EXTINF:-1,group-title="RADIO FRANCE", Grosse Radio Rock
 http://hd.lagrosseradio.info:8500/;stream.nsv
-#EXTINF:-1,group-title="FRANCE", Radio Metal
+#EXTINF:-1,group-title="RADIO FRANCE", Radio Metal
 http://stream.radiometal.com:8010
-#EXTINF:-1,group-title="FRANCE", Ouï FM Alternative Rock
+#EXTINF:-1,group-title="RADIO FRANCE", Ouï FM Alternative Rock
 http://ouifm2.ice.infomaniak.ch/ouifm2.mp3
-#EXTINF:-1,group-title="FRANCE", Ouï FM Classique Rock
+#EXTINF:-1,group-title="RADIO FRANCE", Ouï FM Classique Rock
 http://ouifm3.ice.infomaniak.ch/ouifm3.mp3
-#EXTINF:-1,group-title="FRANCE", Ouï FM Rock Indé
+#EXTINF:-1,group-title="RADIO FRANCE", Ouï FM Rock Indé
 http://ouifm5.ice.infomaniak.ch/ouifm5.mp3
-#EXTINF:-1,group-title="FRANCE", Nostalgie Tous les tubes
+#EXTINF:-1,group-title="RADIO FRANCE", Nostalgie Tous les tubes
 http://cdn.nrjaudio.fm/adwz1/fr/30699/mp3_128.mp3?origine=fluxradios
-#EXTINF:-1,group-title="FRANCE", Nostalgie 100 Légendes
+#EXTINF:-1,group-title="RADIO FRANCE", Nostalgie 100 Légendes
 http://cdn.nrjaudio.fm/adwz1/fr/55196/mp3_128.mp3?origine=fluxradios
-#EXTINF:-1,group-title="FRANCE", Nostalgie Starts 80
+#EXTINF:-1,group-title="RADIO FRANCE", Nostalgie Starts 80
 http://cdn.nrjaudio.fm/adwz1/fr/30683/mp3_128.mp3?origine=fluxradios
-#EXTINF:-1,group-title="FRANCE", Nostalgie Tous les plus grands tubes Français
+#EXTINF:-1,group-title="RADIO FRANCE", Nostalgie Tous les plus grands tubes Français
 http://cdn.nrjaudio.fm/adwz1/fr/30705/mp3_128.mp3?origine=fluxradios
-#EXTINF:-1,group-title="FRANCE", Nostalgie Blues
+#EXTINF:-1,group-title="RADIO FRANCE", Nostalgie Blues
 http://cdn.nrjaudio.fm/adwz1/fr/30639/mp3_128.mp3?origine=fluxradios
-#EXTINF:-1,group-title="FRANCE", Nostalgie Les essentiels
+#EXTINF:-1,group-title="RADIO FRANCE", Nostalgie Les essentiels
 http://cdn.nrjaudio.fm/adwz1/fr/30627/mp3_128.mp3?origine=fluxradios
-#EXTINF:-1,group-title="FRANCE", Nostalgie Disco fever
+#EXTINF:-1,group-title="RADIO FRANCE", Nostalgie Disco fever
 http://cdn.nrjaudio.fm/adwz1/fr/30617/mp3_128.mp3?origine=fluxradios
-#EXTINF:-1,group-title="FRANCE", Nostalgie Chansons Françaises
+#EXTINF:-1,group-title="RADIO FRANCE", Nostalgie Chansons Françaises
 http://cdn.nrjaudio.fm/adwz1/fr/30611/mp3_128.mp3?origine=fluxradios
-#EXTINF:-1,group-title="FRANCE", Nostalgie Funk
+#EXTINF:-1,group-title="RADIO FRANCE", Nostalgie Funk
 http://185.52.127.131/fr/30607/aac_64.mp3?origine=playerweb
-#EXTINF:-1,group-title="FRANCE", Nostalgie Poetes
+#EXTINF:-1,group-title="RADIO FRANCE", Nostalgie Poetes
 http://cdn.nrjaudio.fm/adwz1/fr/30619/mp3_128.mp3?origine=fluxradios
-#EXTINF:-1,group-title="FRANCE", Nostalgie Italia
+#EXTINF:-1,group-title="RADIO FRANCE", Nostalgie Italia
 http://cdn.nrjaudio.fm/adwz1/fr/30663/mp3_128.mp3?origine=fluxradios
-#EXTINF:-1,group-title="FRANCE", Nostalgie Best of 80's
+#EXTINF:-1,group-title="RADIO FRANCE", Nostalgie Best of 80's
 http://cdn.nrjaudio.fm/adwz1/fr/30605/mp3_128.mp3?origine=fluxradios
-#EXTINF:-1,group-title="FRANCE", Nostalgie Best of 70's
+#EXTINF:-1,group-title="RADIO FRANCE", Nostalgie Best of 70's
 http://cdn.nrjaudio.fm/adwz1/fr/30613/mp3_128.mp3?origine=fluxradios
-#EXTINF:-1,group-title="FRANCE", Nostalgie Best of 60's
+#EXTINF:-1,group-title="RADIO FRANCE", Nostalgie Best of 60's
 http://cdn.nrjaudio.fm/adwz1/fr/30615/mp3_128.mp3?origine=fluxradios
-#EXTINF:-1,group-title="FRANCE", Nostalgie Rock
+#EXTINF:-1,group-title="RADIO FRANCE", Nostalgie Rock
 http://cdn.nrjaudio.fm/adwz1/fr/30621/mp3_128.mp3?origine=fluxradios
-#EXTINF:-1,group-title="FRANCE", Nostalgie Slow de légendes
+#EXTINF:-1,group-title="RADIO FRANCE", Nostalgie Slow de légendes
 http://cdn.nrjaudio.fm/adwz1/fr/30609/mp3_128.mp3?origine=fluxradios
-#EXTINF:-1,group-title="FRANCE", Nostalgie Johnny Hallyday
+#EXTINF:-1,group-title="RADIO FRANCE", Nostalgie Johnny Hallyday
 http://cdn.nrjaudio.fm/audio1/fr/55374/mp3_128.mp3?origine=fluxradios
-#EXTINF:-1,group-title="FRANCE", 100% hard rock
+#EXTINF:-1,group-title="RADIO FRANCE", 100% hard rock
 http://streaming.radionomy.com/100-HARD-ROCK?ad=radionoweb
-#EXTINF:-1,group-title="FRANCE", Radiomeuh
+#EXTINF:-1,group-title="RADIO FRANCE", Radiomeuh
 http://radiomeuh.ice.infomaniak.ch/radiomeuh-128.mp3
-#EXTINF:-1,group-title="FRANCE", Jazz24
+#EXTINF:-1,group-title="RADIO FRANCE", Jazz24
 http://icy1.abacast.com:80/kplu-jazz24aac-64
-#EXTINF:-1,group-title="FRANCE", Radio Paradise
+#EXTINF:-1,group-title="RADIO FRANCE", Radio Paradise
 http://stream-dc1.radioparadise.com:80/mp3-128
-#EXTINF:-1,group-title="FRANCE", Radio21
+#EXTINF:-1,group-title="RADIO FRANCE", Radio21
 http://streaming.radionomy.com/FestivalPhotoMontier
-#EXTINF:-1,group-title="FRANCE", RTS La 1ere
+#EXTINF:-1,group-title="RADIO FRANCE", RTS La 1ere
 http://stream.srg-ssr.ch/m/la-1ere/mp3_128
-#EXTINF:-1,group-title="FRANCE", One FM
+#EXTINF:-1,group-title="RADIO FRANCE", One FM
 http://broadcast.infomaniak.ch/onefm-high.mp3
-#EXTINF:-1,group-title="FRANCE", Rhone FM
+#EXTINF:-1,group-title="RADIO FRANCE", Rhone FM
 http://rhonefm.ice.infomaniak.ch:80/rhonefm-high.mp3
-#EXTINF:-1,group-title="FRANCE", Rouge FM
+#EXTINF:-1,group-title="RADIO FRANCE", Rouge FM
 http://broadcast.infomaniak.net/rougefm-high.mp3
-#EXTINF:-1,group-title="FRANCE", Yes FM
+#EXTINF:-1,group-title="RADIO FRANCE", Yes FM
 http://yesfm.ice.infomaniak.ch:80/yesfm-high
-#EXTINF:-1,group-title="FRANCE", RTS Couleur 3
+#EXTINF:-1,group-title="RADIO FRANCE", RTS Couleur 3
 http://stream.srg-ssr.ch/m/couleur3/mp3_128
-#EXTINF:-1,group-title="FRANCE", RTS Option Musique
+#EXTINF:-1,group-title="RADIO FRANCE", RTS Option Musique
 http://stream.srg-ssr.ch/m/option-musique/mp3_128
-#EXTINF:-1,group-title="FRANCE", LFM
+#EXTINF:-1,group-title="RADIO FRANCE", LFM
 http://lausannefm.ice.infomaniak.ch:80/lausannefm-high
-#EXTINF:-1,group-title="FRANCE", Radio Cite Geneve
+#EXTINF:-1,group-title="RADIO FRANCE", Radio Cite Geneve
 http://radiocite.ice.infomaniak.ch:80/radiocite-highest.aac
-#EXTINF:-1,group-title="FRANCE", SRF 1
+#EXTINF:-1,group-title="RADIO FRANCE", SRF 1
 http://stream.srg-ssr.ch/m/drs1/mp3_128
-#EXTINF:-1,group-title="FRANCE", SRF 2
+#EXTINF:-1,group-title="RADIO FRANCE", SRF 2
 http://stream.srg-ssr.ch/m/drs2/mp3_128
-#EXTINF:-1,group-title="FRANCE", SRF 3
+#EXTINF:-1,group-title="RADIO FRANCE", SRF 3
 http://stream.srg-ssr.ch/m/drs3/mp3_128
-#EXTINF:-1,group-title="FRANCE", SRF Virus
+#EXTINF:-1,group-title="RADIO FRANCE", SRF Virus
 http://stream.srg-ssr.ch/m/drsvirus/mp3_128
-#EXTINF:-1,group-title="FRANCE", SRF Musikwelle
+#EXTINF:-1,group-title="RADIO FRANCE", SRF Musikwelle
 http://stream.srg-ssr.ch/m/drsmw/mp3_128
-#EXTINF:-1,group-title="FRANCE", Radio 1
+#EXTINF:-1,group-title="RADIO FRANCE", Radio 1
 http://radio.nello.tv:80/128k
-#EXTINF:-1,group-title="FRANCE", Radio 32
+#EXTINF:-1,group-title="RADIO FRANCE", Radio 32
 http://radio32-stream.customer.solnet.ch:8000/radio32
-#EXTINF:-1,group-title="FRANCE", Radio Argovia
+#EXTINF:-1,group-title="RADIO FRANCE", Radio Argovia
 http://icecastgreen.argovia.ch:80/argovia128
-#EXTINF:-1,group-title="FRANCE", Energy Basel
+#EXTINF:-1,group-title="RADIO FRANCE", Energy Basel
 https://energybasel.ice.infomaniak.ch/energybasel-high.mp3
-#EXTINF:-1,group-title="FRANCE", Radio BEO
+#EXTINF:-1,group-title="RADIO FRANCE", Radio BEO
 http://87.237.169.123:8000/radiobeo.mp3
-#EXTINF:-1,group-title="FRANCE", Radio Bern1
+#EXTINF:-1,group-title="RADIO FRANCE", Radio Bern1
 http://www.radiobern1.ch/webstream.mp3
-#EXTINF:-1,group-title="FRANCE", Radio Chablais
+#EXTINF:-1,group-title="RADIO FRANCE", Radio Chablais
 http://radiochablais.ice.infomaniak.ch/radiochablais-high.mp3
-#EXTINF:-1,group-title="FRANCE", Energy Bern
+#EXTINF:-1,group-title="RADIO FRANCE", Energy Bern
 http://energybern.ice.infomaniak.ch:80/energybern-high
-#EXTINF:-1,group-title="FRANCE", Energy Zurich
+#EXTINF:-1,group-title="RADIO FRANCE", Energy Zurich
 http://energyzuerich.ice.infomaniak.ch:80/energyzuerich-high
-#EXTINF:-1,group-title="FRANCE", Radio Fribourg
+#EXTINF:-1,group-title="RADIO FRANCE", Radio Fribourg
 http://radiofribourg.ice.infomaniak.ch/radiofribourg-high.mp3
-#EXTINF:-1,group-title="FRANCE", Radio Grischa
+#EXTINF:-1,group-title="RADIO FRANCE", Radio Grischa
 http://streaming.swisstxt.ch/m/grischa/mp3_128
-#EXTINF:-1,group-title="FRANCE", Radio Kaiseregg
+#EXTINF:-1,group-title="RADIO FRANCE", Radio Kaiseregg
 http://kaiseregg.ice.infomaniak.ch:80/stream128k
-#EXTINF:-1,group-title="FRANCE", Kanal K
+#EXTINF:-1,group-title="RADIO FRANCE", Kanal K
 http://stream.kanalk.ch:8050/kanalk.mp3
-#EXTINF:-1,group-title="FRANCE", Radio Munot
+#EXTINF:-1,group-title="RADIO FRANCE", Radio Munot
 http://87.245.121.106/rm
-#EXTINF:-1,group-title="FRANCE", neo1
+#EXTINF:-1,group-title="RADIO FRANCE", neo1
 http://stream-02.zic-network.ch:8000/neo1
-#EXTINF:-1,group-title="FRANCE", Radio Pilatus
+#EXTINF:-1,group-title="RADIO FRANCE", Radio Pilatus
 http://radiopilatus.ice.infomaniak.ch/radiopilatus-128-gm.mp3
-#EXTINF:-1,group-title="FRANCE", Radio 3i
+#EXTINF:-1,group-title="RADIO FRANCE", Radio 3i
 http://radio3i.ice.infomaniak.ch/radio3i-128.mp3
-#EXTINF:-1,group-title="FRANCE", Radio Rabe
+#EXTINF:-1,group-title="RADIO FRANCE", Radio Rabe
 http://stream.rabe.ch:8000/livestream/rabe-mid.mp3
-#EXTINF:-1,group-title="FRANCE", Radio Sunshine
+#EXTINF:-1,group-title="RADIO FRANCE", Radio Sunshine
 http://sunshinelive.hoerradar.de/sunshinelive-mp3-128
-#EXTINF:-1,group-title="FRANCE", Radio Top
+#EXTINF:-1,group-title="RADIO FRANCE", Radio Top
 http://str30.creacast.com/top_fm
-#EXTINF:-1,group-title="FRANCE", Radio Top Two
+#EXTINF:-1,group-title="RADIO FRANCE", Radio Top Two
 http://77.109.144.109:8000/twosrp128
-#EXTINF:-1,group-title="FRANCE", Radio Toxic FM
+#EXTINF:-1,group-title="RADIO FRANCE", Radio Toxic FM
 http://toxicfm.ice.infomaniak.ch/toxicfm-128
-#EXTINF:-1,group-title="FRANCE", Radio Zurisee
+#EXTINF:-1,group-title="RADIO FRANCE", Radio Zurisee
 http://radio.nello.tv:80/radiozuerisee128k
-#EXTINF:-1,group-title="FRANCE", RTR
+#EXTINF:-1,group-title="RADIO FRANCE", RTR
 http://stream.srg-ssr.ch/m/rr/mp3_128
-#EXTINF:-1,group-title="FRANCE", RTS Espace 2
+#EXTINF:-1,group-title="RADIO FRANCE", RTS Espace 2
 http://stream.srg-ssr.ch/m/espace-2/mp3_128
-#EXTINF:-1,group-title="FRANCE", RSI Rete Uno
+#EXTINF:-1,group-title="RADIO FRANCE", RSI Rete Uno
 http://stream.srg-ssr.ch/m/reteuno/mp3_128
-#EXTINF:-1,group-title="FRANCE", Oratorio Magi Radio
+#EXTINF:-1,group-title="RADIO FRANCE", Oratorio Magi Radio
 http://164.132.236.238:8000/om
-#EXTINF:-1,group-title="FRANCE", Paris One Dj Radio
+#EXTINF:-1,group-title="RADIO FRANCE", Paris One Dj Radio
 http://streaming.radionomy.com/parisoneclub?lang=fr%2cfr-FR%3bq%3d0.8%2cen-US%3bq%3d0.5%2cen%3bq%3d0.3
-#EXTINF:-1,group-title="FRANCE", Hotmix Radio
+#EXTINF:-1,group-title="RADIO FRANCE", Hotmix Radio
 http://streamingads.hotmixradio.fm/hotmixradio-80-64.aac
-#EXTINF:-1,group-title="FRANCE", Generation Disco Funk
+#EXTINF:-1,group-title="RADIO FRANCE", Generation Disco Funk
 http://stream.generationdiscofunk.com:8000/;strea
-#EXTINF:-1,group-title="FRANCE", Radio Nova
+#EXTINF:-1,group-title="RADIO FRANCE", Radio Nova
 http://novazz.ice.infomaniak.ch/novazz-128.mp3
-#EXTINF:-1,group-title="FRANCE", Radio Campus Amiens
+#EXTINF:-1,group-title="RADIO FRANCE", Radio Campus Amiens
 http://live.radio-campus.org:8000/amiens
-#EXTINF:-1,group-title="FRANCE", M Radio
+#EXTINF:-1,group-title="RADIO FRANCE", M Radio
 http://mfm.ice.infomaniak.ch/mfm-128.mp3
-#EXTINF:-1,group-title="FRANCE", RFM Summer
+#EXTINF:-1,group-title="RADIO FRANCE", RFM Summer
 http://rfm-live.akamaized.net/rfm.isml/rfm-audio=128000.m3u8
-#EXTINF:-1,group-title="FRANCE", RFM 100% Français
+#EXTINF:-1,group-title="RADIO FRANCE", RFM 100% Français
 http://rfm-wr11.akamaized.net/rfm.isml/rfm-audio=128000.m3u8
-#EXTINF:-1,group-title="FRANCE", RFM Hommage à Johnny
+#EXTINF:-1,group-title="RADIO FRANCE", RFM Hommage à Johnny
 http://rfm-wr14.akamaized.net/rfm.isml/rfm-audio=128000.m3u8
-#EXTINF:-1,group-title="FRANCE", RFM Night Fever
+#EXTINF:-1,group-title="RADIO FRANCE", RFM Night Fever
 http://rfm-wr2.akamaized.net/rfm.isml/rfm-audio=128000.m3u8
-#EXTINF:-1,group-title="FRANCE", RFM 100% Femmes
+#EXTINF:-1,group-title="RADIO FRANCE", RFM 100% Femmes
 http://rfm-wr3.akamaized.net/rfm.isml/rfm-audio=128000.m3u8
-#EXTINF:-1,group-title="FRANCE", RFM Cinéma
+#EXTINF:-1,group-title="RADIO FRANCE", RFM Cinéma
 http://rfm-wr15.akamaized.net/rfm.isml/rfm-audio=128000.m3u8
-#EXTINF:-1,group-title="FRANCE", RFM Collector
+#EXTINF:-1,group-title="RADIO FRANCE", RFM Collector
 http://rfm-wr1.akamaized.net/rfm.isml/rfm-audio=128000.m3u8
-#EXTINF:-1,group-title="FRANCE", RFM Lounge
+#EXTINF:-1,group-title="RADIO FRANCE", RFM Lounge
 http://rfm-wr6.akamaized.net/rfm.isml/rfm-audio=128000.m3u8
-#EXTINF:-1,group-title="FRANCE", RFM Party 90
+#EXTINF:-1,group-title="RADIO FRANCE", RFM Party 90
 http://rfm-wr5.akamaized.net/rfm.isml/rfm-audio=128000.m3u8
-#EXTINF:-1,group-title="FRANCE", RFM Slow
+#EXTINF:-1,group-title="RADIO FRANCE", RFM Slow
 http://rfm-wr13.akamaized.net/rfm.isml/rfm-audio=128000.m3u8
-#EXTINF:-1,group-title="FRANCE", RFM 100% New Wave
+#EXTINF:-1,group-title="RADIO FRANCE", RFM 100% New Wave
 http://rfm-wr12.akamaized.net/rfm.isml/rfm-audio=128000.m3u8
-#EXTINF:-1,group-title="FRANCE", RFM 80's
+#EXTINF:-1,group-title="RADIO FRANCE", RFM 80's
 http://rfm-wr4.akamaized.net/rfm.isml/rfm-audio=128000.m3u8
-#EXTINF:-1,group-title="FRANCE", RFM Pop Rock
+#EXTINF:-1,group-title="RADIO FRANCE", RFM Pop Rock
 http://rfm-wr10.akamaized.net/rfm.isml/rfm-audio=128000.m3u8
-#EXTINF:-1,group-title="FRANCE", RFM Run & Fit
+#EXTINF:-1,group-title="RADIO FRANCE", RFM Run & Fit
 http://rfm-wr9.akamaized.net/rfm.isml/rfm-audio=128000.m3u8
-#EXTINF:-1,group-title="FRANCE", Virgin Radio Hits
+#EXTINF:-1,group-title="RADIO FRANCE", Virgin Radio Hits
 http://vr-wr4-mp3-128.scdn.arkena.com/virginradio.mp3
-#EXTINF:-1,group-title="FRANCE", Virgin Radio New
+#EXTINF:-1,group-title="RADIO FRANCE", Virgin Radio New
 http://vr-wr1-mp3-128.scdn.arkena.com/virginradio.mp3
-#EXTINF:-1,group-title="FRANCE", Virgin Radio Electroshock
+#EXTINF:-1,group-title="RADIO FRANCE", Virgin Radio Electroshock
 http://vr-wr3-mp3-128.scdn.arkena.com/virginradio.mp3
-#EXTINF:-1,group-title="FRANCE", Virgin Tonic Radio
+#EXTINF:-1,group-title="RADIO FRANCE", Virgin Tonic Radio
 http://vr-wr6-mp3-128.scdn.arkena.com/virginradio.mp3
-#EXTINF:-1,group-title="FRANCE", Cauet/ sur Virgin Radio
+#EXTINF:-1,group-title="RADIO FRANCE", Cauet/ sur Virgin Radio
 http://vr-wr7-mp3-128.scdn.arkena.com/virginradio.mp3
-#EXTINF:-1,group-title="FRANCE", Virgin Radio Rock
+#EXTINF:-1,group-title="RADIO FRANCE", Virgin Radio Rock
 http://vr-wr5-mp3-128.scdn.arkena.com/virginradio.mp3
-#EXTINF:-1,group-title="FRANCE", Virgin Radio Classics
+#EXTINF:-1,group-title="RADIO FRANCE", Virgin Radio Classics
 http://vr-wr2-mp3-128.scdn.arkena.com/virginradio.mp3
-#EXTINF:-1,group-title="FRANCE", Chérie Zen
+#EXTINF:-1,group-title="RADIO FRANCE", Chérie Zen
 http://cdn.nrjaudio.fm/adwz1/fr/30203/aac_64.mp3
-#EXTINF:-1,group-title="FRANCE", Chérie Pop Love
+#EXTINF:-1,group-title="RADIO FRANCE", Chérie Pop Love
 http://cdn.nrjaudio.fm/adwz1/fr/56237/aac_64.mp3
-#EXTINF:-1,group-title="FRANCE", Chérie Love Songs
+#EXTINF:-1,group-title="RADIO FRANCE", Chérie Love Songs
 http://cdn.nrjaudio.fm/adwz1/fr/30207/aac_64.mp3
-#EXTINF:-1,group-title="FRANCE", Chérie Frenchy
+#EXTINF:-1,group-title="RADIO FRANCE", Chérie Frenchy
 http://cdn.nrjaudio.fm/adwz1/fr/30213/aac_64.mp3
-#EXTINF:-1,group-title="FRANCE", Chérie Nouveautés
+#EXTINF:-1,group-title="RADIO FRANCE", Chérie Nouveautés
 http://cdn.nrjaudio.fm/adwz1/fr/30255/aac_64.mp3
-#EXTINF:-1,group-title="FRANCE", Chérie Pop Love Le Best Of
+#EXTINF:-1,group-title="RADIO FRANCE", Chérie Pop Love Le Best Of
 http://cdn.nrjaudio.fm/adwz1/fr/56371/aac_64.mp3
-#EXTINF:-1,group-title="FRANCE", Chérie Les Plus Belles Voix
+#EXTINF:-1,group-title="RADIO FRANCE", Chérie Les Plus Belles Voix
 http://cdn.nrjaudio.fm/adwz1/fr/30317/aac_64.mp3
-#EXTINF:-1,group-title="FRANCE", Chérie Pop Love 40
+#EXTINF:-1,group-title="RADIO FRANCE", Chérie Pop Love 40
 http://cdn.nrjaudio.fm/adwz1/fr/56311/aac_64.mp3
-#EXTINF:-1,group-title="FRANCE", Chérie Coeur Brisé
+#EXTINF:-1,group-title="RADIO FRANCE", Chérie Coeur Brisé
 http://cdn.nrjaudio.fm/adwz1/fr/56303/aac_64.mp3
-#EXTINF:-1,group-title="FRANCE", Chérie Ballads
+#EXTINF:-1,group-title="RADIO FRANCE", Chérie Ballads
 http://cdn.nrjaudio.fm/adwz1/fr/30297/aac_64.mp3
-#EXTINF:-1,group-title="FRANCE", Chérie Italie
+#EXTINF:-1,group-title="RADIO FRANCE", Chérie Italie
 http://cdn.nrjaudio.fm/adwz1/fr/30219/aac_64.mp3
-#EXTINF:-1,group-title="FRANCE", Chérie No Repeat
+#EXTINF:-1,group-title="RADIO FRANCE", Chérie No Repeat
 http://cdn.nrjaudio.fm/adwz1/fr/30295/aac_64.mp3
-#EXTINF:-1,group-title="FRANCE", Chérie Acoustic
+#EXTINF:-1,group-title="RADIO FRANCE", Chérie Acoustic
 http://cdn.nrjaudio.fm/adwz1/fr/30269/aac_64.mp3
-#EXTINF:-1,group-title="FRANCE", Chérie At Work
+#EXTINF:-1,group-title="RADIO FRANCE", Chérie At Work
 http://cdn.nrjaudio.fm/adwz1/fr/30215/aac_64.mp3
-#EXTINF:-1,group-title="FRANCE", Chérie Sweet Home
+#EXTINF:-1,group-title="RADIO FRANCE", Chérie Sweet Home
 http://cdn.nrjaudio.fm/adwz1/fr/30289/aac_64.mp3
-#EXTINF:-1,group-title="FRANCE", Chérie Pop
+#EXTINF:-1,group-title="RADIO FRANCE", Chérie Pop
 http://cdn.nrjaudio.fm/adwz1/fr/30227/aac_64.mp3
-#EXTINF:-1,group-title="FRANCE", Chérie Emotions
+#EXTINF:-1,group-title="RADIO FRANCE", Chérie Emotions
 http://cdn.nrjaudio.fm/adwz1/fr/30313/aac_64.mp3
-#EXTINF:-1,group-title="FRANCE", Chérie Romantic
+#EXTINF:-1,group-title="RADIO FRANCE", Chérie Romantic
 http://cdn.nrjaudio.fm/adwz1/fr/30287/aac_64.mp3
-#EXTINF:-1,group-title="FRANCE", Chérie Party
+#EXTINF:-1,group-title="RADIO FRANCE", Chérie Party
 http://cdn.nrjaudio.fm/adwz1/fr/30261/aac_64.mp3
-#EXTINF:-1,group-title="FRANCE", Chérie A La Plage
+#EXTINF:-1,group-title="RADIO FRANCE", Chérie A La Plage
 http://cdn.nrjaudio.fm/adwz1/fr/56617/aac_64.mp3
-#EXTINF:-1,group-title="FRANCE", Chérie Eté
+#EXTINF:-1,group-title="RADIO FRANCE", Chérie Eté
 http://cdn.nrjaudio.fm/adwz1/fr/56583/aac_64.mp3
-#EXTINF:-1,group-title="FRANCE", Chérie Happy
+#EXTINF:-1,group-title="RADIO FRANCE", Chérie Happy
 http://cdn.nrjaudio.fm/adwz1/fr/30331/aac_64.mp3
-#EXTINF:-1,group-title="FRANCE", Chérie Latino
+#EXTINF:-1,group-title="RADIO FRANCE", Chérie Latino
 http://cdn.nrjaudio.fm/adwz1/fr/30247/aac_64.mp3
-#EXTINF:-1,group-title="FRANCE", Chérie Piano
+#EXTINF:-1,group-title="RADIO FRANCE", Chérie Piano
 http://cdn.nrjaudio.fm/adwz1/fr/56427/aac_64.mp3
-#EXTINF:-1,group-title="FRANCE", Chérie RNB Chic
+#EXTINF:-1,group-title="RADIO FRANCE", Chérie RNB Chic
 http://cdn.nrjaudio.fm/adwz1/fr/30275/aac_64.mp3
-#EXTINF:-1,group-title="FRANCE", Chérie Jazzy
+#EXTINF:-1,group-title="RADIO FRANCE", Chérie Jazzy
 http://cdn.nrjaudio.fm/adwz1/fr/30241/aac_64.mp3
-#EXTINF:-1,group-title="FRANCE", Chérie Collector
+#EXTINF:-1,group-title="RADIO FRANCE", Chérie Collector
 http://cdn.nrjaudio.fm/adwz1/fr/56408/aac_64.mp3
-#EXTINF:-1,group-title="FRANCE", Chérie 80's
+#EXTINF:-1,group-title="RADIO FRANCE", Chérie 80's
 http://cdn.nrjaudio.fm/adwz1/fr/30237/aac_64.mp3
-#EXTINF:-1,group-title="FRANCE", Chérie 90's
+#EXTINF:-1,group-title="RADIO FRANCE", Chérie 90's
 http://cdn.nrjaudio.fm/adwz1/fr/30239/aac_64.mp3
-#EXTINF:-1,group-title="FRANCE", Chérie Running
+#EXTINF:-1,group-title="RADIO FRANCE", Chérie Running
 http://cdn.nrjaudio.fm/adwz1/fr/55648/aac_64.mp3
-#EXTINF:-1,group-title="FRANCE", Chérie Fitness
+#EXTINF:-1,group-title="RADIO FRANCE", Chérie Fitness
 http://cdn.nrjaudio.fm/adwz1/fr/30283/aac_64.mp3
-#EXTINF:-1,group-title="FRANCE", Chérie Céline Dion
+#EXTINF:-1,group-title="RADIO FRANCE", Chérie Céline Dion
 http://cdn.nrjaudio.fm/adwz1/fr/55507/aac_64.mp3
-#EXTINF:-1,group-title="FRANCE", Chérie Jean-Jacques Goldman
+#EXTINF:-1,group-title="RADIO FRANCE", Chérie Jean-Jacques Goldman
 http://cdn.nrjaudio.fm/adwz1/fr/55562/aac_64.mp3
-#EXTINF:-1,group-title="FRANCE", M Radio Tubes du Grenier
+#EXTINF:-1,group-title="RADIO FRANCE", M Radio Tubes du Grenier
 http://mfmwr-001.ice.infomaniak.ch/mfmwr-001.mp3
-#EXTINF:-1,group-title="FRANCE", M Radio Le Meilleur Du Grand Réveil
+#EXTINF:-1,group-title="RADIO FRANCE", M Radio Le Meilleur Du Grand Réveil
 http://mfm-thema.ice.infomaniak.ch/mfm-thema.mp3
-#EXTINF:-1,group-title="FRANCE", M Radio 100% Voyance
+#EXTINF:-1,group-title="RADIO FRANCE", M Radio 100% Voyance
 http://mfmwr-025.ice.infomaniak.ch/mfmwr-025.mp3
-#EXTINF:-1,group-title="FRANCE", M Radio Dessin Animés
+#EXTINF:-1,group-title="RADIO FRANCE", M Radio Dessin Animés
 http://mfmwr-002.ice.infomaniak.ch/mfmwr-002.mp3
-#EXTINF:-1,group-title="FRANCE", M Radio N°1 du Top 50
+#EXTINF:-1,group-title="RADIO FRANCE", M Radio N°1 du Top 50
 http://mfmwr-007.ice.infomaniak.ch/mfmwr-007.mp3
-#EXTINF:-1,group-title="FRANCE", M Radio French Touch
+#EXTINF:-1,group-title="RADIO FRANCE", M Radio French Touch
 http://mfmwr-003.ice.infomaniak.ch/mfmwr-003.mp3
-#EXTINF:-1,group-title="FRANCE", M Radio 100% Québec
+#EXTINF:-1,group-title="RADIO FRANCE", M Radio 100% Québec
 http://mfmwr-004.ice.infomaniak.ch/mfmwr-004.mp3
-#EXTINF:-1,group-title="FRANCE", M Radio Nouveautés
+#EXTINF:-1,group-title="RADIO FRANCE", M Radio Nouveautés
 http://mfmwr-005.ice.infomaniak.ch/mfmwr-005.mp3
-#EXTINF:-1,group-title="FRANCE", M Radio 100% Johnny
+#EXTINF:-1,group-title="RADIO FRANCE", M Radio 100% Johnny
 http://mfmwr-006.ice.infomaniak.ch/mfmwr-006.mp3
-#EXTINF:-1,group-title="FRANCE", M Radio 100% Live
+#EXTINF:-1,group-title="RADIO FRANCE", M Radio 100% Live
 http://mfmwr-008.ice.infomaniak.ch/mfmwr-008.mp3
-#EXTINF:-1,group-title="FRANCE", M Radio Yéyé
+#EXTINF:-1,group-title="RADIO FRANCE", M Radio Yéyé
 http://mfmwr-009.ice.infomaniak.ch/mfmwr-009.mp3
-#EXTINF:-1,group-title="FRANCE", M Radio Années 80 et 90
+#EXTINF:-1,group-title="RADIO FRANCE", M Radio Années 80 et 90
 http://mfmwr-010.ice.infomaniak.ch/mfmwr-010.mp3
-#EXTINF:-1,group-title="FRANCE", M Radio 100% Enfoirés
+#EXTINF:-1,group-title="RADIO FRANCE", M Radio 100% Enfoirés
 http://mfmwr-011.ice.infomaniak.ch/mfmwr-011.mp3
-#EXTINF:-1,group-title="FRANCE", M Radio Nouvelle Scène
+#EXTINF:-1,group-title="RADIO FRANCE", M Radio Nouvelle Scène
 http://mfmwr-012.ice.infomaniak.ch/mfmwr-012.mp3
-#EXTINF:-1,group-title="FRANCE", M Radio Voix Féminines
+#EXTINF:-1,group-title="RADIO FRANCE", M Radio Voix Féminines
 http://mfmwr-013.ice.infomaniak.ch/mfmwr-013.mp3
-#EXTINF:-1,group-title="FRANCE", M Radio 100% Comédies Musicales
+#EXTINF:-1,group-title="RADIO FRANCE", M Radio 100% Comédies Musicales
 http://mfmwr-014.ice.infomaniak.ch/mfmwr-014.mp3
-#EXTINF:-1,group-title="FRANCE", M Radio Duos
+#EXTINF:-1,group-title="RADIO FRANCE", M Radio Duos
 http://mfmwr-015.ice.infomaniak.ch/mfmwr-015.mp3
-#EXTINF:-1,group-title="FRANCE", M Radio 100% Goldman
+#EXTINF:-1,group-title="RADIO FRANCE", M Radio 100% Goldman
 http://mfmwr-016.ice.infomaniak.ch/mfmwr-016.mp3
-#EXTINF:-1,group-title="FRANCE", M Radio Séducteurs
+#EXTINF:-1,group-title="RADIO FRANCE", M Radio Séducteurs
 http://mfmwr-017.ice.infomaniak.ch/mfmwr-017.mp3
-#EXTINF:-1,group-title="FRANCE", M Radio Francophonies
+#EXTINF:-1,group-title="RADIO FRANCE", M Radio Francophonies
 http://mfmwr-018.ice.infomaniak.ch/mfmwr-018.mp3
-#EXTINF:-1,group-title="FRANCE", M Radio Comptines
+#EXTINF:-1,group-title="RADIO FRANCE", M Radio Comptines
 http://mfmwr-019.ice.infomaniak.ch/mfmwr-019.mp3
-#EXTINF:-1,group-title="FRANCE", M Radio Années 2000
+#EXTINF:-1,group-title="RADIO FRANCE", M Radio Années 2000
 http://mfmwr-020.ice.infomaniak.ch/mfmwr-020.mp3
-#EXTINF:-1,group-title="FRANCE", M Radio Génériques TV
+#EXTINF:-1,group-title="RADIO FRANCE", M Radio Génériques TV
 http://mfmwr-021.ice.infomaniak.ch/mfmwr-021.mp3
-#EXTINF:-1,group-title="FRANCE", M Radio Culte Années 60 et 70
+#EXTINF:-1,group-title="RADIO FRANCE", M Radio Culte Années 60 et 70
 http://mfmwr-022.ice.infomaniak.ch/mfmwr-022.mp3
-#EXTINF:-1,group-title="FRANCE", M Radio 100% Céline Dion
+#EXTINF:-1,group-title="RADIO FRANCE", M Radio 100% Céline Dion
 http://mfmwr-023.ice.infomaniak.ch/mfmwr-023.mp3
-#EXTINF:-1,group-title="FRANCE", M Radio Voix du Sud
+#EXTINF:-1,group-title="RADIO FRANCE", M Radio Voix du Sud
 http://voix-du-sud.ice.infomaniak.ch/voix-du-sud.mp3
-#EXTINF:-1,group-title="FRANCE", Radio Béton
+#EXTINF:-1,group-title="RADIO FRANCE", Radio Béton
 http://51.254.220.198:8000/stream.mp3
-#EXTINF:-1,group-title="FRANCE", FB Provence
+#EXTINF:-1,group-title="RADIO FRANCE", FB Provence
 https://direct.francebleu.fr/live/fbprovence-midfi.mp3
-#EXTINF:-1,group-title="FRANCE", PulsRadio DANCE
+#EXTINF:-1,group-title="RADIO FRANCE", PulsRadio DANCE
 http://icecast.pulsradio.com/pulsHD.mp3
-#EXTINF:-1,group-title="FRANCE", PulsRadio LOUNGE
+#EXTINF:-1,group-title="RADIO FRANCE", PulsRadio LOUNGE
 http://icecast.pulsradio.com/relaxHD.mp3
-#EXTINF:-1,group-title="FRANCE", PulsRadio HITS
+#EXTINF:-1,group-title="RADIO FRANCE", PulsRadio HITS
 http://icecast.pulsradio.com/hitpartyHD.mp3
-#EXTINF:-1,group-title="FRANCE", PulsRadio 80
+#EXTINF:-1,group-title="RADIO FRANCE", PulsRadio 80
 http://icecast.pulsradio.com/magicradioHD.mp3
-#EXTINF:-1,group-title="FRANCE", PulsRadio CLUB
+#EXTINF:-1,group-title="RADIO FRANCE", PulsRadio CLUB
 http://icecast.pulsradio.com/mxHD.mp3
-#EXTINF:-1,group-title="FRANCE", PulsRadio TRANCE
+#EXTINF:-1,group-title="RADIO FRANCE", PulsRadio TRANCE
 http://icecast.pulsradio.com/pulstranceHD.mp3
-#EXTINF:-1,group-title="FRANCE", PulsRadio 2000
+#EXTINF:-1,group-title="RADIO FRANCE", PulsRadio 2000
 http://icecast.pulsradio.com/puls00HD.mp3
-#EXTINF:-1,group-title="FRANCE", PulsRadio 90
+#EXTINF:-1,group-title="RADIO FRANCE", PulsRadio 90
 http://icecast.pulsradio.com/puls90HD.mp3
-#EXTINF:-1,group-title="FRANCE", Chante France
+#EXTINF:-1,group-title="RADIO FRANCE", Chante France
 http://stream1.chantefrance.com/Chante_France
