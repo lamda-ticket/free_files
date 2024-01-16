@@ -639,3 +639,1166 @@ http://icecast.pulsradio.com/puls00HD.mp3
 http://icecast.pulsradio.com/puls90HD.mp3
 #EXTINF:-1,group-title="RADIO FRANCE", Chante France
 http://stream1.chantefrance.com/Chante_France
+
+
+
+#EXTINF:-1 tvg-id="tf1.fr" tvg-name="TF1" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/TF1.png" group-title="ON MAX",TF1
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2587
+#EXTINF:-1 tvg-id="" tvg-name="TF1 PLUS 1" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/tf1-plus-1(1).png" group-title="ON MAX",TF1 PLUS 1
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/75432
+#EXTINF:-1 tvg-id="france2.fr" tvg-name="FRANCE 2" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/FRANCE2FHD.png" group-title="ON MAX",FRANCE 2
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2588
+#EXTINF:-1 tvg-id="france3.fr" tvg-name="FRANCE 3" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/FRANCE3FHD.png" group-title="ON MAX",FRANCE 3
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2589
+#EXTINF:-1 tvg-id="france3nouvelleaquitaine.fr" tvg-name="FRANCE 3 NOA" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/noa2(1).png" group-title="ON MAX",FRANCE 3 NOA
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/146961
+#EXTINF:-1 tvg-id="france4.fr" tvg-name="FRANCE 4" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/FRANCE4FHD.png" group-title="ON MAX",FRANCE 4
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2590
+#EXTINF:-1 tvg-id="france5.fr" tvg-name="FRANCE 5" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/FRANCE5FHD.png" group-title="ON MAX",FRANCE 5
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2591
+#EXTINF:-1 tvg-id="6ter.fr" tvg-name="6TER" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/6TER.png" group-title="ON MAX",6TER
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2593
+#EXTINF:-1 tvg-id="m6.fr" tvg-name="M6" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/M6.png" group-title="ON MAX",M6
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2594
+#EXTINF:-1 tvg-id="tf1seriesfilms.fr" tvg-name="TF1 SERIES FILMS" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/TF1.png" group-title="ON MAX",TF1 SERIES FILMS
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2595
+#EXTINF:-1 tvg-id="tfx.fr" tvg-name="TFX" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/TFX.png" group-title="ON MAX",TFX
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2596
+#EXTINF:-1 tvg-id="#.No.Channel.#" tvg-name="C8" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/C8.jpg" group-title="ON MAX",C8
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2615
+#EXTINF:-1 tvg-id="w9.fr" tvg-name="W9" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/W9.png" group-title="ON MAX",W9
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2600
+#EXTINF:-1 tvg-id="rtl9.fr" tvg-name="RTL 9" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/RTL9.png" group-title="ON MAX",RTL 9
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2597
+#EXTINF:-1 tvg-id="teva.fr" tvg-name="TEVA" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/TEVAHD.png" group-title="ON MAX",TEVA
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2598
+#EXTINF:-1 tvg-id="tmc.fr" tvg-name="TMC" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/TMC-1.png" group-title="ON MAX",TMC
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2599
+#EXTINF:-1 tvg-id="" tvg-name="TMC PLUS 1" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/TMC-plus.png" group-title="ON MAX",TMC PLUS 1
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/75433
+#EXTINF:-1 tvg-id="reunion.fr" tvg-name="ANTENNE REUNION" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/antenne.png" group-title="ON MAX",ANTENNE REUNION
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/413105
+#EXTINF:-1 tvg-id="arte.fr" tvg-name="ARTE" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/ARTEHD.png" group-title="ON MAX",ARTE
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2601
+#EXTINF:-1 tvg-id="" tvg-name=" STAR ACADEMY" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/STAR%20ACADEMY.png" group-title="ON MAX", STAR ACADEMY
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/457201
+#EXTINF:-1 tvg-id="novelastv.fr" tvg-name="NOVELAS TV" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/NOVELASTV.png" group-title="ON MAX",NOVELAS TV
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2602
+#EXTINF:-1 tvg-id="tv5mondefrancebelgiquesuisse.fr" tvg-name="TV5 MONDE EUROPE" tvg-logo="http://lg.mygolden.xyz:8080/logo/CANADA/canadafr/TV5Monde.png" group-title="ON MAX",TV5 MONDE EUROPE
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/165693
+#EXTINF:-1 tvg-id="#.No.Channel.#" tvg-name="ONE TV" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/ONE1HD.png" group-title="ON MAX",ONE TV
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2603
+#EXTINF:-1 tvg-id="#.No.Channel.#" tvg-name="ROUGE TV" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/ROUGETVTV.png" group-title="ON MAX",ROUGE TV
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2604
+#EXTINF:-1 tvg-id="#.No.Channel.#" tvg-name="RTS UN" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/RTSUN.png" group-title="ON MAX",RTS UN
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2605
+#EXTINF:-1 tvg-id="#.No.Channel.#" tvg-name="RTS DEUX" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/RTSDEUX.png" group-title="ON MAX",RTS DEUX
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2606
+#EXTINF:-1 tvg-id="cstar.fr" tvg-name="CSTAR" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/C-STAR.png" group-title="ON MAX",CSTAR
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2607
+#EXTINF:-1 tvg-id="lachainemeteo.fr" tvg-name="LA CHAINE METEO" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/LACHAINEMETEO.png" group-title="ON MAX",LA CHAINE METEO
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2608
+#EXTINF:-1 tvg-id="mezzo.fr" tvg-name="MEZZO FR" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/MEZZO.png" group-title="ON MAX",MEZZO FR
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2609
+#EXTINF:-1 tvg-id="#.No.Channel.#" tvg-name="MUSEUM" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/MUSEUMTV.png" group-title="ON MAX",MUSEUM
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2610
+#EXTINF:-1 tvg-id="comedycentral.fr" tvg-name="COMEDY CENTRAL" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/COMEDYCENTRAL-1.png" group-title="ON MAX",COMEDY CENTRAL
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2612
+#EXTINF:-1 tvg-id="idf1.fr" tvg-name="IDF 1" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/IDF-1.png" group-title="ON MAX",IDF 1
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2618
+#EXTINF:-1 tvg-id="01tv.fr" tvg-name="OLYMPIA" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/OLYMPIA.png" group-title="ON MAX",OLYMPIA
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2619
+#EXTINF:-1 tvg-id="kto.fr" tvg-name="KTO" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/kto.png" group-title="ON MAX",KTO
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2620
+#EXTINF:-1 tvg-id="" tvg-name="VIA OCCITANIE TOULOUSE" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/VIA-OCCITANIE.png" group-title="ON MAX",VIA OCCITANIE TOULOUSE
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/75430
+#EXTINF:-1 tvg-id="" tvg-name="WEO" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/WEO.png" group-title="ON MAX",WEO
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/75431
+#EXTINF:-1 tvg-id="" tvg-name="WEO PICARDIE" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/WEO%20PICARDIE(2).png" group-title="ON MAX",WEO PICARDIE
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/75434
+#EXTINF:-1 tvg-id="" tvg-name="TL7" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/TL7.png" group-title="ON MAX",TL7
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/75435
+#EXTINF:-1 tvg-id="nauticalchannel.fr" tvg-name=" NAUTICAL CHANNEL" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/Nautical.png" group-title="ON MAX", NAUTICAL CHANNEL
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2748
+#EXTINF:-1 tvg-id="tf1.fr" tvg-name="TF1" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/TF1.png" group-title="ON MAX",TF1
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2626
+#EXTINF:-1 tvg-id="" tvg-name="TF1 PLUS 1" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/tf1-plus-1(1).png" group-title="ON MAX",TF1 PLUS 1
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/156499
+#EXTINF:-1 tvg-id="france2.fr" tvg-name="FRANCE 2⊚" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/FRANCE2FHD.png" group-title="ON MAX",FRANCE 2⊚
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2627
+#EXTINF:-1 tvg-id="france3.fr" tvg-name="FRANCE 3⊚" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/FRANCE3FHD.png" group-title="ON MAX",FRANCE 3⊚
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2628
+#EXTINF:-1 tvg-id="france3nouvelleaquitaine.fr" tvg-name="FR  ⋆ FRANCE 3 NOA" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/ALBANIA/3.png" group-title="ON MAX",FR  ⋆ FRANCE 3 NOA
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/171291
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE 3 NOA" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/noa2(1).png" group-title="ON MAX",FRANCE 3 NOA
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/75428
+#EXTINF:-1 tvg-id="france4.fr" tvg-name="FRANCE 4" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/FRANCE4FHD.png" group-title="ON MAX",FRANCE 4
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2629
+#EXTINF:-1 tvg-id="france5.fr" tvg-name="FRANCE 5" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/FRANCE5FHD.png" group-title="ON MAX",FRANCE 5
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2630
+#EXTINF:-1 tvg-id="6ter.fr" tvg-name="6TER" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/6TER.png" group-title="ON MAX",6TER
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2631
+#EXTINF:-1 tvg-id="m6.fr" tvg-name="M6" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/M6.png" group-title="ON MAX",M6
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2632
+#EXTINF:-1 tvg-id="tf1seriesfilms.fr" tvg-name="TF1 SERIES-FILMS" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/TF1.png" group-title="ON MAX",TF1 SERIES-FILMS
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2634
+#EXTINF:-1 tvg-id="" tvg-name="TV5 MONDE EUROPE" tvg-logo="http://lg.mygolden.xyz:8080/logo/CANADA/canadafr/TV5Monde.png" group-title="ON MAX",TV5 MONDE EUROPE
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/165691
+#EXTINF:-1 tvg-id="tfx.fr" tvg-name="TFX" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/TFX.png" group-title="ON MAX",TFX
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2635
+#EXTINF:-1 tvg-id="c8.fr" tvg-name="C8" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/C8.jpg" group-title="ON MAX",C8
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2654
+#EXTINF:-1 tvg-id="w9.fr" tvg-name="W9" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/W9.png" group-title="ON MAX",W9
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2639
+#EXTINF:-1 tvg-id="rtl9.fr" tvg-name="RTL 9" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/RTL9.png" group-title="ON MAX",RTL 9
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2636
+#EXTINF:-1 tvg-id="teva.fr" tvg-name="TEVA" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/TEVAHD.png" group-title="ON MAX",TEVA
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2637
+#EXTINF:-1 tvg-id="tmc.fr" tvg-name="TMC" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/TMC-1.png" group-title="ON MAX",TMC
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2638
+#EXTINF:-1 tvg-id="arte.fr" tvg-name="ARTE" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/ARTEHD.png" group-title="ON MAX",ARTE
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2640
+#EXTINF:-1 tvg-id="novelastv.fr" tvg-name="NOVELAS TV" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/NOVELASTV.png" group-title="ON MAX",NOVELAS TV
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2641
+#EXTINF:-1 tvg-id="#.No.Channel.#" tvg-name="ONE TV" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/ONETV.png" group-title="ON MAX",ONE TV
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2642
+#EXTINF:-1 tvg-id="nationalgeographicwild.pt" tvg-name="ROUGE TV" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/ROUGETVTV.png" group-title="ON MAX",ROUGE TV
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2643
+#EXTINF:-1 tvg-id="#.No.Channel.#" tvg-name="RTS UN" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/RTSUN.png" group-title="ON MAX",RTS UN
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2644
+#EXTINF:-1 tvg-id="#.No.Channel.#" tvg-name="RTS DEUX" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/RTSDEUX.png" group-title="ON MAX",RTS DEUX
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2645
+#EXTINF:-1 tvg-id="cstar.fr" tvg-name="CSTAR" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/C-STAR.png" group-title="ON MAX",CSTAR
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2646
+#EXTINF:-1 tvg-id="lachainemeteo.fr" tvg-name="LA CHAINE METEO" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/LACHAINEMETEO.png" group-title="ON MAX",LA CHAINE METEO
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2647
+#EXTINF:-1 tvg-id="mezzo.fr" tvg-name="MEZZO FR" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/MEZZO.png" group-title="ON MAX",MEZZO FR
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2648
+#EXTINF:-1 tvg-id="#.No.Channel.#" tvg-name="MUSEUM" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/MUSEUMTV.png" group-title="ON MAX",MUSEUM
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2649
+#EXTINF:-1 tvg-id="comedieplus.fr" tvg-name="COMEDIE+" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/COMEDIEPLUS.png" group-title="ON MAX",COMEDIE+
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2650
+#EXTINF:-1 tvg-id="comedycentral.fr" tvg-name="COMEDY CENTRAL" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/COMEDYCENTRAL-1.png" group-title="ON MAX",COMEDY CENTRAL
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2651
+#EXTINF:-1 tvg-id="" tvg-name="FR  ⋆ TMC PLUS 1" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/TMC-plus.png" group-title="ON MAX",FR  ⋆ TMC PLUS 1
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/171279
+#EXTINF:-1 tvg-id="idf1.fr" tvg-name="IDF 1" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/IDF-1.png" group-title="ON MAX",IDF 1
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2657
+#EXTINF:-1 tvg-id="01tv.fr" tvg-name="OLYMPIA" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/OLYMPIA.png" group-title="ON MAX",OLYMPIA
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2658
+#EXTINF:-1 tvg-id="" tvg-name="GOURMAND TV" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/Gourmet.png" group-title="ON MAX",GOURMAND TV
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/75442
+#EXTINF:-1 tvg-id="kto.fr" tvg-name="KTO" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/kto.png" group-title="ON MAX",KTO
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2663
+#EXTINF:-1 tvg-id="" tvg-name=" SQOOL TV" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/Sqool-TV-.png" group-title="ON MAX", SQOOL TV
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/75436
+#EXTINF:-1 tvg-id="" tvg-name="TOP SANTE TV" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/topsante.png" group-title="ON MAX",TOP SANTE TV
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/75440
+#EXTINF:-1 tvg-id="" tvg-name="MY ZEN TV" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/MY-ZEN-TV.png" group-title="ON MAX",MY ZEN TV
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/75441
+#EXTINF:-1 tvg-id="nauticalchannel.fr" tvg-name="NAUTICAL CHANNEL" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/Nautical.png" group-title="ON MAX",NAUTICAL CHANNEL
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2792
+#EXTINF:-1 tvg-id="cnews.fr" tvg-name="CNEWS" tvg-logo="http://lg.mygolden.xyz:8080/logo/AFRICA/CANAL+/Canal_News.png" group-title="ON MAX",CNEWS
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2665
+#EXTINF:-1 tvg-id="bfmtv.fr" tvg-name="BFM TV" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/BFM-TV-FHD.png" group-title="ON MAX",BFM TV
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2666
+#EXTINF:-1 tvg-id="#.No.Channel.#" tvg-name="CANAL NEWS" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/CANANEWSTV.png" group-title="ON MAX",CANAL NEWS
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2667
+#EXTINF:-1 tvg-id="lci.fr" tvg-name="LCI" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/LCI.png" group-title="ON MAX",LCI
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2668
+#EXTINF:-1 tvg-id="franceinfo.fr" tvg-name="FRANCE INFO" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/FRANCEINFO.png" group-title="ON MAX",FRANCE INFO
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2669
+#EXTINF:-1 tvg-id="#.No.Channel.#" tvg-name="EURONEWS (FRENCH)" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/EURONEWSHD.png" group-title="ON MAX",EURONEWS (FRENCH)
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2670
+#EXTINF:-1 tvg-id="france24.fr" tvg-name="FRANCE 24" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/FRANCE24.png" group-title="ON MAX",FRANCE 24
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2671
+#EXTINF:-1 tvg-id="reunion.fr" tvg-name="REUNION 1ERE" tvg-logo="http://lg.mygolden.xyz:8080/logo/AFRICA/DSTV/R%C3%A9union_La_1%C3%A8re.png" group-title="ON MAX",REUNION 1ERE
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/413107
+#EXTINF:-1 tvg-id="#.No.Channel.#" tvg-name="LCP" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/LCP.png" group-title="ON MAX",LCP
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2672
+#EXTINF:-1 tvg-id="bfmbusiness.fr" tvg-name="BFM BUSINESS" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/BFM-BUSINESS-FHD.png" group-title="ON MAX",BFM BUSINESS
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2673
+#EXTINF:-1 tvg-id="bfmparis.fr" tvg-name="BFM PARIS" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/BFMPARIS.png" group-title="ON MAX",BFM PARIS
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2674
+#EXTINF:-1 tvg-id="bfmgrandlille.fr" tvg-name="BFM GRAND LILLE" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/BFM-TV-FHD.png" group-title="ON MAX",BFM GRAND LILLE
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/171309
+#EXTINF:-1 tvg-id="#.No.Channel.#" tvg-name="I24 NEWS" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/I24NEWSFHD.png" group-title="ON MAX",I24 NEWS
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2675
+#EXTINF:-1 tvg-id="" tvg-name="OUTRE-MER LA PREMIÈRE HD" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/ALBANIA/La_Premi%C3%A8re.png" group-title="ON MAX",OUTRE-MER LA PREMIÈRE HD
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/448361
+#EXTINF:-1 tvg-id="cnews.fr" tvg-name="C NEWS" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/CNEWSTV.png" group-title="ON MAX",C NEWS
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2677
+#EXTINF:-1 tvg-id="bfmtv.fr" tvg-name="BFM TV" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/BFM-TV-FHD.png" group-title="ON MAX",BFM TV
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2678
+#EXTINF:-1 tvg-id="#.No.Channel.#" tvg-name="CANAL NEWS" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/CANANEWSTV.png" group-title="ON MAX",CANAL NEWS
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2679
+#EXTINF:-1 tvg-id="lci.fr" tvg-name="LCI" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/LCI.png" group-title="ON MAX",LCI
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2680
+#EXTINF:-1 tvg-id="franceinfo.fr" tvg-name="FRANCE INFO" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/FRANCEINFO.png" group-title="ON MAX",FRANCE INFO
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2681
+#EXTINF:-1 tvg-id="#.No.Channel.#" tvg-name="EURONEWS (FRENCH)" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/EURONEWSHD.png" group-title="ON MAX",EURONEWS (FRENCH)
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2682
+#EXTINF:-1 tvg-id="france24.fr" tvg-name="FRANCE 24" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/FRANCE24.png" group-title="ON MAX",FRANCE 24
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2683
+#EXTINF:-1 tvg-id="#.No.Channel.#" tvg-name="LCP" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/LCP.png" group-title="ON MAX",LCP
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2684
+#EXTINF:-1 tvg-id="" tvg-name="01 TV" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/01tv.png" group-title="ON MAX",01 TV
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/75409
+#EXTINF:-1 tvg-id="i24news.fr" tvg-name="I 24 NEWS" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/I24NEWSFHD.png" group-title="ON MAX",I 24 NEWS
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2687
+#EXTINF:-1 tvg-id="bfmbusiness.fr" tvg-name="BFM BUSINESS" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/BFM-BUSINESS-FHD.png" group-title="ON MAX",BFM BUSINESS
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2685
+#EXTINF:-1 tvg-id="bfmparis.fr" tvg-name="BFM PARIS" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/BFMPARIS.png" group-title="ON MAX",BFM PARIS
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2686
+#EXTINF:-1 tvg-id="" tvg-name="BFM TOULONVAR" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/BFM-TV.png" group-title="ON MAX",BFM TOULONVAR
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/75404
+#EXTINF:-1 tvg-id="" tvg-name="BFM COTE D'AZUR" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/BFM-TV.png" group-title="ON MAX",BFM COTE D'AZUR
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/75405
+#EXTINF:-1 tvg-id="" tvg-name="BFM ALPES SUD" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/BFM-TV.png" group-title="ON MAX",BFM ALPES SUD
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/75407
+#EXTINF:-1 tvg-id="" tvg-name="BFM HAUTE PROVINCE" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/BFM-TV.png" group-title="ON MAX",BFM HAUTE PROVINCE
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/75408
+#EXTINF:-1 tvg-id="canalplus.fr" tvg-name="CANAL+" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/CANALSPORT-1.png" group-title="ON MAX",CANAL+
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2883
+#EXTINF:-1 tvg-id="canalplusseries.fr" tvg-name="CANAL+ SERIE" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/CANALSPORT-1.png" group-title="ON MAX",CANAL+ SERIE
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2884
+#EXTINF:-1 tvg-id="canalpluskids.fr" tvg-name="CANAL+ KIDS" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/CANALSPORT-1.png" group-title="ON MAX",CANAL+ KIDS
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2885
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ BOX OFFICE" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/Screenshot.png" group-title="ON MAX",CANAL+ BOX OFFICE
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/427551
+#EXTINF:-1 tvg-id="canalpluscinema.fr" tvg-name="CANAL+ CINEMA" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/CANALSPORT-1.png" group-title="ON MAX",CANAL+ CINEMA
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2886
+#EXTINF:-1 tvg-id="canalplusdocs.fr" tvg-name="CANAL+ DOCS" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/CANALSPORT-1.png" group-title="ON MAX",CANAL+ DOCS
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2888
+#EXTINF:-1 tvg-id="canalplusgrandecran.fr" tvg-name="CANAL+ GRAND ECRAN" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/CANALSPORT-1.png" group-title="ON MAX",CANAL+ GRAND ECRAN
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2889
+#EXTINF:-1 tvg-id="" tvg-name="CANAL PLAY ACTION " tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/canal-play.png" group-title="ON MAX",CANAL PLAY ACTION 
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/165111
+#EXTINF:-1 tvg-id="" tvg-name="CANAL PLAY COMEDIE " tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/canal-play.png" group-title="ON MAX",CANAL PLAY COMEDIE 
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/165113
+#EXTINF:-1 tvg-id="" tvg-name="CANAL PLAY 1 " tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/canal-play.png" group-title="ON MAX",CANAL PLAY 1 
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/165051
+#EXTINF:-1 tvg-id="" tvg-name="CANAL PLAY 2 " tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/canal-play.png" group-title="ON MAX",CANAL PLAY 2 
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/165053
+#EXTINF:-1 tvg-id="" tvg-name="CANAL PLAY 3 " tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/canal-play.png" group-title="ON MAX",CANAL PLAY 3 
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/165055
+#EXTINF:-1 tvg-id="" tvg-name="CANAL PLAY 4 " tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/canal-play.png" group-title="ON MAX",CANAL PLAY 4 
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/165057
+#EXTINF:-1 tvg-id="" tvg-name="CANAL PLAY 5 " tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/canal-play.png" group-title="ON MAX",CANAL PLAY 5 
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/165059
+#EXTINF:-1 tvg-id="" tvg-name="CANAL PLAY 6 " tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/canal-play.png" group-title="ON MAX",CANAL PLAY 6 
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/165061
+#EXTINF:-1 tvg-id="" tvg-name="CANAL PLAY 7 " tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/canal-play.png" group-title="ON MAX",CANAL PLAY 7 
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/165063
+#EXTINF:-1 tvg-id="" tvg-name="CANAL PLAY 8 " tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/canal-play.png" group-title="ON MAX",CANAL PLAY 8 
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/165065
+#EXTINF:-1 tvg-id="" tvg-name="CANAL PLAY 9 " tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/canal-play.png" group-title="ON MAX",CANAL PLAY 9 
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/165067
+#EXTINF:-1 tvg-id="" tvg-name="CANAL PLAY 10 " tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/canal-play.png" group-title="ON MAX",CANAL PLAY 10 
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/165069
+#EXTINF:-1 tvg-id="" tvg-name="CANAL PLAY 11 " tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/canal-play.png" group-title="ON MAX",CANAL PLAY 11 
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/165071
+#EXTINF:-1 tvg-id="" tvg-name="CANAL PLAY 12 " tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/canal-play.png" group-title="ON MAX",CANAL PLAY 12 
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/165073
+#EXTINF:-1 tvg-id="" tvg-name="CANAL PLAY 13 " tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/canal-play.png" group-title="ON MAX",CANAL PLAY 13 
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/165075
+#EXTINF:-1 tvg-id="" tvg-name="CANAL PLAY 14 " tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/canal-play.png" group-title="ON MAX",CANAL PLAY 14 
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/165077
+#EXTINF:-1 tvg-id="" tvg-name="CANAL PLAY 15 " tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/canal-play.png" group-title="ON MAX",CANAL PLAY 15 
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/165079
+#EXTINF:-1 tvg-id="" tvg-name="CANAL PLAY 16 " tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/canal-play.png" group-title="ON MAX",CANAL PLAY 16 
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/165081
+#EXTINF:-1 tvg-id="" tvg-name="CANAL PLAY 17 " tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/canal-play.png" group-title="ON MAX",CANAL PLAY 17 
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/165083
+#EXTINF:-1 tvg-id="" tvg-name="CANAL PLAY 18 " tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/canal-play.png" group-title="ON MAX",CANAL PLAY 18 
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/165085
+#EXTINF:-1 tvg-id="action.fr" tvg-name="ACTION" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/ACTIONHD-1.png" group-title="ON MAX",ACTION
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2890
+#EXTINF:-1 tvg-id="cinepluspremier.fr" tvg-name="CINE+ PREMIERE" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/CINEPREMIER.png" group-title="ON MAX",CINE+ PREMIERE
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2891
+#EXTINF:-1 tvg-id="cineplusfrisson.fr" tvg-name="CINE+ FRISSON" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/CINEFRISSON.png" group-title="ON MAX",CINE+ FRISSON
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2892
+#EXTINF:-1 tvg-id="cineplusemotion.fr" tvg-name="CINE+ EMOTION" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/CINEEMOTION.png" group-title="ON MAX",CINE+ EMOTION
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2893
+#EXTINF:-1 tvg-id="cineplusamiz.fr" tvg-name="CINE+ FAMIZ" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/CINECLUB.png" group-title="ON MAX",CINE+ FAMIZ
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2894
+#EXTINF:-1 tvg-id="cineplusclub.fr" tvg-name="CINE+ CLUB" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/CINECLUB.png" group-title="ON MAX",CINE+ CLUB
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2895
+#EXTINF:-1 tvg-id="canalpluscinema.fr" tvg-name="CINE+ CLASSIC" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/CINECLASSIC.png" group-title="ON MAX",CINE+ CLASSIC
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2896
+#EXTINF:-1 tvg-id="tcm.fr" tvg-name="TCM CINEMA" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/TCMCINEMATV.png" group-title="ON MAX",TCM CINEMA
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2897
+#EXTINF:-1 tvg-id="ocsmax.fr" tvg-name="OCS MAX" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/OCS-1.png" group-title="ON MAX",OCS MAX
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2898
+#EXTINF:-1 tvg-id="ocsgeants.fr" tvg-name="OCS GEANTS" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/OCS-1.png" group-title="ON MAX",OCS GEANTS
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2900
+#EXTINF:-1 tvg-id="ocschoc.fr" tvg-name="OCS PULP" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/OCS-1.png" group-title="ON MAX",OCS PULP
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2901
+#EXTINF:-1 tvg-id="#.No.Channel.#" tvg-name="PARAMOUNT DECALE" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/PARAMOUNTCHANNEL.png" group-title="ON MAX",PARAMOUNT DECALE
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2911
+#EXTINF:-1 tvg-id="" tvg-name="A LA CARTE 1" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/A%20LA%20CARTE.png" group-title="ON MAX",A LA CARTE 1
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/460741
+#EXTINF:-1 tvg-id="" tvg-name="A LA CARTE 2" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/A%20LA%20CARTE.png" group-title="ON MAX",A LA CARTE 2
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/460743
+#EXTINF:-1 tvg-id="" tvg-name="A LA CARTE 3" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/A%20LA%20CARTE.png" group-title="ON MAX",A LA CARTE 3
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/460745
+#EXTINF:-1 tvg-id="canalplus.fr" tvg-name="CANAL+" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/CANALSPORT-1.png" group-title="ON MAX",CANAL+
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2913
+#EXTINF:-1 tvg-id="canalplusseries.fr" tvg-name="CANAL+ SERIES" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/CANALSPORT-1.png" group-title="ON MAX",CANAL+ SERIES
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2914
+#EXTINF:-1 tvg-id="01tv.fr" tvg-name="CANAL+ KIDS" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/CANALSPORT-1.png" group-title="ON MAX",CANAL+ KIDS
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2915
+#EXTINF:-1 tvg-id="canalpluscinema.fr" tvg-name="CANAL+ CINEMA" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/CANALSPORT-1.png" group-title="ON MAX",CANAL+ CINEMA
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2917
+#EXTINF:-1 tvg-id="#.No.Channel.#" tvg-name="CANAL+ DOCS" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/CANALSPORT-1.png" group-title="ON MAX",CANAL+ DOCS
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2918
+#EXTINF:-1 tvg-id="#.No.Channel.#" tvg-name="CANAL+ GRAND ECRAN" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/CANALSPORT-1.png" group-title="ON MAX",CANAL+ GRAND ECRAN
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2919
+#EXTINF:-1 tvg-id="action.fr" tvg-name="ACTION" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/ACTIONHD-1.png" group-title="ON MAX",ACTION
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2920
+#EXTINF:-1 tvg-id="cinepluspremier.fr" tvg-name="CINE+ PREMIER" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/CINEPREMIER.png" group-title="ON MAX",CINE+ PREMIER
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2921
+#EXTINF:-1 tvg-id="cineplusfrisson.fr" tvg-name="CINE+ FRISSON" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/CINEFRISSON.png" group-title="ON MAX",CINE+ FRISSON
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2922
+#EXTINF:-1 tvg-id="#.No.Channel.#" tvg-name="CINE+ EMOTION" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/CINEEMOTION.png" group-title="ON MAX",CINE+ EMOTION
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2923
+#EXTINF:-1 tvg-id="#.No.Channel.#" tvg-name="CINE+ FAMIZ" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/CINEFAMIZ.png" group-title="ON MAX",CINE+ FAMIZ
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2924
+#EXTINF:-1 tvg-id="cineplusclub.fr" tvg-name="CINE+ CLUB" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/CINECLUB.png" group-title="ON MAX",CINE+ CLUB
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2925
+#EXTINF:-1 tvg-id="cineplusclassic.fr" tvg-name="CINE+ CLASSIC" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/CINECLASSIC.png" group-title="ON MAX",CINE+ CLASSIC
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2926
+#EXTINF:-1 tvg-id="tcm.fr" tvg-name="TCM CINEMA" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/TCMCINEMATV.png" group-title="ON MAX",TCM CINEMA
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2927
+#EXTINF:-1 tvg-id="ocsmax.fr" tvg-name="OCS MAX" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/OCS-1.png" group-title="ON MAX",OCS MAX
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2928
+#EXTINF:-1 tvg-id="ocsgeants.fr" tvg-name="OCS GEANTS" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/OCS-1.png" group-title="ON MAX",OCS GEANTS
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2930
+#EXTINF:-1 tvg-id="ocschoc.fr" tvg-name="OCS PULP" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/OCS-1.png" group-title="ON MAX",OCS PULP
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2931
+#EXTINF:-1 tvg-id="#.No.Channel.#" tvg-name="PARAMOUNT DECALE" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/PARAMOUNTCHANNEL.png" group-title="ON MAX",PARAMOUNT DECALE
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2932
+#EXTINF:-1 tvg-id="" tvg-name="UCL 01 : " tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/UEFA_Champions_League%20(2).png" group-title="ON MAX",UCL 01 : 
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/429367
+#EXTINF:-1 tvg-id="" tvg-name="UCL 02 : " tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/UEFA_Champions_League%20(2).png" group-title="ON MAX",UCL 02 : 
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/429369
+#EXTINF:-1 tvg-id="" tvg-name="UCL 03 : " tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/UEFA_Champions_League%20(2).png" group-title="ON MAX",UCL 03 : 
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/429371
+#EXTINF:-1 tvg-id="" tvg-name="UCL 04 : " tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/UEFA_Champions_League%20(2).png" group-title="ON MAX",UCL 04 : 
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/429373
+#EXTINF:-1 tvg-id="" tvg-name="UCL 05 : " tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/UEFA_Champions_League%20(2).png" group-title="ON MAX",UCL 05 : 
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/429375
+#EXTINF:-1 tvg-id="" tvg-name="UCL 06 : " tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/UEFA_Champions_League%20(2).png" group-title="ON MAX",UCL 06 : 
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/429377
+#EXTINF:-1 tvg-id="" tvg-name="UCL 07 : " tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/UEFA_Champions_League%20(2).png" group-title="ON MAX",UCL 07 : 
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/429379
+#EXTINF:-1 tvg-id="" tvg-name="UCL 08 : " tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/UEFA_Champions_League%20(2).png" group-title="ON MAX",UCL 08 : 
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/429381
+#EXTINF:-1 tvg-id="#.No.Channel.#" tvg-name="AMAZON PRIME 1: " tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/AMAZZONPRIME.png" group-title="ON MAX",AMAZON PRIME 1: 
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2690
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME 01 : " tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/AMAZZONPRIME.png" group-title="ON MAX",AMAZON PRIME 01 : 
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/420505
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME 01 SD: " tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/AMAZZONPRIME.png" group-title="ON MAX",AMAZON PRIME 01 SD: 
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/419617
+#EXTINF:-1 tvg-id="#.No.Channel.#" tvg-name="AMAZON PRIME 2: " tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/AMAZZONPRIME.png" group-title="ON MAX",AMAZON PRIME 2: 
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2691
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME 02 : " tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/AMAZZONPRIME.png" group-title="ON MAX",AMAZON PRIME 02 : 
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/420503
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME 02 SD:" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/AMAZZONPRIME.png" group-title="ON MAX",AMAZON PRIME 02 SD:
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/419619
+#EXTINF:-1 tvg-id="#.No.Channel.#" tvg-name="AMAZON PRIME 3: " tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/AMAZZONPRIME.png" group-title="ON MAX",AMAZON PRIME 3: 
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2692
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME 03: " tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/AMAZZONPRIME.png" group-title="ON MAX",AMAZON PRIME 03: 
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/420501
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME 03 SD:" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/AMAZZONPRIME.png" group-title="ON MAX",AMAZON PRIME 03 SD:
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/419621
+#EXTINF:-1 tvg-id="#.No.Channel.#" tvg-name="AMAZON PRIME 4: " tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/AMAZZONPRIME.png" group-title="ON MAX",AMAZON PRIME 4: 
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2693
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME 04: " tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/AMAZZONPRIME.png" group-title="ON MAX",AMAZON PRIME 04: 
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/420499
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME 04 SD: " tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/AMAZZONPRIME.png" group-title="ON MAX",AMAZON PRIME 04 SD: 
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/419623
+#EXTINF:-1 tvg-id="#.No.Channel.#" tvg-name="AMAZON PRIME 5: " tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/AMAZZONPRIME.png" group-title="ON MAX",AMAZON PRIME 5: 
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2694
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME 05: " tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/AMAZZONPRIME.png" group-title="ON MAX",AMAZON PRIME 05: 
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/420497
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME 05 SD: " tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/AMAZZONPRIME.png" group-title="ON MAX",AMAZON PRIME 05 SD: 
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/419625
+#EXTINF:-1 tvg-id="#.No.Channel.#" tvg-name="AMAZON PRIME 6: " tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/AMAZZONPRIME.png" group-title="ON MAX",AMAZON PRIME 6: 
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2695
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME 06: " tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/AMAZZONPRIME.png" group-title="ON MAX",AMAZON PRIME 06: 
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/420495
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME 06 SD:" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/AMAZZONPRIME.png" group-title="ON MAX",AMAZON PRIME 06 SD:
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/419627
+#EXTINF:-1 tvg-id="#.No.Channel.#" tvg-name="AMAZON PRIME 7" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/AMAZZONPRIME.png" group-title="ON MAX",AMAZON PRIME 7
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2696
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME 07" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/AMAZZONPRIME.png" group-title="ON MAX",AMAZON PRIME 07
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/420493
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME 07 SD" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/AMAZZONPRIME.png" group-title="ON MAX",AMAZON PRIME 07 SD
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/419629
+#EXTINF:-1 tvg-id="#.No.Channel.#" tvg-name="AMAZON PRIME 8" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/AMAZZONPRIME.png" group-title="ON MAX",AMAZON PRIME 8
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2697
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME 08" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/AMAZZONPRIME.png" group-title="ON MAX",AMAZON PRIME 08
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/420491
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME 08 SD" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/AMAZZONPRIME.png" group-title="ON MAX",AMAZON PRIME 08 SD
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/419631
+#EXTINF:-1 tvg-id="beinsports1.fr" tvg-name="BEIN SPORT 1" tvg-logo="http://lg.mygolden.xyz:8080/logo/BEIN/BeinSports/bein-sportshd1.png" group-title="ON MAX",BEIN SPORT 1
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2750
+#EXTINF:-1 tvg-id="beinsports2.fr" tvg-name="BEIN SPORT 2" tvg-logo="http://lg.mygolden.xyz:8080/logo/BEIN/BeinSports/bein-sportshd2.png" group-title="ON MAX",BEIN SPORT 2
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2751
+#EXTINF:-1 tvg-id="beinsports3.fr" tvg-name="BEIN SPORT 3" tvg-logo="http://lg.mygolden.xyz:8080/logo/BEIN/BeinSports/bein-sportshd3.png" group-title="ON MAX",BEIN SPORT 3
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2752
+#EXTINF:-1 tvg-id="01tv.fr" tvg-name="BEIN SPORTS MAX 4 (EVENTS ONLY)" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/BEINMAX4.png" group-title="ON MAX",BEIN SPORTS MAX 4 (EVENTS ONLY)
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2753
+#EXTINF:-1 tvg-id="01tv.fr" tvg-name="BEIN SPORTS MAX 5 (EVENTS ONLY)" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/BEINMAX5.png" group-title="ON MAX",BEIN SPORTS MAX 5 (EVENTS ONLY)
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2754
+#EXTINF:-1 tvg-id="01tv.fr" tvg-name="BEIN SPORTS MAX 6 (EVENTS ONLY)" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/BEINMAX6.png" group-title="ON MAX",BEIN SPORTS MAX 6 (EVENTS ONLY)
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2755
+#EXTINF:-1 tvg-id="#.No.Channel.#" tvg-name="BEIN SPORTS MAX 9 (EVENTS ONLY)" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/BEINMAX9.png" group-title="ON MAX",BEIN SPORTS MAX 9 (EVENTS ONLY)
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2756
+#EXTINF:-1 tvg-id="01tv.fr" tvg-name="BEIN SPORTS MAX 8 (EVENTS ONLY)" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/BEINMAX8.png" group-title="ON MAX",BEIN SPORTS MAX 8 (EVENTS ONLY)
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2757
+#EXTINF:-1 tvg-id="01tv.fr" tvg-name="BEIN SPORTS MAX 7 (EVENTS ONLY)" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/BEINMAX7.png" group-title="ON MAX",BEIN SPORTS MAX 7 (EVENTS ONLY)
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2758
+#EXTINF:-1 tvg-id="#.No.Channel.#" tvg-name="CANAL+ SPORT" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/Canal_plus_Sport.png" group-title="ON MAX",CANAL+ SPORT
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2759
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ FOOT" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/canal-plus-foot(1).png" group-title="ON MAX",CANAL+ FOOT
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/79963
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 360" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/Canal+Sport_360(1).png" group-title="ON MAX",CANAL+ SPORT 360
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/79964
+#EXTINF:-1 tvg-id="" tvg-name="CANAl+ CHAMPIONS LEAGUE" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/hampions_Club.png" group-title="ON MAX",CANAl+ CHAMPIONS LEAGUE
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/429365
+#EXTINF:-1 tvg-id="#.No.Channel.#" tvg-name="CANAL+ PREMIER LEAGUE" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/canalpluspremierleague.png" group-title="ON MAX",CANAL+ PREMIER LEAGUE
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2760
+#EXTINF:-1 tvg-id="#.No.Channel.#" tvg-name="CANAL+ TOP14" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/Canal_Rugby.png" group-title="ON MAX",CANAL+ TOP14
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2761
+#EXTINF:-1 tvg-id="#.No.Channel.#" tvg-name="CANAL+ FORMULE 1" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/canalplusformula1.png" group-title="ON MAX",CANAL+ FORMULE 1
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2762
+#EXTINF:-1 tvg-id="#.No.Channel.#" tvg-name="CANAL+ MOTOGP" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/Canal_MotoGP.png" group-title="ON MAX",CANAL+ MOTOGP
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2763
+#EXTINF:-1 tvg-id="#.No.Channel.#" tvg-name="EQUIPE 21" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/LEQUIPE21HD.png" group-title="ON MAX",EQUIPE 21
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2656
+#EXTINF:-1 tvg-id="lequipe21.fr" tvg-name="EQUIPE 21" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/LEQUIPE21HD.png" group-title="ON MAX",EQUIPE 21
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2617
+#EXTINF:-1 tvg-id="rmcsport1.fr" tvg-name="RMC SPORT 1" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/RMC-Sport-1.png" group-title="ON MAX",RMC SPORT 1
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2764
+#EXTINF:-1 tvg-id="rmcsport2.fr" tvg-name="RMC SPORT 2" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/RMC-Sport-2.png" group-title="ON MAX",RMC SPORT 2
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2765
+#EXTINF:-1 tvg-id="01tv.fr" tvg-name="RMC SPORT LIVE 3" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/RMC-Sport-3.png" group-title="ON MAX",RMC SPORT LIVE 3
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2766
+#EXTINF:-1 tvg-id="01tv.fr" tvg-name="RMC SPORT LIVE 4" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/RMC-Sport-4.png" group-title="ON MAX",RMC SPORT LIVE 4
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2767
+#EXTINF:-1 tvg-id="rmcsportlive5.fr" tvg-name="RMC SPORT LIVE 5" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/RMC-SPORT-LIVE.png" group-title="ON MAX",RMC SPORT LIVE 5
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2768
+#EXTINF:-1 tvg-id="rmcsportlive6.fr" tvg-name="RMC SPORT LIVE 6" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/RMC-SPORT-LIVE.png" group-title="ON MAX",RMC SPORT LIVE 6
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2769
+#EXTINF:-1 tvg-id="rmcsportlive7.fr" tvg-name="RMC SPORT LIVE 7" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/RMC-SPORT-LIVE.png" group-title="ON MAX",RMC SPORT LIVE 7
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2770
+#EXTINF:-1 tvg-id="rmcsportlive8.fr" tvg-name="RMC SPORT LIVE 8" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/RMC-SPORT-LIVE.png" group-title="ON MAX",RMC SPORT LIVE 8
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2771
+#EXTINF:-1 tvg-id="rmcsportlive9.fr" tvg-name="RMC SPORT LIVE 9" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/RMC-SPORT-LIVE.png" group-title="ON MAX",RMC SPORT LIVE 9
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2772
+#EXTINF:-1 tvg-id="rmcsportlive10.fr" tvg-name="RMC SPORT LIVE 10" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/RMC-SPORT-LIVE.png" group-title="ON MAX",RMC SPORT LIVE 10
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2773
+#EXTINF:-1 tvg-id="rmcsportlive11.fr" tvg-name="RMC SPORT LIVE 11" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/RMC-SPORT-LIVE.png" group-title="ON MAX",RMC SPORT LIVE 11
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2774
+#EXTINF:-1 tvg-id="rmcsportlive12.fr" tvg-name="RMC SPORT LIVE 12" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/RMC-SPORT-LIVE.png" group-title="ON MAX",RMC SPORT LIVE 12
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2775
+#EXTINF:-1 tvg-id="#.No.Channel.#" tvg-name="EUROSPORT 1" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/EUROSPORT1HD.png" group-title="ON MAX",EUROSPORT 1
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2779
+#EXTINF:-1 tvg-id="eurosport2.pt" tvg-name="EUROSPORT 2" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/EUROSPORT2HD.png" group-title="ON MAX",EUROSPORT 2
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2780
+#EXTINF:-1 tvg-id="tracesportstars.fr" tvg-name="TRACE SPORT STARS" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/trace-sport-stars-1.png" group-title="ON MAX",TRACE SPORT STARS
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2787
+#EXTINF:-1 tvg-id="infosportplus.fr" tvg-name="INFO SPORT+ " tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/INFOSPORT%2B.png" group-title="ON MAX",INFO SPORT+ 
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2789
+#EXTINF:-1 tvg-id="equidia.fr" tvg-name="EQUIDIA LIVE" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/EQUIDIALIVEFHD.png" group-title="ON MAX",EQUIDIA LIVE
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2790
+#EXTINF:-1 tvg-id="" tvg-name="MOTORVISION" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/MOTORVISION.png" group-title="ON MAX",MOTORVISION
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/75414
+#EXTINF:-1 tvg-id="" tvg-name="GOLF" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/GOLF%20FHD.png" group-title="ON MAX",GOLF
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/167177
+#EXTINF:-1 tvg-id="#.No.Channel.#" tvg-name="GOLF+" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/GOLF%2B.png" group-title="ON MAX",GOLF+
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2791
+#EXTINF:-1 tvg-id="" tvg-name="MCS EXTREME" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/MCS-Extreme(1).png" group-title="ON MAX",MCS EXTREME
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/75412
+#EXTINF:-1 tvg-id="#.No.Channel.#" tvg-name="MULTI SPORTS 1" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/MULTI-SPORT.png" group-title="ON MAX",MULTI SPORTS 1
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2736
+#EXTINF:-1 tvg-id="#.No.Channel.#" tvg-name="MULTI SPORTS 2" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/MULTI-SPORT.png" group-title="ON MAX",MULTI SPORTS 2
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2737
+#EXTINF:-1 tvg-id="#.No.Channel.#" tvg-name="MULTI SPORTS 3" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/MULTI-SPORT.png" group-title="ON MAX",MULTI SPORTS 3
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2738
+#EXTINF:-1 tvg-id="#.No.Channel.#" tvg-name="MULTI SPORTS 4" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/MULTI-SPORT.png" group-title="ON MAX",MULTI SPORTS 4
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2739
+#EXTINF:-1 tvg-id="#.No.Channel.#" tvg-name="MULTI SPORTS 5" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/MULTI-SPORT.png" group-title="ON MAX",MULTI SPORTS 5
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2740
+#EXTINF:-1 tvg-id="#.No.Channel.#" tvg-name="MULTI SPORTS 6" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/MULTI-SPORT.png" group-title="ON MAX",MULTI SPORTS 6
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2741
+#EXTINF:-1 tvg-id="beinsports1.fr" tvg-name="BEIN SPORT 1" tvg-logo="http://lg.mygolden.xyz:8080/logo/BEIN/BeinSports/bein-sportshd1.png" group-title="ON MAX",BEIN SPORT 1
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2699
+#EXTINF:-1 tvg-id="beinsports2.fr" tvg-name="BEIN SPORT 2" tvg-logo="http://lg.mygolden.xyz:8080/logo/BEIN/BeinSports/bein-sportshd2.png" group-title="ON MAX",BEIN SPORT 2
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2700
+#EXTINF:-1 tvg-id="beinsports3.fr" tvg-name="BEIN SPORT 3" tvg-logo="http://lg.mygolden.xyz:8080/logo/BEIN/BeinSports/bein-sportshd3.png" group-title="ON MAX",BEIN SPORT 3
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2701
+#EXTINF:-1 tvg-id="#.No.Channel.#" tvg-name="BEIN SPORT MAX 4" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/BEINMAX4.png" group-title="ON MAX",BEIN SPORT MAX 4
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2702
+#EXTINF:-1 tvg-id="01tv.fr" tvg-name="BEIN SPORT MAX 5" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/BEINMAX5.png" group-title="ON MAX",BEIN SPORT MAX 5
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2703
+#EXTINF:-1 tvg-id="01tv.fr" tvg-name="BEIN SPORT MAX 6" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/BEINMAX6.png" group-title="ON MAX",BEIN SPORT MAX 6
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2704
+#EXTINF:-1 tvg-id="01tv.fr" tvg-name="BEIN SPORT MAX 7" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/BEINMAX7.png" group-title="ON MAX",BEIN SPORT MAX 7
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2705
+#EXTINF:-1 tvg-id="01tv.fr" tvg-name="BEIN SPORT MAX 8" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/BEINMAX8.png" group-title="ON MAX",BEIN SPORT MAX 8
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2706
+#EXTINF:-1 tvg-id="#.No.Channel.#" tvg-name="BEIN SPORT MAX 9" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/BEINMAX9.png" group-title="ON MAX",BEIN SPORT MAX 9
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2707
+#EXTINF:-1 tvg-id="#.No.Channel.#" tvg-name="BEIN SPORT MAX 10" tvg-logo="http://lg.mygolden.xyz:8080/logo/BEIN/bein-sport/bein_sports10FHD-MAX.png" group-title="ON MAX",BEIN SPORT MAX 10
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2708
+#EXTINF:-1 tvg-id="#.No.Channel.#" tvg-name="CANAL+ SPORT" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/Canal_plus_Sport.png" group-title="ON MAX",CANAL+ SPORT
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2709
+#EXTINF:-1 tvg-id="#.No.Channel.#" tvg-name="CANAL+ FOOT" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/canal-plus-foot(1).png" group-title="ON MAX",CANAL+ FOOT
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/79961
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 360 " tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/Canal+Sport_360(1).png" group-title="ON MAX",CANAL+ SPORT 360 
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/79962
+#EXTINF:-1 tvg-id="" tvg-name="CANAl+ CHAMPIONS LEAGUE" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/hampions_Club.png" group-title="ON MAX",CANAl+ CHAMPIONS LEAGUE
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/429363
+#EXTINF:-1 tvg-id="#.No.Channel.#" tvg-name="CANAL+ PREMIER LEAGUE" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/canalpluspremierleague.png" group-title="ON MAX",CANAL+ PREMIER LEAGUE
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2710
+#EXTINF:-1 tvg-id="#.No.Channel.#" tvg-name="CANAL+ TOP14" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/Canal_Rugby.png" group-title="ON MAX",CANAL+ TOP14
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2711
+#EXTINF:-1 tvg-id="#.No.Channel.#" tvg-name="CANAL+ FORMULE1" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/canalplusformula1.png" group-title="ON MAX",CANAL+ FORMULE1
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2712
+#EXTINF:-1 tvg-id="#.No.Channel.#" tvg-name="CANAL+ MOTOGP" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/Canal_MotoGP.png" group-title="ON MAX",CANAL+ MOTOGP
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2713
+#EXTINF:-1 tvg-id="rmcsport1.fr" tvg-name="RMC SPORT 1" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/RMC-Sport-1.png" group-title="ON MAX",RMC SPORT 1
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2714
+#EXTINF:-1 tvg-id="rmcsport2.fr" tvg-name="RMC SPORT 2" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/RMC-Sport-2.png" group-title="ON MAX",RMC SPORT 2
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2715
+#EXTINF:-1 tvg-id="01tv.fr" tvg-name="RMC SPORT LIVE 3" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/RMC-Sport-3.png" group-title="ON MAX",RMC SPORT LIVE 3
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2716
+#EXTINF:-1 tvg-id="01tv.fr" tvg-name="RMC SPORT LIVE 4" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/RMC-Sport-4.png" group-title="ON MAX",RMC SPORT LIVE 4
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2717
+#EXTINF:-1 tvg-id="rmcsportlive5.fr" tvg-name="RMC SPORT LIVE 5" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/RMC-SPORT-LIVE.png" group-title="ON MAX",RMC SPORT LIVE 5
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2718
+#EXTINF:-1 tvg-id="rmcsportlive6.fr" tvg-name="RMC SPORT LIVE 6" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/RMC-SPORT-LIVE.png" group-title="ON MAX",RMC SPORT LIVE 6
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2719
+#EXTINF:-1 tvg-id="rmcsportlive7.fr" tvg-name="RMC SPORT LIVE 7" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/RMC-SPORT-LIVE.png" group-title="ON MAX",RMC SPORT LIVE 7
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2720
+#EXTINF:-1 tvg-id="rmcsportlive8.fr" tvg-name="RMC SPORT LIVE 8" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/RMC-SPORT-LIVE.png" group-title="ON MAX",RMC SPORT LIVE 8
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2721
+#EXTINF:-1 tvg-id="rmcsportlive9.fr" tvg-name="RMC SPORT LIVE 9" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/RMC-SPORT-LIVE.png" group-title="ON MAX",RMC SPORT LIVE 9
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2722
+#EXTINF:-1 tvg-id="rmcsportlive10.fr" tvg-name="RMC SPORT LIVE 10" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/RMC-SPORT-LIVE.png" group-title="ON MAX",RMC SPORT LIVE 10
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2723
+#EXTINF:-1 tvg-id="rmcsportlive12.fr" tvg-name="RMC SPORT LIVE 11" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/RMC-SPORT-LIVE.png" group-title="ON MAX",RMC SPORT LIVE 11
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2724
+#EXTINF:-1 tvg-id="rmcsportlive12.fr" tvg-name="RMC SPORT LIVE 12" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/RMC-SPORT-LIVE.png" group-title="ON MAX",RMC SPORT LIVE 12
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2725
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME 1 - LEAGUE2" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/AMAZZONPRIME.png" group-title="ON MAX",AMAZON PRIME 1 - LEAGUE2
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/75090
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME 2 - LEAGUE2" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/AMAZZONPRIME.png" group-title="ON MAX",AMAZON PRIME 2 - LEAGUE2
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/75091
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME 3 - LEAGUE2" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/AMAZZONPRIME.png" group-title="ON MAX",AMAZON PRIME 3 - LEAGUE2
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/75092
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME 4 - LEAGUE2" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/AMAZZONPRIME.png" group-title="ON MAX",AMAZON PRIME 4 - LEAGUE2
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/75093
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME 5 - LEAGUE2" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/AMAZZONPRIME.png" group-title="ON MAX",AMAZON PRIME 5 - LEAGUE2
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/75094
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME 6 - LEAGUE2" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/AMAZZONPRIME.png" group-title="ON MAX",AMAZON PRIME 6 - LEAGUE2
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/75095
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME 7 - LEAGUE2" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/AMAZZONPRIME.png" group-title="ON MAX",AMAZON PRIME 7 - LEAGUE2
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/75096
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME 8 - LEAGUE2" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/AMAZZONPRIME.png" group-title="ON MAX",AMAZON PRIME 8 - LEAGUE2
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/75097
+#EXTINF:-1 tvg-id="" tvg-name="(FANSEAT) - EVENT 1  (ONLY ON LIVE)" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/fanseatt.png" group-title="ON MAX",(FANSEAT) - EVENT 1  (ONLY ON LIVE)
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/457165
+#EXTINF:-1 tvg-id="" tvg-name="(FANSEAT) - EVENT 2  (ONLY ON LIVE)" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/fanseatt.png" group-title="ON MAX",(FANSEAT) - EVENT 2  (ONLY ON LIVE)
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/457167
+#EXTINF:-1 tvg-id="" tvg-name="(FANSEAT) - EVENT 3  (ONLY ON LIVE)" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/fanseatt.png" group-title="ON MAX",(FANSEAT) - EVENT 3  (ONLY ON LIVE)
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/457169
+#EXTINF:-1 tvg-id="" tvg-name="(FANSEAT) - EVENT 4  (ONLY ON LIVE)" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/fanseatt.png" group-title="ON MAX",(FANSEAT) - EVENT 4  (ONLY ON LIVE)
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/457171
+#EXTINF:-1 tvg-id="" tvg-name="(FANSEAT) - EVENT 5  (ONLY ON LIVE)" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/fanseatt.png" group-title="ON MAX",(FANSEAT) - EVENT 5  (ONLY ON LIVE)
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/457173
+#EXTINF:-1 tvg-id="" tvg-name="(FANSEAT) - EVENT 6  (ONLY ON LIVE)" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/fanseatt.png" group-title="ON MAX",(FANSEAT) - EVENT 6  (ONLY ON LIVE)
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/457175
+#EXTINF:-1 tvg-id="" tvg-name="(FANSEAT) - EVENT 7  (ONLY ON LIVE)" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/fanseatt.png" group-title="ON MAX",(FANSEAT) - EVENT 7  (ONLY ON LIVE)
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/457177
+#EXTINF:-1 tvg-id="" tvg-name="(FANSEAT) - EVENT 8  (ONLY ON LIVE)" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/fanseatt.png" group-title="ON MAX",(FANSEAT) - EVENT 8  (ONLY ON LIVE)
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/457179
+#EXTINF:-1 tvg-id="" tvg-name="(FANSEAT) - EVENT 9  (ONLY ON LIVE)" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/fanseatt.png" group-title="ON MAX",(FANSEAT) - EVENT 9  (ONLY ON LIVE)
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/457181
+#EXTINF:-1 tvg-id="" tvg-name="(FANSEAT) - EVENT 10  (ONLY ON LIVE)" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/fanseatt.png" group-title="ON MAX",(FANSEAT) - EVENT 10  (ONLY ON LIVE)
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/457183
+#EXTINF:-1 tvg-id="" tvg-name="(FANSEAT) - EVENT 11  (ONLY ON LIVE)" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/fanseatt.png" group-title="ON MAX",(FANSEAT) - EVENT 11  (ONLY ON LIVE)
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/457185
+#EXTINF:-1 tvg-id="" tvg-name="(FANSEAT) - EVENT 12  (ONLY ON LIVE)" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/fanseatt.png" group-title="ON MAX",(FANSEAT) - EVENT 12  (ONLY ON LIVE)
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/457187
+#EXTINF:-1 tvg-id="" tvg-name="(FANSEAT) - EVENT 13  (ONLY ON LIVE)" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/fanseatt.png" group-title="ON MAX",(FANSEAT) - EVENT 13  (ONLY ON LIVE)
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/457189
+#EXTINF:-1 tvg-id="" tvg-name="(FANSEAT) - EVENT 14  (ONLY ON LIVE)" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/fanseatt.png" group-title="ON MAX",(FANSEAT) - EVENT 14  (ONLY ON LIVE)
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/457191
+#EXTINF:-1 tvg-id="" tvg-name="(FANSEAT) - EVENT 15  (ONLY ON LIVE)" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/fanseatt.png" group-title="ON MAX",(FANSEAT) - EVENT 15  (ONLY ON LIVE)
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/457193
+#EXTINF:-1 tvg-id="" tvg-name="(FANSEAT) - EVENT 16  (ONLY ON LIVE)" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/fanseatt.png" group-title="ON MAX",(FANSEAT) - EVENT 16  (ONLY ON LIVE)
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/457195
+#EXTINF:-1 tvg-id="" tvg-name="(FANSEAT) - EVENT 17  (ONLY ON LIVE)" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/fanseatt.png" group-title="ON MAX",(FANSEAT) - EVENT 17  (ONLY ON LIVE)
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/457197
+#EXTINF:-1 tvg-id="" tvg-name="(FANSEAT) - EVENT 18  (ONLY ON LIVE)" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/fanseatt.png" group-title="ON MAX",(FANSEAT) - EVENT 18  (ONLY ON LIVE)
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/457199
+#EXTINF:-1 tvg-id="" tvg-name="SWEEK LIVE 3 (ONLY ON EVENT )" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/SWEEK.png" group-title="ON MAX",SWEEK LIVE 3 (ONLY ON EVENT )
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/167781
+#EXTINF:-1 tvg-id="" tvg-name="SWEEK LIVE 4 (ONLY ON EVENT )" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/SWEEK.png" group-title="ON MAX",SWEEK LIVE 4 (ONLY ON EVENT )
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/167783
+#EXTINF:-1 tvg-id="" tvg-name="SWEEK LIVE 5 (ONLY ON EVENT )" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/SWEEK.png" group-title="ON MAX",SWEEK LIVE 5 (ONLY ON EVENT )
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/167785
+#EXTINF:-1 tvg-id="" tvg-name="SWEEK LIVE 6 (ONLY ON EVENT )" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/SWEEK.png" group-title="ON MAX",SWEEK LIVE 6 (ONLY ON EVENT )
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/167787
+#EXTINF:-1 tvg-id="" tvg-name="SWEEK LIVE 7 (ONLY ON EVENT )" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/SWEEK.png" group-title="ON MAX",SWEEK LIVE 7 (ONLY ON EVENT )
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/167789
+#EXTINF:-1 tvg-id="" tvg-name="SWEEK LIVE 8 (ONLY ON EVENT )" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/SWEEK.png" group-title="ON MAX",SWEEK LIVE 8 (ONLY ON EVENT )
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/167791
+#EXTINF:-1 tvg-id="#.No.Channel.#" tvg-name="EUROSPORT 1" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/EUROSPORT1HD.png" group-title="ON MAX",EUROSPORT 1
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2729
+#EXTINF:-1 tvg-id="#.No.Channel.#" tvg-name="EUROSPORT 2" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/EUROSPORT2HD.png" group-title="ON MAX",EUROSPORT 2
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2730
+#EXTINF:-1 tvg-id="#.No.Channel.#" tvg-name="EUROSPORT 360 1" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/Eurosport_360_HD.png" group-title="ON MAX",EUROSPORT 360 1
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2731
+#EXTINF:-1 tvg-id="#.No.Channel.#" tvg-name="EUROSPORT 360 2" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/Eurosport_360_HD.png" group-title="ON MAX",EUROSPORT 360 2
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2732
+#EXTINF:-1 tvg-id="#.No.Channel.#" tvg-name="EUROSPORT 360 3" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/Eurosport_360_HD.png" group-title="ON MAX",EUROSPORT 360 3
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2733
+#EXTINF:-1 tvg-id="#.No.Channel.#" tvg-name="EUROSPORT 360 4" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/Eurosport_360_HD.png" group-title="ON MAX",EUROSPORT 360 4
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2734
+#EXTINF:-1 tvg-id="#.No.Channel.#" tvg-name="EUROSPORT 360 5" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/Eurosport_360_HD.png" group-title="ON MAX",EUROSPORT 360 5
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2735
+#EXTINF:-1 tvg-id="#.No.Channel.#" tvg-name="MULTI SPORTS 1 " tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/MULTI-SPORT.png" group-title="ON MAX",MULTI SPORTS 1 
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2781
+#EXTINF:-1 tvg-id="#.No.Channel.#" tvg-name="MULTI SPORTS 2 " tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/MULTI-SPORT.png" group-title="ON MAX",MULTI SPORTS 2 
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2782
+#EXTINF:-1 tvg-id="multisports4.fr" tvg-name="MULTI SPORTS 4 " tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/MULTI-SPORT.png" group-title="ON MAX",MULTI SPORTS 4 
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2783
+#EXTINF:-1 tvg-id="multisports3.fr" tvg-name="MULTIS PORTS 3 " tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/MULTI-SPORT.png" group-title="ON MAX",MULTIS PORTS 3 
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2784
+#EXTINF:-1 tvg-id="multisports5.fr" tvg-name="MULTISPORTS 5 " tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/MULTI-SPORT.png" group-title="ON MAX",MULTISPORTS 5 
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2785
+#EXTINF:-1 tvg-id="multisports6.fr" tvg-name="MULTISPORTS 6 " tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/MULTI-SPORT.png" group-title="ON MAX",MULTISPORTS 6 
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2786
+#EXTINF:-1 tvg-id="#.No.Channel.#" tvg-name="INFO SPORT+" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/INFOSPORT%2B.png" group-title="ON MAX",INFO SPORT+
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2744
+#EXTINF:-1 tvg-id="#.No.Channel.#" tvg-name="EQUIDIA LIVE" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/EQUIDIALIVEFHD.png" group-title="ON MAX",EQUIDIA LIVE
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2745
+#EXTINF:-1 tvg-id="" tvg-name="EQUIPE LIVE 1 " tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/EQUIOELIVE1.png" group-title="ON MAX",EQUIPE LIVE 1 
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/167183
+#EXTINF:-1 tvg-id="" tvg-name="EQUIPE LIVE 2 " tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/EQUIOELIVE1.png" group-title="ON MAX",EQUIPE LIVE 2 
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/167181
+#EXTINF:-1 tvg-id="#.No.Channel.#" tvg-name="TRACE SPORT STARS" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/trace-sport-stars-1.png" group-title="ON MAX",TRACE SPORT STARS
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2742
+#EXTINF:-1 tvg-id="#.No.Channel.#" tvg-name="AUTO MOTO" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/AUTOMOTO.png" group-title="ON MAX",AUTO MOTO
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2747
+#EXTINF:-1 tvg-id="" tvg-name="GOLF " tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/GOLF%20FHD.png" group-title="ON MAX",GOLF 
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/167179
+#EXTINF:-1 tvg-id="#.No.Channel.#" tvg-name="GOLF+" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/GOLF%2B.png" group-title="ON MAX",GOLF+
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2746
+#EXTINF:-1 tvg-id="" tvg-name="LA CHAINE DU PÈRE NOËL" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/LA%20CHAINE%20DU%20P%C3%88RE%20NO%C3%8BL.png" group-title="ON MAX",LA CHAINE DU PÈRE NOËL
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/467869
+#EXTINF:-1 tvg-id="" tvg-name="LA CHAINE DU PÈRE NOËL HD" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/LA%20CHAINE%20DU%20P%C3%88RE%20NO%C3%8BL.png" group-title="ON MAX",LA CHAINE DU PÈRE NOËL HD
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/467873
+#EXTINF:-1 tvg-id="#.No.Channel.#" tvg-name="M6 INTERNATIONAL" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/m6-international.png" group-title="ON MAX",M6 INTERNATIONAL
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2794
+#EXTINF:-1 tvg-id="polarplus.fr" tvg-name="POLAR+" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/POLAR.png" group-title="ON MAX",POLAR+
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2795
+#EXTINF:-1 tvg-id="syfy.fr" tvg-name="SYFY" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/SYFYHD.png" group-title="ON MAX",SYFY
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2796
+#EXTINF:-1 tvg-id="serieclub.fr" tvg-name="SERIE CLUB" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/SERIECLUBTV.png" group-title="ON MAX",SERIE CLUB
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2797
+#EXTINF:-1 tvg-id="13emerue.fr" tvg-name="13 EME RUE" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/13-EME-RUE.png" group-title="ON MAX",13 EME RUE
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2798
+#EXTINF:-1 tvg-id="warnertv.fr" tvg-name="WARNER" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/WARNER.png" group-title="ON MAX",WARNER
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2800
+#EXTINF:-1 tvg-id="tvbreizh.fr" tvg-name="TV BREIZH" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/TVBREIZH.png" group-title="ON MAX",TV BREIZH
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2801
+#EXTINF:-1 tvg-id="nrj12.fr" tvg-name="NRJ 12" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/NRJHITS.png" group-title="ON MAX",NRJ 12
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2802
+#EXTINF:-1 tvg-id="rmcstory.fr" tvg-name="RMC STORY" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/RMCSTORYFHD.png" group-title="ON MAX",RMC STORY
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2803
+#EXTINF:-1 tvg-id="cherie25.fr" tvg-name="CHERIE 25" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/CHERIE25.png" group-title="ON MAX",CHERIE 25
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2804
+#EXTINF:-1 tvg-id="parispremiere.fr" tvg-name="PARIS PREMIERE" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/PARISPREMIERE.png" group-title="ON MAX",PARIS PREMIERE
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2805
+#EXTINF:-1 tvg-id="#.No.Channel.#" tvg-name="E! ENTERTAINMENT" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/E!-1.png" group-title="ON MAX",E! ENTERTAINMENT
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2807
+#EXTINF:-1 tvg-id="#.No.Channel.#" tvg-name="MY CUISINE" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/MYCUISINE-1.png" group-title="ON MAX",MY CUISINE
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2808
+#EXTINF:-1 tvg-id="jone.fr" tvg-name="J ONE" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/J-ONE-1.png" group-title="ON MAX",J ONE
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2809
+#EXTINF:-1 tvg-id="gameone.fr" tvg-name="GAME ONE" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/GAMEONE1.png" group-title="ON MAX",GAME ONE
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2810
+#EXTINF:-1 tvg-id="mangas.fr" tvg-name="MANGAS" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/MANGAS.png" group-title="ON MAX",MANGAS
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2811
+#EXTINF:-1 tvg-id="ab1.fr" tvg-name="AB 1" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/AB1.png" group-title="ON MAX",AB 1
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2812
+#EXTINF:-1 tvg-id="#.No.Channel.#" tvg-name="AB 3" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/AB3.png" group-title="ON MAX",AB 3
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2813
+#EXTINF:-1 tvg-id="bet.fr" tvg-name="BET" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/BET.png" group-title="ON MAX",BET
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2814
+#EXTINF:-1 tvg-id="tv5monde.fr" tvg-name="TV5 MONDE" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/TV5MONDE.png" group-title="ON MAX",TV5 MONDE
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2815
+#EXTINF:-1 tvg-id="tv8montblanc.fr" tvg-name="TV8 MONT-BLANC" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/Tv8_Mont-Blanc.png" group-title="ON MAX",TV8 MONT-BLANC
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2819
+#EXTINF:-1 tvg-id="" tvg-name="LA CHAINE DU PÈRE NOËL" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/LA%20CHAINE%20DU%20P%C3%88RE%20NO%C3%8BL.png" group-title="ON MAX",LA CHAINE DU PÈRE NOËL
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/467871
+#EXTINF:-1 tvg-id="#.No.Channel.#" tvg-name="M6 INTERNATIONAL" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/m6-international.png" group-title="ON MAX",M6 INTERNATIONAL
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2821
+#EXTINF:-1 tvg-id="polarplus.fr" tvg-name="POLAR+" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/POLAR.png" group-title="ON MAX",POLAR+
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2822
+#EXTINF:-1 tvg-id="syfy.fr" tvg-name="SYFY" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/SYFYHD.png" group-title="ON MAX",SYFY
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2823
+#EXTINF:-1 tvg-id="serieclub.fr" tvg-name="SERIE CLUB" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/SERIECLUBTV.png" group-title="ON MAX",SERIE CLUB
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2824
+#EXTINF:-1 tvg-id="#.No.Channel.#" tvg-name="13EME RUE" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/13-EME-RUE.png" group-title="ON MAX",13EME RUE
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2825
+#EXTINF:-1 tvg-id="#.No.Channel.#" tvg-name="WARNER TV" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/WARNER.png" group-title="ON MAX",WARNER TV
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2827
+#EXTINF:-1 tvg-id="tvbreizh.fr" tvg-name="TV BREIZH" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/TVBREIZH.png" group-title="ON MAX",TV BREIZH
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2828
+#EXTINF:-1 tvg-id="nrj12.fr" tvg-name="NRJ 12" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/NRJHITS.png" group-title="ON MAX",NRJ 12
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2829
+#EXTINF:-1 tvg-id="rmcstory.fr" tvg-name="RMC STORY" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/RMCSTORYFHD.png" group-title="ON MAX",RMC STORY
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2830
+#EXTINF:-1 tvg-id="#.No.Channel.#" tvg-name="CHERIE 25" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/CHERIE25.png" group-title="ON MAX",CHERIE 25
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2831
+#EXTINF:-1 tvg-id="parispremiere.fr" tvg-name="PARIS PREMIERE" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/PARISPREMIERE.png" group-title="ON MAX",PARIS PREMIERE
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2832
+#EXTINF:-1 tvg-id="#.No.Channel.#" tvg-name="E! ENTERTAINMENT" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/E!-1.png" group-title="ON MAX",E! ENTERTAINMENT
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2834
+#EXTINF:-1 tvg-id="#.No.Channel.#" tvg-name="MY CUISINE" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/MYCUISINE-1.png" group-title="ON MAX",MY CUISINE
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2835
+#EXTINF:-1 tvg-id="#.No.Channel.#" tvg-name="J ONE" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/J-ONE-1.png" group-title="ON MAX",J ONE
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2836
+#EXTINF:-1 tvg-id="gameone.fr" tvg-name="GAME ONE" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/GAMEONE1.png" group-title="ON MAX",GAME ONE
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2837
+#EXTINF:-1 tvg-id="mangas.fr" tvg-name="MANGAS" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/MANGAS.png" group-title="ON MAX",MANGAS
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2838
+#EXTINF:-1 tvg-id="ab1.fr" tvg-name="AB1" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/AB1.png" group-title="ON MAX",AB1
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2839
+#EXTINF:-1 tvg-id="01tv.fr" tvg-name="AB3" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/AB3.png" group-title="ON MAX",AB3
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2840
+#EXTINF:-1 tvg-id="#.No.Channel.#" tvg-name="BET" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/BET.png" group-title="ON MAX",BET
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2841
+#EXTINF:-1 tvg-id="#.No.Channel.#" tvg-name="TV5 MONDE" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/TV5MONDE.png" group-title="ON MAX",TV5 MONDE
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2842
+#EXTINF:-1 tvg-id="" tvg-name="TV5 MONDE STYLE" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/TV5MONDESTYLE.png" group-title="ON MAX",TV5 MONDE STYLE
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/80322
+#EXTINF:-1 tvg-id="" tvg-name="TV TOURS" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/tvt.png" group-title="ON MAX",TV TOURS
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/75415
+#EXTINF:-1 tvg-id="" tvg-name="ASTV" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/ASTV.png" group-title="ON MAX",ASTV
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/75416
+#EXTINF:-1 tvg-id="" tvg-name="MANDARIN TV" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/MANDARIN%20TV.png" group-title="ON MAX",MANDARIN TV
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/75417
+#EXTINF:-1 tvg-id="" tvg-name="TVPI" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/TVPI.png" group-title="ON MAX",TVPI
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/75418
+#EXTINF:-1 tvg-id="" tvg-name="TNTV" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/TNT_.png" group-title="ON MAX",TNTV
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/75419
+#EXTINF:-1 tvg-id="" tvg-name="MAURIENNE TV" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/MAURIENNE.png" group-title="ON MAX",MAURIENNE TV
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/75420
+#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/TLC.png" group-title="ON MAX",TLC
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/75421
+#EXTINF:-1 tvg-id="" tvg-name="TVR" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/TVR.png" group-title="ON MAX",TVR
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/75422
+#EXTINF:-1 tvg-id="" tvg-name="BIP TV" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/big-tv.png" group-title="ON MAX",BIP TV
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/75423
+#EXTINF:-1 tvg-id="" tvg-name="TEBE SUD" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/telesud.png" group-title="ON MAX",TEBE SUD
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/75425
+#EXTINF:-1 tvg-id="" tvg-name="MAISON ET TRAVAUX" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/maison-et-travaux-tv(1).png" group-title="ON MAX",MAISON ET TRAVAUX
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/75426
+#EXTINF:-1 tvg-id="" tvg-name="LUXE TV" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/Luxe-TV(1).png" group-title="ON MAX",LUXE TV
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/75427
+#EXTINF:-1 tvg-id="toutehistoire.fr" tvg-name="TOUTE L" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/TOUTELHISTOIRE.png" group-title="ON MAX",TOUTE L
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2934
+#EXTINF:-1 tvg-id="planeteplus.fr" tvg-name="PLANETE+" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/PLANETE-1.png" group-title="ON MAX",PLANETE+
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2935
+#EXTINF:-1 tvg-id="planeteadventureexperience.fr" tvg-name="PLANET A&E" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/PLANETE-1.png" group-title="ON MAX",PLANET A&E
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2936
+#EXTINF:-1 tvg-id="planetecrimeinvestigation.fr" tvg-name="PLANETE+ CI" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/PLANETE-1.png" group-title="ON MAX",PLANETE+ CI
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2937
+#EXTINF:-1 tvg-id="paramountchannel.fr" tvg-name="PARAMOUNT CHANNEL" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/PARAMOUNTCHANNEL.png" group-title="ON MAX",PARAMOUNT CHANNEL
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2938
+#EXTINF:-1 tvg-id="#.No.Channel.#" tvg-name="DISCOVERY" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/DISCOVERYCHANNELHD.png" group-title="ON MAX",DISCOVERY
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2939
+#EXTINF:-1 tvg-id="discoveryscience.fr" tvg-name="DISCOVERY SCIENCE" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/DISCOVERYCHANNELHD.png" group-title="ON MAX",DISCOVERY SCIENCE
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2940
+#EXTINF:-1 tvg-id="#.No.Channel.#" tvg-name="DISCOVERY ID" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/DISCOVERYCHANNELHD.png" group-title="ON MAX",DISCOVERY ID
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2942
+#EXTINF:-1 tvg-id="discoveryinvestigation.fr" tvg-name="DISCOVERY INVESTIGATION" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/DISCOVERYCHANNELHD.png" group-title="ON MAX",DISCOVERY INVESTIGATION
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2943
+#EXTINF:-1 tvg-id="natgeo.fr" tvg-name="NGC" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/GERMANY/NATIONIALGEOGRAPHICCHANNELHD.png" group-title="ON MAX",NGC
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2944
+#EXTINF:-1 tvg-id="natgeowild.fr" tvg-name="NGC WILD" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/GERMANY/NATGEOWILDHD.png" group-title="ON MAX",NGC WILD
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2945
+#EXTINF:-1 tvg-id="ushuaiatv.fr" tvg-name="USHUAIA" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/USHUAIATV.png" group-title="ON MAX",USHUAIA
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2946
+#EXTINF:-1 tvg-id="histoire.fr" tvg-name="HISTOIRE" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/HISTOIREHD.png" group-title="ON MAX",HISTOIRE
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2947
+#EXTINF:-1 tvg-id="animaux.fr" tvg-name="ANIMAUX" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/ANIMAUX.png" group-title="ON MAX",ANIMAUX
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2948
+#EXTINF:-1 tvg-id="trek.fr" tvg-name="TREK" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/TREKFHD.png" group-title="ON MAX",TREK
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2949
+#EXTINF:-1 tvg-id="chassepeche.fr" tvg-name="CHASSE ET PECHE" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/CHASSEANDPECHE.png" group-title="ON MAX",CHASSE ET PECHE
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2950
+#EXTINF:-1 tvg-id="scienceandvie.fr" tvg-name="SCIENCE ET VIE" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/SCIENCE-1.png" group-title="ON MAX",SCIENCE ET VIE
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2951
+#EXTINF:-1 tvg-id="rmcdecouverte.fr" tvg-name="RMC DECOUVERTE" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/RMCDECOUVERTEHD.png" group-title="ON MAX",RMC DECOUVERTE
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2952
+#EXTINF:-1 tvg-id="seasons.fr" tvg-name="SEASONS" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/SEASONS.png" group-title="ON MAX",SEASONS
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2953
+#EXTINF:-1 tvg-id="gulli.fr" tvg-name="GULLI" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/GULLI.png" group-title="ON MAX",GULLI
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2954
+#EXTINF:-1 tvg-id="crimedistrict.fr" tvg-name="CRIME DISTRICT" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/CRIMEDISTRICTHD-1.png" group-title="ON MAX",CRIME DISTRICT
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2955
+#EXTINF:-1 tvg-id="toutehistoire.fr" tvg-name="TOUTE L" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/TOUTELHISTOIRE.png" group-title="ON MAX",TOUTE L
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2957
+#EXTINF:-1 tvg-id="planeteplus.fr" tvg-name="PLANETE+" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/PLANETE-1.png" group-title="ON MAX",PLANETE+
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2958
+#EXTINF:-1 tvg-id="planeteadventureexperience.fr" tvg-name="PLANETE A&E" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/PLANETE-1.png" group-title="ON MAX",PLANETE A&E
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2959
+#EXTINF:-1 tvg-id="planetecrimeinvestigation.fr" tvg-name="PLANETE+ CI" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/PLANETE-1.png" group-title="ON MAX",PLANETE+ CI
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2960
+#EXTINF:-1 tvg-id="paramountchannel.fr" tvg-name="PARAMOUNT CHANNEL" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/PARAMOUNTCHANNEL.png" group-title="ON MAX",PARAMOUNT CHANNEL
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2961
+#EXTINF:-1 tvg-id="discoverychannel.fr" tvg-name="DISCOVERY" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/DISCOVERYCHANNELHD.png" group-title="ON MAX",DISCOVERY
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2962
+#EXTINF:-1 tvg-id="discoveryscience.fr" tvg-name="DISCOVERY SCIENCE" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/DISCOVERYCHANNELHD.png" group-title="ON MAX",DISCOVERY SCIENCE
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2963
+#EXTINF:-1 tvg-id="#.No.Channel.#" tvg-name="DISCOVERY ID" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/DISCOVERYCHANNELHD.png" group-title="ON MAX",DISCOVERY ID
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2965
+#EXTINF:-1 tvg-id="#.No.Channel.#" tvg-name="DISCOVERY INVESTIGATION" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/DISCOVERYCHANNELHD.png" group-title="ON MAX",DISCOVERY INVESTIGATION
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2966
+#EXTINF:-1 tvg-id="#.No.Channel.#" tvg-name="NGC" tvg-logo="http://lg.mygolden.xyz:8080/logo/AUSTRALIA/national-geographic.png" group-title="ON MAX",NGC
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2967
+#EXTINF:-1 tvg-id="natgeowild.fr" tvg-name="NGC WILD" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/GERMANY/NATGEOWILDHD.png" group-title="ON MAX",NGC WILD
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2968
+#EXTINF:-1 tvg-id="ushuaiatv.fr" tvg-name="USHUAIA" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/USHUAIATV.png" group-title="ON MAX",USHUAIA
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2969
+#EXTINF:-1 tvg-id="histoire.fr" tvg-name="HISTOIRE" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/HISTOIREHD.png" group-title="ON MAX",HISTOIRE
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2970
+#EXTINF:-1 tvg-id="animaux.fr" tvg-name="ANIMAUX" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/ANIMAUX.png" group-title="ON MAX",ANIMAUX
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2971
+#EXTINF:-1 tvg-id="trek.fr" tvg-name="TREK" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/TREKFHD.png" group-title="ON MAX",TREK
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2972
+#EXTINF:-1 tvg-id="chassepeche.fr" tvg-name="CHASSE&PECHE" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/CHASSEANDPECHE.png" group-title="ON MAX",CHASSE&PECHE
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2973
+#EXTINF:-1 tvg-id="scienceandvie.fr" tvg-name="SCIENCE ET VIE" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/SCIENCE-1.png" group-title="ON MAX",SCIENCE ET VIE
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2974
+#EXTINF:-1 tvg-id="rmcdecouverte.fr" tvg-name="RMC DECOUVERTE" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/RMCDECOUVERTEHD.png" group-title="ON MAX",RMC DECOUVERTE
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2975
+#EXTINF:-1 tvg-id="seasons.fr" tvg-name="SEASONS" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/SEASONS.png" group-title="ON MAX",SEASONS
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2976
+#EXTINF:-1 tvg-id="gulli.fr" tvg-name="GULLI" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/GULLI.png" group-title="ON MAX",GULLI
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2977
+#EXTINF:-1 tvg-id="crimedistrict.fr" tvg-name="CRIME DISTRICT" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/CRIMEDISTRICTHD-1.png" group-title="ON MAX",CRIME DISTRICT
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2978
+#EXTINF:-1 tvg-id="tv8montblanc.fr" tvg-name="TV8 MONT BLANC" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/Tv8_Mont-Blanc.png" group-title="ON MAX",TV8 MONT BLANC
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2979
+#EXTINF:-1 tvg-id="" tvg-name="Digimon Adventure" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/plutotv(1).png" group-title="ON MAX",Digimon Adventure
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/271289
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Classic Hip-Hop" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/plutotv(1).png" group-title="ON MAX",Pluto TV Classic Hip-Hop
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/271291
+#EXTINF:-1 tvg-id="" tvg-name="Winx Club" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/plutotv(1).png" group-title="ON MAX",Winx Club
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/271293
+#EXTINF:-1 tvg-id="" tvg-name="Têtu TV" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/plutotv(1).png" group-title="ON MAX",Têtu TV
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/271295
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon Ukraine" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/plutotv(1).png" group-title="ON MAX",Nickelodeon Ukraine
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/271297
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Séries Fantastiques" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/plutotv(1).png" group-title="ON MAX",Pluto TV Séries Fantastiques
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/271301
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Ciné" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/plutotv(1).png" group-title="ON MAX",Pluto TV Ciné
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/271303
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Action" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/plutotv(1).png" group-title="ON MAX",Pluto TV Action
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/271305
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Ciné Rétro" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/plutotv(1).png" group-title="ON MAX",Pluto TV Ciné Rétro
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/271307
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Romance" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/plutotv(1).png" group-title="ON MAX",Pluto TV Romance
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/271309
+#EXTINF:-1 tvg-id="" tvg-name="Wild Side TV" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/plutotv(1).png" group-title="ON MAX",Wild Side TV
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/271311
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Sci-Fi" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/plutotv(1).png" group-title="ON MAX",Pluto TV Sci-Fi
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/271313
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Thrillers" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/plutotv(1).png" group-title="ON MAX",Pluto TV Thrillers
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/271315
+#EXTINF:-1 tvg-id="" tvg-name="The Asylum" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/plutotv(1).png" group-title="ON MAX",The Asylum
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/271317
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Series" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/plutotv(1).png" group-title="ON MAX",Pluto TV Series
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/271319
+#EXTINF:-1 tvg-id="" tvg-name="Walker Texas Ranger" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/plutotv(1).png" group-title="ON MAX",Walker Texas Ranger
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/271321
+#EXTINF:-1 tvg-id="" tvg-name="Doctor Who" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/plutotv(1).png" group-title="ON MAX",Doctor Who
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/271325
+#EXTINF:-1 tvg-id="" tvg-name="BBC Drama" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/plutotv(1).png" group-title="ON MAX",BBC Drama
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/271327
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Polar" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/plutotv(1).png" group-title="ON MAX",Pluto TV Polar
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/271329
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Telenovela" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/plutotv(1).png" group-title="ON MAX",Pluto TV Telenovela
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/271331
+#EXTINF:-1 tvg-id="" tvg-name="Amour Gloire et Beauté" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/plutotv(1).png" group-title="ON MAX",Amour Gloire et Beauté
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/271333
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV TEEN SERIES" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/plutotv(1).png" group-title="ON MAX",Pluto TV TEEN SERIES
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/271335
+#EXTINF:-1 tvg-id="" tvg-name="MacGyver" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/plutotv(1).png" group-title="ON MAX",MacGyver
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/271337
+#EXTINF:-1 tvg-id="" tvg-name="Hélène et les garçons" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/plutotv(1).png" group-title="ON MAX",Hélène et les garçons
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/271339
+#EXTINF:-1 tvg-id="" tvg-name="Les filles d'à côté" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/plutotv(1).png" group-title="ON MAX",Les filles d'à côté
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/271341
+#EXTINF:-1 tvg-id="" tvg-name="Le miel et les abeilles" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/plutotv(1).png" group-title="ON MAX",Le miel et les abeilles
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/271343
+#EXTINF:-1 tvg-id="" tvg-name="Le miracle de l'amour" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/plutotv(1).png" group-title="ON MAX",Le miracle de l'amour
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/271345
+#EXTINF:-1 tvg-id="" tvg-name="Instant Saga" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/plutotv(1).png" group-title="ON MAX",Instant Saga
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/271347
+#EXTINF:-1 tvg-id="" tvg-name="Les Cordier" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/plutotv(1).png" group-title="ON MAX",Les Cordier
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/271349
+#EXTINF:-1 tvg-id="" tvg-name="Louis La Brocante" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/plutotv(1).png" group-title="ON MAX",Louis La Brocante
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/271351
+#EXTINF:-1 tvg-id="" tvg-name="Génération Sitcoms" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/plutotv(1).png" group-title="ON MAX",Génération Sitcoms
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/271353
+#EXTINF:-1 tvg-id="" tvg-name="Premiers Baisers" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/plutotv(1).png" group-title="ON MAX",Premiers Baisers
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/271355
+#EXTINF:-1 tvg-id="" tvg-name="Les Années fac" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/plutotv(1).png" group-title="ON MAX",Les Années fac
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/271357
+#EXTINF:-1 tvg-id="" tvg-name="Euronews" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/plutotv(1).png" group-title="ON MAX",Euronews
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/271359
+#EXTINF:-1 tvg-id="" tvg-name="CBS News" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/plutotv(1).png" group-title="ON MAX",CBS News
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/271361
+#EXTINF:-1 tvg-id="" tvg-name="Telefe Noticias" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/plutotv(1).png" group-title="ON MAX",Telefe Noticias
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/271363
+#EXTINF:-1 tvg-id="" tvg-name="Chilevision Noticias" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/plutotv(1).png" group-title="ON MAX",Chilevision Noticias
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/271365
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Investigation" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/plutotv(1).png" group-title="ON MAX",Pluto TV Investigation
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/271367
+#EXTINF:-1 tvg-id="" tvg-name="Les Nouveaux Detectives" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/plutotv(1).png" group-title="ON MAX",Les Nouveaux Detectives
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/271369
+#EXTINF:-1 tvg-id="" tvg-name="Dossiers FBI" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/plutotv(1).png" group-title="ON MAX",Dossiers FBI
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/271371
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Paranormal" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/plutotv(1).png" group-title="ON MAX",Pluto TV Paranormal
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/271373
+#EXTINF:-1 tvg-id="" tvg-name="MTV CLASSICS" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/plutotv(1).png" group-title="ON MAX",MTV CLASSICS
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/271377
+#EXTINF:-1 tvg-id="" tvg-name="BET CLASSICS Pluto TV" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/plutotv(1).png" group-title="ON MAX",BET CLASSICS Pluto TV
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/271379
+#EXTINF:-1 tvg-id="" tvg-name="CATFISH TV" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/plutotv(1).png" group-title="ON MAX",CATFISH TV
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/271381
+#EXTINF:-1 tvg-id="" tvg-name="Are You The One?" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/plutotv(1).png" group-title="ON MAX",Are You The One?
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/271383
+#EXTINF:-1 tvg-id="" tvg-name="TROLL TV" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/plutotv(1).png" group-title="ON MAX",TROLL TV
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/271387
+#EXTINF:-1 tvg-id="" tvg-name="People are Awesome" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/plutotv(1).png" group-title="ON MAX",People are Awesome
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/271389
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Dating" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/plutotv(1).png" group-title="ON MAX",Pluto TV Dating
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/271391
+#EXTINF:-1 tvg-id="" tvg-name="CRIBS : MAISONS DE STAR" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/plutotv(1).png" group-title="ON MAX",CRIBS : MAISONS DE STAR
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/271393
+#EXTINF:-1 tvg-id="" tvg-name="Y'a que la vérité qui compte" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/plutotv(1).png" group-title="ON MAX",Y'a que la vérité qui compte
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/271395
+#EXTINF:-1 tvg-id="" tvg-name="South Park" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/plutotv(1).png" group-title="ON MAX",South Park
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/271397
+#EXTINF:-1 tvg-id="" tvg-name="Gaming TV" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/plutotv(1).png" group-title="ON MAX",Gaming TV
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/271401
+#EXTINF:-1 tvg-id="" tvg-name="IGN" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/plutotv(1).png" group-title="ON MAX",IGN
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/271403
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Retro Toons" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/plutotv(1).png" group-title="ON MAX",Pluto TV Retro Toons
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/271405
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Cuisine" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/plutotv(1).png" group-title="ON MAX",Pluto TV Cuisine
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/271407
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Yoga" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/plutotv(1).png" group-title="ON MAX",Pluto TV Yoga
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/271409
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Inside" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/plutotv(1).png" group-title="ON MAX",Pluto TV Inside
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/271413
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Animaux" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/plutotv(1).png" group-title="ON MAX",Pluto TV Animaux
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/271417
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Histoire" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/plutotv(1).png" group-title="ON MAX",Pluto TV Histoire
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/271419
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Voyage" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/plutotv(1).png" group-title="ON MAX",Pluto TV Voyage
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/271421
+#EXTINF:-1 tvg-id="" tvg-name="Nature Time" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/plutotv(1).png" group-title="ON MAX",Nature Time
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/271423
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Comédie" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/plutotv(1).png" group-title="ON MAX",Pluto TV Comédie
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/271425
+#EXTINF:-1 tvg-id="" tvg-name="FailArmy" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/plutotv(1).png" group-title="ON MAX",FailArmy
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/271427
+#EXTINF:-1 tvg-id="" tvg-name="The Pet Collective" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/plutotv(1).png" group-title="ON MAX",The Pet Collective
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/271429
+#EXTINF:-1 tvg-id="" tvg-name="Juste pour Rire" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/plutotv(1).png" group-title="ON MAX",Juste pour Rire
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/271431
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Kids Séries" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/plutotv(1).png" group-title="ON MAX",Pluto TV Kids Séries
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/271433
+#EXTINF:-1 tvg-id="" tvg-name="Bob l'éponge" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/plutotv(1).png" group-title="ON MAX",Bob l'éponge
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/271435
+#EXTINF:-1 tvg-id="" tvg-name="Avatar" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/plutotv(1).png" group-title="ON MAX",Avatar
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/271437
+#EXTINF:-1 tvg-id="" tvg-name="Tortues Ninja TV" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/plutotv(1).png" group-title="ON MAX",Tortues Ninja TV
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/271439
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Kids Animation" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/plutotv(1).png" group-title="ON MAX",Pluto TV Kids Animation
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/271441
+#EXTINF:-1 tvg-id="" tvg-name="Les Razmoket" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/plutotv(1).png" group-title="ON MAX",Les Razmoket
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/271445
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Junior" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/plutotv(1).png" group-title="ON MAX",Pluto TV Junior
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/271447
+#EXTINF:-1 tvg-id="" tvg-name="Bubble Guppies" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/plutotv(1).png" group-title="ON MAX",Bubble Guppies
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/271449
+#EXTINF:-1 tvg-id="" tvg-name="Dora TV" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/plutotv(1).png" group-title="ON MAX",Dora TV
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/271451
+#EXTINF:-1 tvg-id="" tvg-name="Inazuma Eleven" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/plutotv(1).png" group-title="ON MAX",Inazuma Eleven
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/271453
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Kids Gaming" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/plutotv(1).png" group-title="ON MAX",Pluto TV Kids Gaming
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/271455
+#EXTINF:-1 tvg-id="" tvg-name="Degrassi" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/plutotv(1).png" group-title="ON MAX",Degrassi
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/271457
+#EXTINF:-1 tvg-id="" tvg-name="Sabrina la série animée" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/plutotv(1).png" group-title="ON MAX",Sabrina la série animée
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/271459
+#EXTINF:-1 tvg-id="" tvg-name="Angela Anaconda" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/plutotv(1).png" group-title="ON MAX",Angela Anaconda
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/271461
+#EXTINF:-1 tvg-id="" tvg-name="iCarly TV" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/plutotv(1).png" group-title="ON MAX",iCarly TV
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/271463
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Love Songs" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/plutotv(1).png" group-title="ON MAX",Pluto TV Love Songs
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/271467
+#EXTINF:-1 tvg-id="" tvg-name="Clubbing TV" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/plutotv(1).png" group-title="ON MAX",Clubbing TV
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/271469
+#EXTINF:-1 tvg-id="" tvg-name="Qwest Jazz&Beyond" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/plutotv(1).png" group-title="ON MAX",Qwest Jazz&Beyond
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/271471
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Sports" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/plutotv(1).png" group-title="ON MAX",Pluto TV Sports
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/271473
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Motor" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/plutotv(1).png" group-title="ON MAX",Pluto TV Motor
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/271475
+#EXTINF:-1 tvg-id="" tvg-name="Motorvision TV" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/plutotv(1).png" group-title="ON MAX",Motorvision TV
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/271477
+#EXTINF:-1 tvg-id="" tvg-name="WPT" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/plutotv(1).png" group-title="ON MAX",WPT
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/271479
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Extrême" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/plutotv(1).png" group-title="ON MAX",Pluto TV Extrême
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/271481
+#EXTINF:-1 tvg-id="" tvg-name="FUEL TV" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/plutotv(1).png" group-title="ON MAX",FUEL TV
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/271483
+#EXTINF:-1 tvg-id="#.No.Channel.#" tvg-name="BABY TV" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/BABYTV-1.png" group-title="ON MAX",BABY TV
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2845
+#EXTINF:-1 tvg-id="tiji.fr" tvg-name="TIJI" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/TIJIFHD.png" group-title="ON MAX",TIJI
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2846
+#EXTINF:-1 tvg-id="DubaiTV.ae" tvg-name="BOOMERANG" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/BOOMERANGFHD.png" group-title="ON MAX",BOOMERANG
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2847
+#EXTINF:-1 tvg-id="cartoonnetwork.fr" tvg-name="CARTOON NETWORK" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/CARTOONNETWORKFHD.png" group-title="ON MAX",CARTOON NETWORK
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2848
+#EXTINF:-1 tvg-id="toonami.fr" tvg-name="TOONAMI" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/TOONAMIHD-1.png" group-title="ON MAX",TOONAMI
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2849
+#EXTINF:-1 tvg-id="teletoonplus1.fr" tvg-name="TELETOON +1" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/TELETOON+.png" group-title="ON MAX",TELETOON +1
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2850
+#EXTINF:-1 tvg-id="#.No.Channel.#" tvg-name="TELETOON+" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/TELETOON+.png" group-title="ON MAX",TELETOON+
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2851
+#EXTINF:-1 tvg-id="canalj.fr" tvg-name="CANAL J" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/CANAL-J-FHD.png" group-title="ON MAX",CANAL J
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2852
+#EXTINF:-1 tvg-id="01tv.fr" tvg-name="BOING" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/BOING.png" group-title="ON MAX",BOING
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2853
+#EXTINF:-1 tvg-id="disneyjunior.fr" tvg-name="DISNEY JUNIOR" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/DISNEYJUNIORHD.png" group-title="ON MAX",DISNEY JUNIOR
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2854
+#EXTINF:-1 tvg-id="disneychannelplus1.fr" tvg-name="DISNEY CHANNEL +1" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/DISNEYCHANNEL.png" group-title="ON MAX",DISNEY CHANNEL +1
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2855
+#EXTINF:-1 tvg-id="discoverychannel.fr" tvg-name="DISNEY CHANNEL" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/DISNEYCHANNEL.png" group-title="ON MAX",DISNEY CHANNEL
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2856
+#EXTINF:-1 tvg-id="piwi.fr" tvg-name="PIWI" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/PIWI+.png" group-title="ON MAX",PIWI
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2857
+#EXTINF:-1 tvg-id="nickelodeon.fr" tvg-name="NICKELODEON" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/NICKELODEON.png" group-title="ON MAX",NICKELODEON
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2858
+#EXTINF:-1 tvg-id="nickelodeonteen.fr" tvg-name="NICKELODEON 4 TEEN" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/NICKELODEON-4-TEEN.png" group-title="ON MAX",NICKELODEON 4 TEEN
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2859
+#EXTINF:-1 tvg-id="nickjr.fr" tvg-name="NICKELODEON JUNIOR" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/NICKELODEONJUNIOR.png" group-title="ON MAX",NICKELODEON JUNIOR
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2860
+#EXTINF:-1 tvg-id="gameoneplus1.fr" tvg-name="GAME ONE  +1" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/GAMEONE1.png" group-title="ON MAX",GAME ONE  +1
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2861
+#EXTINF:-1 tvg-id="tiji.fr" tvg-name="TIJI" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/TIJIFHD.png" group-title="ON MAX",TIJI
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2865
+#EXTINF:-1 tvg-id="boomerang.fr" tvg-name="BOOMERANG" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/BOOMERANGFHD.png" group-title="ON MAX",BOOMERANG
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2866
+#EXTINF:-1 tvg-id="cartoonnetwork.fr" tvg-name="CARTOON NETWORK" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/CARTOONNETWORKFHD.png" group-title="ON MAX",CARTOON NETWORK
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2867
+#EXTINF:-1 tvg-id="toonami.fr" tvg-name="TOONAMI" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/TOONAMIHD-1.png" group-title="ON MAX",TOONAMI
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2868
+#EXTINF:-1 tvg-id="teletoonplus1.fr" tvg-name="TELETOON +1" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/TELETOON+.png" group-title="ON MAX",TELETOON +1
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2869
+#EXTINF:-1 tvg-id="teletoonplus1.fr" tvg-name="TELETOON+" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/TELETOON+.png" group-title="ON MAX",TELETOON+
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2870
+#EXTINF:-1 tvg-id="canalj.fr" tvg-name="CANAL J" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/CANAL-J-FHD.png" group-title="ON MAX",CANAL J
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2871
+#EXTINF:-1 tvg-id="01tv.fr" tvg-name="BOING" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/BOING.png" group-title="ON MAX",BOING
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2872
+#EXTINF:-1 tvg-id="disneyjunior.fr" tvg-name="DISNEY JUNIOR" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/DISNEYJUNIORHD.png" group-title="ON MAX",DISNEY JUNIOR
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2873
+#EXTINF:-1 tvg-id="disneychannelplus1.fr" tvg-name="DISNEY CHANNEL +1" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/DISNEYCHANNEL.png" group-title="ON MAX",DISNEY CHANNEL +1
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2874
+#EXTINF:-1 tvg-id="disneychannel.fr" tvg-name="DISNEY CHANNEL" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/DISNEYCHANNEL.png" group-title="ON MAX",DISNEY CHANNEL
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2875
+#EXTINF:-1 tvg-id="#.No.Channel.#" tvg-name="NICKELODEON" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/NICKELODEON.png" group-title="ON MAX",NICKELODEON
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2877
+#EXTINF:-1 tvg-id="nickjr.fr" tvg-name="NICKELODEON JUNIOR" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/NICKELODEONJUNIOR.png" group-title="ON MAX",NICKELODEON JUNIOR
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2878
+#EXTINF:-1 tvg-id="nickelodeonteen.fr" tvg-name="NICKELODEON 4 TEEN" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/NICKELODEON-4-TEEN.png" group-title="ON MAX",NICKELODEON 4 TEEN
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2879
+#EXTINF:-1 tvg-id="" tvg-name="GONG" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/Gong(1).png" group-title="ON MAX",GONG
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/75443
+#EXTINF:-1 tvg-id="" tvg-name="GONG MAX" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/Gong_max(1).png" group-title="ON MAX",GONG MAX
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/75444
+#EXTINF:-1 tvg-id="gameoneplus1.fr" tvg-name="GAME ONE  +1" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/GAMEONE1.png" group-title="ON MAX",GAME ONE  +1
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2880
+#EXTINF:-1 tvg-id="piwi.fr" tvg-name="PIWI" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/PIWI+.png" group-title="ON MAX",PIWI
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2876
+#EXTINF:-1 tvg-id="" tvg-name="TELETOON " tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/TELETOON+.png" group-title="ON MAX",TELETOON 
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/171329
+#EXTINF:-1 tvg-id="m6music.fr" tvg-name="M6 MUSIC " tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/M6MUSIC.png" group-title="ON MAX",M6 MUSIC 
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2981
+#EXTINF:-1 tvg-id="#.No.Channel.#" tvg-name="TRACE URBAN " tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/TRACEURBAN.png" group-title="ON MAX",TRACE URBAN 
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2982
+#EXTINF:-1 tvg-id="mezzolive.fr" tvg-name="MEZZO LIVE " tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/MEZZOLIVE.png" group-title="ON MAX",MEZZO LIVE 
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2983
+#EXTINF:-1 tvg-id="mcm.fr" tvg-name="MCM " tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/MCM1.png" group-title="ON MAX",MCM 
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2984
+#EXTINF:-1 tvg-id="mcmtop.fr" tvg-name="MCM TOP " tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/MCMTOP.png" group-title="ON MAX",MCM TOP 
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2985
+#EXTINF:-1 tvg-id="melody.fr" tvg-name="MELODY TV " tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/MELODY.png" group-title="ON MAX",MELODY TV 
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2986
+#EXTINF:-1 tvg-id="#.No.Channel.#" tvg-name="LFM TV " tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/LFMTV.png" group-title="ON MAX",LFM TV 
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2987
+#EXTINF:-1 tvg-id="01tv.fr" tvg-name="C STAR HIT " tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/C-STAR.png" group-title="ON MAX",C STAR HIT 
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2993
+#EXTINF:-1 tvg-id="01tv.fr" tvg-name="C STAR HITS FRANCE" tvg-logo="http://lg.mygolden.xyz:8080/logo/MUSIC/CStar_Hits_France.png" group-title="ON MAX",C STAR HITS FRANCE
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/171321
+#EXTINF:-1 tvg-id="nrjhits.fr" tvg-name="NRJ HITS " tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/NRJHITS.png" group-title="ON MAX",NRJ HITS 
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2988
+#EXTINF:-1 tvg-id="mtv.fr" tvg-name="MTV " tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/USA/MTV.png" group-title="ON MAX",MTV 
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2990
+#EXTINF:-1 tvg-id="" tvg-name="MTV HITS" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/MALTA/MTV_HITS.png" group-title="ON MAX",MTV HITS
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/167205
+#EXTINF:-1 tvg-id="#.No.Channel.#" tvg-name="TVM 3 " tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/TVM3.png" group-title="ON MAX",TVM 3 
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2992
+#EXTINF:-1 tvg-id="" tvg-name="CLUBBING TV" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/Clubbing_TV(1).png " group-title="ON MAX",CLUBBING TV
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/236757
+#EXTINF:-1 tvg-id="#.No.Channel.#" tvg-name="MY ZEN NATURE " tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/MY-ZEN-TV.png" group-title="ON MAX",MY ZEN NATURE 
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2994
+#EXTINF:-1 tvg-id="#.No.Channel.#" tvg-name="TRACE URBAN" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/TRACEURBAN.png" group-title="ON MAX",TRACE URBAN
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2997
+#EXTINF:-1 tvg-id="mezzolive.fr" tvg-name="MEZZO LIVE" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/MEZZOLIVE.png" group-title="ON MAX",MEZZO LIVE
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2998
+#EXTINF:-1 tvg-id="mcm.fr" tvg-name="MCM" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/MCM1.png" group-title="ON MAX",MCM
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/2999
+#EXTINF:-1 tvg-id="#.No.Channel.#" tvg-name="LFM TV" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/LFMTV.png" group-title="ON MAX",LFM TV
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/3001
+#EXTINF:-1 tvg-id="melody.fr" tvg-name="MELODY TV" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/MELODY.png" group-title="ON MAX",MELODY TV
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/3002
+#EXTINF:-1 tvg-id="nrjhits.fr" tvg-name="NRJ HITS" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/NRJHITS.png" group-title="ON MAX",NRJ HITS
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/3003
+#EXTINF:-1 tvg-id="mtv.fr" tvg-name="MTV" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/USA/MTV.png" group-title="ON MAX",MTV
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/3005
+#EXTINF:-1 tvg-id="" tvg-name="MTV HITS" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/MALTA/MTV_HITS.png" group-title="ON MAX",MTV HITS
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/167203
+#EXTINF:-1 tvg-id="#.No.Channel.#" tvg-name="TVM3" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/TVM3.png" group-title="ON MAX",TVM3
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/3007
+#EXTINF:-1 tvg-id="01tv.fr" tvg-name="C STAR HIT" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/CSTARHITSFRENANCE-1.png" group-title="ON MAX",C STAR HIT
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/3008
+#EXTINF:-1 tvg-id="#.No.Channel.#" tvg-name="MY ZEN NATURE" tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/MY-ZEN-TV.png" group-title="ON MAX",MY ZEN NATURE
+http://onmax.pro:80/E86W41U41E46X8/TOJZYLGNRLUVY0NH/3011
