@@ -412,335 +412,335 @@ http://icecast.pulsradio.com/puls90HD.mp3
 #EXTINF:-1,group-title="RADIO FRANCE", Chante France
 http://stream1.chantefrance.com/Chante_France
 
-#EXTINF:-1 tvg-id="" tvg-name="### BE WALLONIE HD ###" group-title="BE| WALLONIÃ‹",### BE WALLONIE HD ###
+#EXTINF:-1 tvg-id="" tvg-name="### BE WALLONIE HD ###" group-title=BELGIQUE,### BE WALLONIE HD ###
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=812109&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| LA UNE HD" group-title="BE| WALLONIÃ‹",BE| LA UNE HD
+#EXTINF:-1 tvg-id="" tvg-name="BE| LA UNE HD" group-title="BE|BELGIQUE", LA UNE HD
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=812107&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| LA DEUX" group-title="BE| WALLONIÃ‹",BE| LA DEUX
+#EXTINF:-1 tvg-id="" tvg-name="BE| LA DEUX" group-title=BELGIQUE, LA DEUX
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=1326927&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| LA TROIS HD" group-title="BE| WALLONIÃ‹",BE| LA TROIS HD
+#EXTINF:-1 tvg-id="" tvg-name="BE| LA TROIS HD" group-title=BELGIQUE, LA TROIS HD
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=812105&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| TIPIK HD" group-title="BE| WALLONIÃ‹",BE| TIPIK HD
+#EXTINF:-1 tvg-id="" tvg-name="BE| TIPIK HD" group-title=BELGIQUE, TIPIK HD
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=812106&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| RTL TVI HD" group-title="BE| WALLONIÃ‹",BE| RTL TVI HD
+#EXTINF:-1 tvg-id="" tvg-name="BE| RTL TVI HD" group-title=BELGIQUE, RTL TVI HD
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=812104&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| CLUB RTL FHD" group-title="BE| WALLONIÃ‹",BE| CLUB RTL FHD
+#EXTINF:-1 tvg-id="" tvg-name="BE| CLUB RTL FHD" group-title=BELGIQUE, CLUB RTL FHD
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=812103&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| PLUG RTL HD" group-title="BE| WALLONIÃ‹",BE| PLUG RTL HD
+#EXTINF:-1 tvg-id="" tvg-name="BE| PLUG RTL HD" group-title=BELGIQUE, PLUG RTL HD
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=812102&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| BEL RTL" group-title="BE| WALLONIÃ‹",BE| BEL RTL
+#EXTINF:-1 tvg-id="" tvg-name="BE| BEL RTL" group-title=BELGIQUE, BEL RTL
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=812100&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| XITE BELGIE" group-title="BE| WALLONIÃ‹",BE| XITE BELGIE
+#EXTINF:-1 tvg-id="" tvg-name="BE| XITE BELGIE" group-title=BELGIQUE, XITE BELGIE
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=812099&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| NRJ HITS BELGIQUE" group-title="BE| WALLONIÃ‹",BE| NRJ HITS BELGIQUE
+#EXTINF:-1 tvg-id="" tvg-name="BE| NRJ HITS BELGIQUE" group-title=BELGIQUE, NRJ HITS BELGIQUE
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=812098&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| TELE BRUXELLERS" group-title="BE| WALLONIÃ‹",BE| TELE BRUXELLERS
+#EXTINF:-1 tvg-id="" tvg-name="BE| TELE BRUXELLERS" group-title=BELGIQUE, TELE BRUXELLERS
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=812097&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| RTC LIEGE HD" group-title="BE| WALLONIÃ‹",BE| RTC LIEGE HD
+#EXTINF:-1 tvg-id="" tvg-name="BE| RTC LIEGE HD" group-title=BELGIQUE, RTC LIEGE HD
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=816181&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| AB 1 HD" group-title="BE| WALLONIÃ‹",BE| AB 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="BE| AB 1 HD" group-title=BELGIQUE, AB 1 HD
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=812119&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| AB 3 HD" group-title="BE| WALLONIÃ‹",BE| AB 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="BE| AB 3 HD" group-title=BELGIQUE, AB 3 HD
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=812101&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| ABXPLORE HD" group-title="BE| WALLONIÃ‹",BE| ABXPLORE HD
+#EXTINF:-1 tvg-id="" tvg-name="BE| ABXPLORE HD" group-title=BELGIQUE, ABXPLORE HD
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=812118&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| LN24" group-title="BE| WALLONIÃ‹",BE| LN24
+#EXTINF:-1 tvg-id="" tvg-name="BE| LN24" group-title=BELGIQUE, LN24
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=812117&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| MATELE HD" group-title="BE| WALLONIÃ‹",BE| MATELE HD
+#EXTINF:-1 tvg-id="" tvg-name="BE| MATELE HD" group-title=BELGIQUE, MATELE HD
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=812116&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| TVL HD" group-title="BE| WALLONIÃ‹",BE| TVL HD
+#EXTINF:-1 tvg-id="" tvg-name="BE| TVL HD" group-title=BELGIQUE, TVL HD
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=812115&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| BX1 HD" group-title="BE| WALLONIÃ‹",BE| BX1 HD
+#EXTINF:-1 tvg-id="" tvg-name="BE| BX1 HD" group-title=BELGIQUE, BX1 HD
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=812112&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| RADIO CONTACT" group-title="BE| WALLONIÃ‹",BE| RADIO CONTACT
+#EXTINF:-1 tvg-id="" tvg-name="BE| RADIO CONTACT" group-title=BELGIQUE, RADIO CONTACT
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=812130&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| TIPIK VISION HD" group-title="BE| WALLONIÃ‹",BE| TIPIK VISION HD
+#EXTINF:-1 tvg-id="" tvg-name="BE| TIPIK VISION HD" group-title=BELGIQUE, TIPIK VISION HD
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=812129&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| Q-MUSIC" group-title="BE| WALLONIÃ‹",BE| Q-MUSIC
+#EXTINF:-1 tvg-id="" tvg-name="BE| Q-MUSIC" group-title=BELGIQUE, Q-MUSIC
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=1326944&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| BRUZZ HD" group-title="BE| WALLONIÃ‹",BE| BRUZZ HD
+#EXTINF:-1 tvg-id="" tvg-name="BE| BRUZZ HD" group-title=BELGIQUE, BRUZZ HD
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=816179&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| TV LUX HD" group-title="BE| WALLONIÃ‹",BE| TV LUX HD
+#EXTINF:-1 tvg-id="" tvg-name="BE| TV LUX HD" group-title=BELGIQUE, TV LUX HD
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=816178&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| ACTV HD" group-title="BE| WALLONIÃ‹",BE| ACTV HD
+#EXTINF:-1 tvg-id="" tvg-name="BE| ACTV HD" group-title=BELGIQUE, ACTV HD
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=816177&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| NOTELE HD" group-title="BE| WALLONIÃ‹",BE| NOTELE HD
+#EXTINF:-1 tvg-id="" tvg-name="BE| NOTELE HD" group-title=BELGIQUE, NOTELE HD
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=816176&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| TELE SAMBRE HD" group-title="BE| WALLONIÃ‹",BE| TELE SAMBRE HD
+#EXTINF:-1 tvg-id="" tvg-name="BE| TELE SAMBRE HD" group-title=BELGIQUE, TELE SAMBRE HD
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=816175&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| TVCOM HD" group-title="BE| WALLONIÃ‹",BE| TVCOM HD
+#EXTINF:-1 tvg-id="" tvg-name="BE| TVCOM HD" group-title=BELGIQUE, TVCOM HD
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=816174&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| VEDIA HD" group-title="BE| WALLONIÃ‹",BE| VEDIA HD
+#EXTINF:-1 tvg-id="" tvg-name="BE| VEDIA HD" group-title=BELGIQUE, VEDIA HD
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=816173&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| CANAL Z HD" group-title="BE| WALLONIÃ‹",BE| CANAL Z HD
+#EXTINF:-1 tvg-id="" tvg-name="BE| CANAL Z HD" group-title=BELGIQUE, CANAL Z HD
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=816171&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| VRT 1" group-title="BE| WALLONIÃ‹",BE| VRT 1
+#EXTINF:-1 tvg-id="" tvg-name="BE| VRT 1" group-title=BELGIQUE, VRT 1
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=1326948&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| FOX" group-title="BE| WALLONIÃ‹",BE| FOX
+#EXTINF:-1 tvg-id="" tvg-name="BE| FOX" group-title=BELGIQUE, FOX
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=1326947&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| PLATTELANDS TV" group-title="BE| WALLONIÃ‹",BE| PLATTELANDS TV
+#EXTINF:-1 tvg-id="" tvg-name="BE| PLATTELANDS TV" group-title=BELGIQUE, PLATTELANDS TV
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=1326946&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| VLAAMS PARLEMENT TV" group-title="BE| WALLONIÃ‹",BE| VLAAMS PARLEMENT TV
+#EXTINF:-1 tvg-id="" tvg-name="BE| VLAAMS PARLEMENT TV" group-title=BELGIQUE, VLAAMS PARLEMENT TV
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=1326943&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| MEDIASET" group-title="BE| WALLONIÃ‹",BE| MEDIASET
+#EXTINF:-1 tvg-id="" tvg-name="BE| MEDIASET" group-title=BELGIQUE, MEDIASET
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=1326941&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| HORSE & COUNTRY" group-title="BE| WALLONIÃ‹",BE| HORSE & COUNTRY
+#EXTINF:-1 tvg-id="" tvg-name="BE| HORSE & COUNTRY" group-title=BELGIQUE, HORSE & COUNTRY
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=1326940&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| SPORT 10 HD" group-title="BE| WALLONIÃ‹",BE| SPORT 10 HD
+#EXTINF:-1 tvg-id="" tvg-name="BE| SPORT 10 HD" group-title=BELGIQUE, SPORT 10 HD
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=1326939&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| W SPORT HD" group-title="BE| WALLONIÃ‹",BE| W SPORT HD
+#EXTINF:-1 tvg-id="" tvg-name="BE| W SPORT HD" group-title=BELGIQUE, W SPORT HD
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=1326938&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| COMEDIE +" group-title="BE| WALLONIÃ‹",BE| COMEDIE +
+#EXTINF:-1 tvg-id="" tvg-name="BE| COMEDIE +" group-title=BELGIQUE, COMEDIE +
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=1326937&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| SHORTS TV" group-title="BE| WALLONIÃ‹",BE| SHORTS TV
+#EXTINF:-1 tvg-id="" tvg-name="BE| SHORTS TV" group-title=BELGIQUE, SHORTS TV
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=1326936&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| CARTOONITO" group-title="BE| WALLONIÃ‹",BE| CARTOONITO
+#EXTINF:-1 tvg-id="" tvg-name="BE| CARTOONITO" group-title=BELGIQUE, CARTOONITO
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=1326935&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| CNN" group-title="BE| WALLONIÃ‹",BE| CNN
+#EXTINF:-1 tvg-id="" tvg-name="BE| CNN" group-title=BELGIQUE, CNN
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=1326934&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| CNBC EUROPE" group-title="BE| WALLONIÃ‹",BE| CNBC EUROPE
+#EXTINF:-1 tvg-id="" tvg-name="BE| CNBC EUROPE" group-title=BELGIQUE, CNBC EUROPE
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=1326933&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| C8" group-title="BE| WALLONIÃ‹",BE| C8
+#EXTINF:-1 tvg-id="" tvg-name="BE| C8" group-title=BELGIQUE, C8
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=1326932&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| TMC" group-title="BE| WALLONIÃ‹",BE| TMC
+#EXTINF:-1 tvg-id="" tvg-name="BE| TMC" group-title=BELGIQUE, TMC
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=1326931&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| TFX" group-title="BE| WALLONIÃ‹",BE| TFX
+#EXTINF:-1 tvg-id="" tvg-name="BE| TFX" group-title=BELGIQUE, TFX
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=1326930&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| PLANET AVENTURE" group-title="BE| WALLONIÃ‹",BE| PLANET AVENTURE
+#EXTINF:-1 tvg-id="" tvg-name="BE| PLANET AVENTURE" group-title=BELGIQUE, PLANET AVENTURE
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=1326929&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| ARTE BELGIQUE HD" group-title="BE| WALLONIÃ‹",BE| ARTE BELGIQUE HD
+#EXTINF:-1 tvg-id="" tvg-name="BE| ARTE BELGIQUE HD" group-title=BELGIQUE, ARTE BELGIQUE HD
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=1326928&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| TF1 HD" group-title="BE| WALLONIÃ‹",BE| TF1 HD
+#EXTINF:-1 tvg-id="" tvg-name="BE| TF1 HD" group-title=BELGIQUE, TF1 HD
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=812136&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| FRANCE 2 HD" group-title="BE| WALLONIÃ‹",BE| FRANCE 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="BE| FRANCE 2 HD" group-title=BELGIQUE, FRANCE 2 HD
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=812135&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| FRANCE 3 HD" group-title="BE| WALLONIÃ‹",BE| FRANCE 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="BE| FRANCE 3 HD" group-title=BELGIQUE, FRANCE 3 HD
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=812134&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| FRANCE 4 HD" group-title="BE| WALLONIÃ‹",BE| FRANCE 4 HD
+#EXTINF:-1 tvg-id="" tvg-name="BE| FRANCE 4 HD" group-title=BELGIQUE, FRANCE 4 HD
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=812133&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| FRANCE 5 HD" group-title="BE| WALLONIÃ‹",BE| FRANCE 5 HD
+#EXTINF:-1 tvg-id="" tvg-name="BE| FRANCE 5 HD" group-title=BELGIQUE, FRANCE 5 HD
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=812132&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="### BE ENFANTS WL ###" group-title="BE| WALLONIÃ‹",### BE ENFANTS WL ###
+#EXTINF:-1 tvg-id="" tvg-name="### BE ENFANTS WL ###" group-title=BELGIQUE,### BE ENFANTS WL ###
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=812196&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| DISNEY CHANNEL HD" group-title="BE| WALLONIÃ‹",BE| DISNEY CHANNEL HD
+#EXTINF:-1 tvg-id="" tvg-name="BE| DISNEY CHANNEL HD" group-title=BELGIQUE, DISNEY CHANNEL HD
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=812194&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| DISNEY JUNIOR HD" group-title="BE| WALLONIÃ‹",BE| DISNEY JUNIOR HD
+#EXTINF:-1 tvg-id="" tvg-name="BE| DISNEY JUNIOR HD" group-title=BELGIQUE, DISNEY JUNIOR HD
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=812193&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| NICKELODEON HD" group-title="BE| WALLONIÃ‹",BE| NICKELODEON HD
+#EXTINF:-1 tvg-id="" tvg-name="BE| NICKELODEON HD" group-title=BELGIQUE, NICKELODEON HD
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=812192&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| NICKELODEON JUNIOR HD" group-title="BE| WALLONIÃ‹",BE| NICKELODEON JUNIOR HD
+#EXTINF:-1 tvg-id="" tvg-name="BE| NICKELODEON JUNIOR HD" group-title=BELGIQUE, NICKELODEON JUNIOR HD
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=812191&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| NICKELODEON 4 TEEN HD" group-title="BE| WALLONIÃ‹",BE| NICKELODEON 4 TEEN HD
+#EXTINF:-1 tvg-id="" tvg-name="BE| NICKELODEON 4 TEEN HD" group-title=BELGIQUE, NICKELODEON 4 TEEN HD
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=812190&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| GULLI  HD" group-title="BE| WALLONIÃ‹",BE| GULLI  HD
+#EXTINF:-1 tvg-id="" tvg-name="BE| GULLI  HD" group-title=BELGIQUE, GULLI  HD
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=812189&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| PIWI+ HD" group-title="BE| WALLONIÃ‹",BE| PIWI+ HD
+#EXTINF:-1 tvg-id="" tvg-name="BE| PIWI+ HD" group-title=BELGIQUE, PIWI+ HD
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=812188&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| TIJI HD" group-title="BE| WALLONIÃ‹",BE| TIJI HD
+#EXTINF:-1 tvg-id="" tvg-name="BE| TIJI HD" group-title=BELGIQUE, TIJI HD
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=812187&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| TELETOON+ HD" group-title="BE| WALLONIÃ‹",BE| TELETOON+ HD
+#EXTINF:-1 tvg-id="" tvg-name="BE| TELETOON+ HD" group-title=BELGIQUE, TELETOON+ HD
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=812186&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| BOING HD" group-title="BE| WALLONIÃ‹",BE| BOING HD
+#EXTINF:-1 tvg-id="" tvg-name="BE| BOING HD" group-title=BELGIQUE, BOING HD
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=812185&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| BOOMERANG HD" group-title="BE| WALLONIÃ‹",BE| BOOMERANG HD
+#EXTINF:-1 tvg-id="" tvg-name="BE| BOOMERANG HD" group-title=BELGIQUE, BOOMERANG HD
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=812184&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| TOONAMI HD" group-title="BE| WALLONIÃ‹",BE| TOONAMI HD
+#EXTINF:-1 tvg-id="" tvg-name="BE| TOONAMI HD" group-title=BELGIQUE, TOONAMI HD
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=812183&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| CARTOON NETWORK HD" group-title="BE| WALLONIÃ‹",BE| CARTOON NETWORK HD
+#EXTINF:-1 tvg-id="" tvg-name="BE| CARTOON NETWORK HD" group-title=BELGIQUE, CARTOON NETWORK HD
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=812182&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="### BE CINEMA WL ###" group-title="BE| WALLONIÃ‹",### BE CINEMA WL ###
+#EXTINF:-1 tvg-id="" tvg-name="### BE CINEMA WL ###" group-title=BELGIQUE,### BE CINEMA WL ###
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=812180&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| BE 1" group-title="BE| WALLONIÃ‹",BE| BE 1
+#EXTINF:-1 tvg-id="" tvg-name="BE| BE 1" group-title=BELGIQUE, BE 1
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=1138903&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| CANAL+ DECALE HD" group-title="BE| WALLONIÃ‹",BE| CANAL+ DECALE HD
+#EXTINF:-1 tvg-id="" tvg-name="BE| CANAL+ DECALE HD" group-title=BELGIQUE, CANAL+ DECALE HD
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=812179&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| CINE+ PREMIER HD" group-title="BE| WALLONIÃ‹",BE| CINE+ PREMIER HD
+#EXTINF:-1 tvg-id="" tvg-name="BE| CINE+ PREMIER HD" group-title=BELGIQUE, CINE+ PREMIER HD
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=812178&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| CINE+ EMOTION HD" group-title="BE| WALLONIÃ‹",BE| CINE+ EMOTION HD
+#EXTINF:-1 tvg-id="" tvg-name="BE| CINE+ EMOTION HD" group-title=BELGIQUE, CINE+ EMOTION HD
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=812177&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| CINE+ FAMIZ HD" group-title="BE| WALLONIÃ‹",BE| CINE+ FAMIZ HD
+#EXTINF:-1 tvg-id="" tvg-name="BE| CINE+ FAMIZ HD" group-title=BELGIQUE, CINE+ FAMIZ HD
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=812176&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| CINE+ FRISSON HD" group-title="BE| WALLONIÃ‹",BE| CINE+ FRISSON HD
+#EXTINF:-1 tvg-id="" tvg-name="BE| CINE+ FRISSON HD" group-title=BELGIQUE, CINE+ FRISSON HD
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=812175&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| CINE+ CLUB HD" group-title="BE| WALLONIÃ‹",BE| CINE+ CLUB HD
+#EXTINF:-1 tvg-id="" tvg-name="BE| CINE+ CLUB HD" group-title=BELGIQUE, CINE+ CLUB HD
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=812174&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| CINE+ CLASSIC HD" group-title="BE| WALLONIÃ‹",BE| CINE+ CLASSIC HD
+#EXTINF:-1 tvg-id="" tvg-name="BE| CINE+ CLASSIC HD" group-title=BELGIQUE, CINE+ CLASSIC HD
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=812173&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="### BE SPORTS WL ###" group-title="BE| WALLONIÃ‹",### BE SPORTS WL ###
+#EXTINF:-1 tvg-id="" tvg-name="### BE SPORTS WL ###" group-title=BELGIQUE,### BE SPORTS WL ###
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=812172&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| VOO SPORT WORLD 1 HD" group-title="BE| WALLONIÃ‹",BE| VOO SPORT WORLD 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="BE| VOO SPORT WORLD 1 HD" group-title=BELGIQUE, VOO SPORT WORLD 1 HD
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=812171&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| VOO SPORT WORLD 2 HD" group-title="BE| WALLONIÃ‹",BE| VOO SPORT WORLD 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="BE| VOO SPORT WORLD 2 HD" group-title=BELGIQUE, VOO SPORT WORLD 2 HD
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=812170&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| VOO SPORT WORLD 3 HD" group-title="BE| WALLONIÃ‹",BE| VOO SPORT WORLD 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="BE| VOO SPORT WORLD 3 HD" group-title=BELGIQUE, VOO SPORT WORLD 3 HD
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=812169&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| ELEVEN PRO LEAGUES 1 HD (FR)" group-title="BE| WALLONIÃ‹",BE| ELEVEN PRO LEAGUES 1 HD (FR)
+#EXTINF:-1 tvg-id="" tvg-name="BE| ELEVEN PRO LEAGUES 1 HD (FR)" group-title=BELGIQUE, ELEVEN PRO LEAGUES 1 HD (FR)
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=812168&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| ELEVEN PRO LEAGUES 2 HD (FR)" group-title="BE| WALLONIÃ‹",BE| ELEVEN PRO LEAGUES 2 HD (FR)
+#EXTINF:-1 tvg-id="" tvg-name="BE| ELEVEN PRO LEAGUES 2 HD (FR)" group-title=BELGIQUE, ELEVEN PRO LEAGUES 2 HD (FR)
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=812167&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| ELEVEN PRO LEAGUES 3 HD (FR)" group-title="BE| WALLONIÃ‹",BE| ELEVEN PRO LEAGUES 3 HD (FR)
+#EXTINF:-1 tvg-id="" tvg-name="BE| ELEVEN PRO LEAGUES 3 HD (FR)" group-title=BELGIQUE, ELEVEN PRO LEAGUES 3 HD (FR)
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=812166&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| ELEVEN SPORTS 1 (FR)" group-title="BE| WALLONIÃ‹",BE| ELEVEN SPORTS 1 (FR)
+#EXTINF:-1 tvg-id="" tvg-name="BE| ELEVEN SPORTS 1 (FR)" group-title=BELGIQUE, ELEVEN SPORTS 1 (FR)
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=812165&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| ELEVEN SPORTS 2 (FR)" group-title="BE| WALLONIÃ‹",BE| ELEVEN SPORTS 2 (FR)
+#EXTINF:-1 tvg-id="" tvg-name="BE| ELEVEN SPORTS 2 (FR)" group-title=BELGIQUE, ELEVEN SPORTS 2 (FR)
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=812164&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| ELEVEN SPORTS 3 (FR)" group-title="BE| WALLONIÃ‹",BE| ELEVEN SPORTS 3 (FR)
+#EXTINF:-1 tvg-id="" tvg-name="BE| ELEVEN SPORTS 3 (FR)" group-title=BELGIQUE, ELEVEN SPORTS 3 (FR)
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=812163&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="### BE DOCUMENTAIRE WL ###" group-title="BE| WALLONIÃ‹",### BE DOCUMENTAIRE WL ###
+#EXTINF:-1 tvg-id="" tvg-name="### BE DOCUMENTAIRE WL ###" group-title=BELGIQUE,### BE DOCUMENTAIRE WL ###
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=812150&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| PLANETE+ HD" group-title="BE| WALLONIÃ‹",BE| PLANETE+ HD
+#EXTINF:-1 tvg-id="" tvg-name="BE| PLANETE+ HD" group-title=BELGIQUE, PLANETE+ HD
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=812149&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| PLANETE+ A&E HD" group-title="BE| WALLONIÃ‹",BE| PLANETE+ A&E HD
+#EXTINF:-1 tvg-id="" tvg-name="BE| PLANETE+ A&E HD" group-title=BELGIQUE, PLANETE+ A&E HD
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=812148&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| PLANETE+ CI HD" group-title="BE| WALLONIÃ‹",BE| PLANETE+ CI HD
+#EXTINF:-1 tvg-id="" tvg-name="BE| PLANETE+ CI HD" group-title=BELGIQUE, PLANETE+ CI HD
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=812147&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| CRIME DISTRICT HD" group-title="BE| WALLONIÃ‹",BE| CRIME DISTRICT HD
+#EXTINF:-1 tvg-id="" tvg-name="BE| CRIME DISTRICT HD" group-title=BELGIQUE, CRIME DISTRICT HD
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=812146&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| DISCOVERY INVESTIGATION HD" group-title="BE| WALLONIÃ‹",BE| DISCOVERY INVESTIGATION HD
+#EXTINF:-1 tvg-id="" tvg-name="BE| DISCOVERY INVESTIGATION HD" group-title=BELGIQUE, DISCOVERY INVESTIGATION HD
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=812145&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| DISCOVERY CHANNEL HD" group-title="BE| WALLONIÃ‹",BE| DISCOVERY CHANNEL HD
+#EXTINF:-1 tvg-id="" tvg-name="BE| DISCOVERY CHANNEL HD" group-title=BELGIQUE, DISCOVERY CHANNEL HD
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=812144&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| DISCOVERY SCIENCE HD" group-title="BE| WALLONIÃ‹",BE| DISCOVERY SCIENCE HD
+#EXTINF:-1 tvg-id="" tvg-name="BE| DISCOVERY SCIENCE HD" group-title=BELGIQUE, DISCOVERY SCIENCE HD
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=812142&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| USHUAIA TV HD" group-title="BE| WALLONIÃ‹",BE| USHUAIA TV HD
+#EXTINF:-1 tvg-id="" tvg-name="BE| USHUAIA TV HD" group-title=BELGIQUE, USHUAIA TV HD
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=812141&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| NATIONAL GEO CHANNEL HD" group-title="BE| WALLONIÃ‹",BE| NATIONAL GEO CHANNEL HD
+#EXTINF:-1 tvg-id="" tvg-name="BE| NATIONAL GEO CHANNEL HD" group-title=BELGIQUE, NATIONAL GEO CHANNEL HD
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=812140&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| NAT GEO WILD HD" group-title="BE| WALLONIÃ‹",BE| NAT GEO WILD HD
+#EXTINF:-1 tvg-id="" tvg-name="BE| NAT GEO WILD HD" group-title=BELGIQUE, NAT GEO WILD HD
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=812139&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| SCIENCES & VIE HD" group-title="BE| WALLONIÃ‹",BE| SCIENCES & VIE HD
+#EXTINF:-1 tvg-id="" tvg-name="BE| SCIENCES & VIE HD" group-title=BELGIQUE, SCIENCES & VIE HD
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=812138&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| HISTOIRE HD" group-title="BE| WALLONIÃ‹",BE| HISTOIRE HD
+#EXTINF:-1 tvg-id="" tvg-name="BE| HISTOIRE HD" group-title=BELGIQUE, HISTOIRE HD
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=812137&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="### DAZN EXCLUSIVE \u1d41\u1d34\u1d30 ###" group-title="BE| DAZN EXCLUSIVE",### DAZN EXCLUSIVE \u1d41\u1d34\u1d30 ###
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=1375004&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN VRT 1 \u1d34\u1d30" group-title="BE| DAZN EXCLUSIVE",BE| DAZN VRT 1 \u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN VRT 1 \u1d34\u1d30" group-title="BE| DAZN EXCLUSIVE", DAZN VRT 1 \u1d34\u1d30
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=1375047&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN VRT CANVAS \u1d34\u1d30" group-title="BE| DAZN EXCLUSIVE",BE| DAZN VRT CANVAS \u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN VRT CANVAS \u1d34\u1d30" group-title="BE| DAZN EXCLUSIVE", DAZN VRT CANVAS \u1d34\u1d30
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=1375048&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN VTM \u1d34\u1d30" group-title="BE| DAZN EXCLUSIVE",BE| DAZN VTM \u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN VTM \u1d34\u1d30" group-title="BE| DAZN EXCLUSIVE", DAZN VTM \u1d34\u1d30
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=1375049&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN VTM 2 \u1d34\u1d30" group-title="BE| DAZN EXCLUSIVE",BE| DAZN VTM 2 \u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN VTM 2 \u1d34\u1d30" group-title="BE| DAZN EXCLUSIVE", DAZN VTM 2 \u1d34\u1d30
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=1375050&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN VTM 3 \u1d34\u1d30" group-title="BE| DAZN EXCLUSIVE",BE| DAZN VTM 3 \u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN VTM 3 \u1d34\u1d30" group-title="BE| DAZN EXCLUSIVE", DAZN VTM 3 \u1d34\u1d30
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=1375051&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN VTM\u00a0NON-STOP\u00a090s \u1d34\u1d30" group-title="BE| DAZN EXCLUSIVE",BE| DAZN VTM\u00a0NON-STOP\u00a090s \u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN VTM\u00a0NON-STOP\u00a090s \u1d34\u1d30" group-title="BE| DAZN EXCLUSIVE", DAZN VTM\u00a0NON-STOP\u00a090s \u1d34\u1d30
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=1375053&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN VTM GOLD \u1d34\u1d30" group-title="BE| DAZN EXCLUSIVE",BE| DAZN VTM GOLD \u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN VTM GOLD \u1d34\u1d30" group-title="BE| DAZN EXCLUSIVE", DAZN VTM GOLD \u1d34\u1d30
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=1375052&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN PLAY 4 \u1d34\u1d30" group-title="BE| DAZN EXCLUSIVE",BE| DAZN PLAY 4 \u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN PLAY 4 \u1d34\u1d30" group-title="BE| DAZN EXCLUSIVE", DAZN PLAY 4 \u1d34\u1d30
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=1375043&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN PLAY 5 \u1d34\u1d30" group-title="BE| DAZN EXCLUSIVE",BE| DAZN PLAY 5 \u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN PLAY 5 \u1d34\u1d30" group-title="BE| DAZN EXCLUSIVE", DAZN PLAY 5 \u1d34\u1d30
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=1375044&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN PLAY 6 \u1d34\u1d30" group-title="BE| DAZN EXCLUSIVE",BE| DAZN PLAY 6 \u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN PLAY 6 \u1d34\u1d30" group-title="BE| DAZN EXCLUSIVE", DAZN PLAY 6 \u1d34\u1d30
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=1375045&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN PLAY 7 \u1d34\u1d30" group-title="BE| DAZN EXCLUSIVE",BE| DAZN PLAY 7 \u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN PLAY 7 \u1d34\u1d30" group-title="BE| DAZN EXCLUSIVE", DAZN PLAY 7 \u1d34\u1d30
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=1375046&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN STAR CHANNEL \u1d34\u1d30" group-title="BE| DAZN EXCLUSIVE",BE| DAZN STAR CHANNEL \u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN STAR CHANNEL \u1d34\u1d30" group-title="BE| DAZN EXCLUSIVE", DAZN STAR CHANNEL \u1d34\u1d30
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=1375074&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN KANAAL Z \u1d34\u1d30" group-title="BE| DAZN EXCLUSIVE",BE| DAZN KANAAL Z \u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN KANAAL Z \u1d34\u1d30" group-title="BE| DAZN EXCLUSIVE", DAZN KANAAL Z \u1d34\u1d30
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=1375063&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN KETNET \u1d34\u1d30" group-title="BE| DAZN EXCLUSIVE",BE| DAZN KETNET \u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN KETNET \u1d34\u1d30" group-title="BE| DAZN EXCLUSIVE", DAZN KETNET \u1d34\u1d30
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=1375064&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN MEAT \u1d34\u1d30" group-title="BE| DAZN EXCLUSIVE",BE| DAZN MEAT \u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN MEAT \u1d34\u1d30" group-title="BE| DAZN EXCLUSIVE", DAZN MEAT \u1d34\u1d30
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=1375066&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN DAZN ELEVEN 3 NL \u1d34\u1d30" group-title="BE| DAZN EXCLUSIVE",BE| DAZN DAZN ELEVEN 3 NL \u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN DAZN ELEVEN 3 NL \u1d34\u1d30" group-title="BE| DAZN EXCLUSIVE", DAZN DAZN ELEVEN 3 NL \u1d34\u1d30
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=1375041&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN SPORT 10 \u1d34\u1d30" group-title="BE| DAZN EXCLUSIVE",BE| DAZN SPORT 10 \u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN SPORT 10 \u1d34\u1d30" group-title="BE| DAZN EXCLUSIVE", DAZN SPORT 10 \u1d34\u1d30
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=1375042&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN BABY TV \u1d34\u1d30" group-title="BE| DAZN EXCLUSIVE",BE| DAZN BABY TV \u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN BABY TV \u1d34\u1d30" group-title="BE| DAZN EXCLUSIVE", DAZN BABY TV \u1d34\u1d30
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=1375055&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN BLOOMBERG \u1d34\u1d30" group-title="BE| DAZN EXCLUSIVE",BE| DAZN BLOOMBERG \u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN BLOOMBERG \u1d34\u1d30" group-title="BE| DAZN EXCLUSIVE", DAZN BLOOMBERG \u1d34\u1d30
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=1375057&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN COMEDY CENTRAL \u1d34\u1d30" group-title="BE| DAZN EXCLUSIVE",BE| DAZN COMEDY CENTRAL \u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN COMEDY CENTRAL \u1d34\u1d30" group-title="BE| DAZN EXCLUSIVE", DAZN COMEDY CENTRAL \u1d34\u1d30
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=1375058&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN DISNEY CHANNEL \u1d34\u1d30" group-title="BE| DAZN EXCLUSIVE",BE| DAZN DISNEY CHANNEL \u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN DISNEY CHANNEL \u1d34\u1d30" group-title="BE| DAZN EXCLUSIVE", DAZN DISNEY CHANNEL \u1d34\u1d30
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=1375059&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN NICK JR \u1d34\u1d30" group-title="BE| DAZN EXCLUSIVE",BE| DAZN NICK JR \u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN NICK JR \u1d34\u1d30" group-title="BE| DAZN EXCLUSIVE", DAZN NICK JR \u1d34\u1d30
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=1375071&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN NICKELODEON \u1d34\u1d30" group-title="BE| DAZN EXCLUSIVE",BE| DAZN NICKELODEON \u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN NICKELODEON \u1d34\u1d30" group-title="BE| DAZN EXCLUSIVE", DAZN NICKELODEON \u1d34\u1d30
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=1375072&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN DUCK \u1d34\u1d30" group-title="BE| DAZN EXCLUSIVE",BE| DAZN DUCK \u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN DUCK \u1d34\u1d30" group-title="BE| DAZN EXCLUSIVE", DAZN DUCK \u1d34\u1d30
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=1375060&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN BBC FIRST \u1d34\u1d30" group-title="BE| DAZN EXCLUSIVE",BE| DAZN BBC FIRST \u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN BBC FIRST \u1d34\u1d30" group-title="BE| DAZN EXCLUSIVE", DAZN BBC FIRST \u1d34\u1d30
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=1375056&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN NATIONAL GEOGRAPHIC \u1d34\u1d30" group-title="BE| DAZN EXCLUSIVE",BE| DAZN NATIONAL GEOGRAPHIC \u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN NATIONAL GEOGRAPHIC \u1d34\u1d30" group-title="BE| DAZN EXCLUSIVE", DAZN NATIONAL GEOGRAPHIC \u1d34\u1d30
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=1375070&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN H C \u1d34\u1d30" group-title="BE| DAZN EXCLUSIVE",BE| DAZN H C \u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN H C \u1d34\u1d30" group-title="BE| DAZN EXCLUSIVE", DAZN H C \u1d34\u1d30
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=1375061&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN HISTORY \u1d34\u1d30" group-title="BE| DAZN EXCLUSIVE",BE| DAZN HISTORY \u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN HISTORY \u1d34\u1d30" group-title="BE| DAZN EXCLUSIVE", DAZN HISTORY \u1d34\u1d30
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=1375062&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN L1MBURG \u1d34\u1d30" group-title="BE| DAZN EXCLUSIVE",BE| DAZN L1MBURG \u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN L1MBURG \u1d34\u1d30" group-title="BE| DAZN EXCLUSIVE", DAZN L1MBURG \u1d34\u1d30
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=1375065&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN MEDIASET \u1d34\u1d30" group-title="BE| DAZN EXCLUSIVE",BE| DAZN MEDIASET \u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN MEDIASET \u1d34\u1d30" group-title="BE| DAZN EXCLUSIVE", DAZN MEDIASET \u1d34\u1d30
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=1375067&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN MY ZEN \u1d34\u1d30" group-title="BE| DAZN EXCLUSIVE",BE| DAZN MY ZEN \u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN MY ZEN \u1d34\u1d30" group-title="BE| DAZN EXCLUSIVE", DAZN MY ZEN \u1d34\u1d30
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=1375069&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN OMROEP ZEELAND \u1d34\u1d30" group-title="BE| DAZN EXCLUSIVE",BE| DAZN OMROEP ZEELAND \u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN OMROEP ZEELAND \u1d34\u1d30" group-title="BE| DAZN EXCLUSIVE", DAZN OMROEP ZEELAND \u1d34\u1d30
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=1375073&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN MTV \u1d34\u1d30" group-title="BE| DAZN EXCLUSIVE",BE| DAZN MTV \u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN MTV \u1d34\u1d30" group-title="BE| DAZN EXCLUSIVE", DAZN MTV \u1d34\u1d30
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=1375068&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN 192 TV \u1d34\u1d30" group-title="BE| DAZN EXCLUSIVE",BE| DAZN 192 TV \u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN 192 TV \u1d34\u1d30" group-title="BE| DAZN EXCLUSIVE", DAZN 192 TV \u1d34\u1d30
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=1375054&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN TV ORANJE \u1d34\u1d30" group-title="BE| DAZN EXCLUSIVE",BE| DAZN TV ORANJE \u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN TV ORANJE \u1d34\u1d30" group-title="BE| DAZN EXCLUSIVE", DAZN TV ORANJE \u1d34\u1d30
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=1375075&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN XITE \u1d34\u1d30" group-title="BE| DAZN EXCLUSIVE",BE| DAZN XITE \u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN XITE \u1d34\u1d30" group-title="BE| DAZN EXCLUSIVE", DAZN XITE \u1d34\u1d30
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=1375076&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="##### DAZN EXCLUSIVE \u1d41\u1d34\u1d30 #####" group-title="BE| DAZN PPV",##### DAZN EXCLUSIVE \u1d41\u1d34\u1d30 #####
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=1365612&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN ELEVEN 1 NL SD" group-title="BE| DAZN PPV",BE| DAZN ELEVEN 1 NL SD
+#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN ELEVEN 1 NL SD" group-title="BE| DAZN PPV", DAZN ELEVEN 1 NL SD
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=1365611&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN ELEVEN 1 NL \u1d34\u1d30" group-title="BE| DAZN PPV",BE| DAZN ELEVEN 1 NL \u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN ELEVEN 1 NL \u1d34\u1d30" group-title="BE| DAZN PPV", DAZN ELEVEN 1 NL \u1d34\u1d30
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=1365610&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN ELEVEN 1 NL \u1d41\u1d34\u1d30" group-title="BE| DAZN PPV",BE| DAZN ELEVEN 1 NL \u1d41\u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN ELEVEN 1 NL \u1d41\u1d34\u1d30" group-title="BE| DAZN PPV", DAZN ELEVEN 1 NL \u1d41\u1d34\u1d30
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=1365609&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN ELEVEN PRO LEAGUE 1 NL SD" group-title="BE| DAZN PPV",BE| DAZN ELEVEN PRO LEAGUE 1 NL SD
+#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN ELEVEN PRO LEAGUE 1 NL SD" group-title="BE| DAZN PPV", DAZN ELEVEN PRO LEAGUE 1 NL SD
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=1365608&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN ELEVEN PRO LEAGUE 1 NL \u1d34\u1d30" group-title="BE| DAZN PPV",BE| DAZN ELEVEN PRO LEAGUE 1 NL \u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN ELEVEN PRO LEAGUE 1 NL \u1d34\u1d30" group-title="BE| DAZN PPV", DAZN ELEVEN PRO LEAGUE 1 NL \u1d34\u1d30
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=1365607&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN ELEVEN PRO LEAGUE 1 NL \u1d41\u1d34\u1d30" group-title="BE| DAZN PPV",BE| DAZN ELEVEN PRO LEAGUE 1 NL \u1d41\u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN ELEVEN PRO LEAGUE 1 NL \u1d41\u1d34\u1d30" group-title="BE| DAZN PPV", DAZN ELEVEN PRO LEAGUE 1 NL \u1d41\u1d34\u1d30
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=1365606&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN ELEVEN 1 FR SD" group-title="BE| DAZN PPV",BE| DAZN ELEVEN 1 FR SD
+#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN ELEVEN 1 FR SD" group-title="BE| DAZN PPV", DAZN ELEVEN 1 FR SD
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=1365605&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN ELEVEN 1 FR \u1d34\u1d30" group-title="BE| DAZN PPV",BE| DAZN ELEVEN 1 FR \u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN ELEVEN 1 FR \u1d34\u1d30" group-title="BE| DAZN PPV", DAZN ELEVEN 1 FR \u1d34\u1d30
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=1365604&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN ELEVEN 1 FR \u1d41\u1d34\u1d30" group-title="BE| DAZN PPV",BE| DAZN ELEVEN 1 FR \u1d41\u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN ELEVEN 1 FR \u1d41\u1d34\u1d30" group-title="BE| DAZN PPV", DAZN ELEVEN 1 FR \u1d41\u1d34\u1d30
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=1365603&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN ELEVEN PRO LEAGUE 1 FR SD" group-title="BE| DAZN PPV",BE| DAZN ELEVEN PRO LEAGUE 1 FR SD
+#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN ELEVEN PRO LEAGUE 1 FR SD" group-title="BE| DAZN PPV", DAZN ELEVEN PRO LEAGUE 1 FR SD
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=1365602&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN ELEVEN PRO LEAGUE 1 FR \u1d34\u1d30" group-title="BE| DAZN PPV",BE| DAZN ELEVEN PRO LEAGUE 1 FR \u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN ELEVEN PRO LEAGUE 1 FR \u1d34\u1d30" group-title="BE| DAZN PPV", DAZN ELEVEN PRO LEAGUE 1 FR \u1d34\u1d30
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=1365601&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN ELEVEN PRO LEAGUE 1 FR \u1d41\u1d34\u1d30" group-title="BE| DAZN PPV",BE| DAZN ELEVEN PRO LEAGUE 1 FR \u1d41\u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN ELEVEN PRO LEAGUE 1 FR \u1d41\u1d34\u1d30" group-title="BE| DAZN PPV", DAZN ELEVEN PRO LEAGUE 1 FR \u1d41\u1d34\u1d30
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=1365600&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN PLAY SPORT 1 SD" group-title="BE| DAZN PPV",BE| DAZN PLAY SPORT 1 SD
+#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN PLAY SPORT 1 SD" group-title="BE| DAZN PPV", DAZN PLAY SPORT 1 SD
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=1365599&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN PLAY SPORT 1 \u1d34\u1d30" group-title="BE| DAZN PPV",BE| DAZN PLAY SPORT 1 \u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN PLAY SPORT 1 \u1d34\u1d30" group-title="BE| DAZN PPV", DAZN PLAY SPORT 1 \u1d34\u1d30
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=1365598&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN PLAY SPORT 1 \u1d41\u1d34\u1d30" group-title="BE| DAZN PPV",BE| DAZN PLAY SPORT 1 \u1d41\u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN PLAY SPORT 1 \u1d41\u1d34\u1d30" group-title="BE| DAZN PPV", DAZN PLAY SPORT 1 \u1d41\u1d34\u1d30
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=1365597&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN PLAY SPORT 2 SD" group-title="BE| DAZN PPV",BE| DAZN PLAY SPORT 2 SD
+#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN PLAY SPORT 2 SD" group-title="BE| DAZN PPV", DAZN PLAY SPORT 2 SD
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=1365596&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN PLAY SPORT 2 \u1d34\u1d30" group-title="BE| DAZN PPV",BE| DAZN PLAY SPORT 2 \u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN PLAY SPORT 2 \u1d34\u1d30" group-title="BE| DAZN PPV", DAZN PLAY SPORT 2 \u1d34\u1d30
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=1365595&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN PLAY SPORT 2 \u1d41\u1d34\u1d30" group-title="BE| DAZN PPV",BE| DAZN PLAY SPORT 2 \u1d41\u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN PLAY SPORT 2 \u1d41\u1d34\u1d30" group-title="BE| DAZN PPV", DAZN PLAY SPORT 2 \u1d41\u1d34\u1d30
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=1365594&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN PLAY SPORT 3 SD" group-title="BE| DAZN PPV",BE| DAZN PLAY SPORT 3 SD
+#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN PLAY SPORT 3 SD" group-title="BE| DAZN PPV", DAZN PLAY SPORT 3 SD
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=1365593&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN PLAY SPORT 3 \u1d34\u1d30" group-title="BE| DAZN PPV",BE| DAZN PLAY SPORT 3 \u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN PLAY SPORT 3 \u1d34\u1d30" group-title="BE| DAZN PPV", DAZN PLAY SPORT 3 \u1d34\u1d30
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=1365592&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN PLAY SPORT 3 \u1d41\u1d34\u1d30" group-title="BE| DAZN PPV",BE| DAZN PLAY SPORT 3 \u1d41\u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN PLAY SPORT 3 \u1d41\u1d34\u1d30" group-title="BE| DAZN PPV", DAZN PLAY SPORT 3 \u1d41\u1d34\u1d30
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=1365591&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN WOMENS FOOTBALL SD" group-title="BE| DAZN PPV",BE| DAZN WOMENS FOOTBALL SD
+#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN WOMENS FOOTBALL SD" group-title="BE| DAZN PPV", DAZN WOMENS FOOTBALL SD
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=1365590&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN WOMENS FOOTBALL \u1d34\u1d30" group-title="BE| DAZN PPV",BE| DAZN WOMENS FOOTBALL \u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN WOMENS FOOTBALL \u1d34\u1d30" group-title="BE| DAZN PPV", DAZN WOMENS FOOTBALL \u1d34\u1d30
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=1365589&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN WOMENS FOOTBALL \u1d41\u1d34\u1d30" group-title="BE| DAZN PPV",BE| DAZN WOMENS FOOTBALL \u1d41\u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN WOMENS FOOTBALL \u1d41\u1d34\u1d30" group-title="BE| DAZN PPV", DAZN WOMENS FOOTBALL \u1d41\u1d34\u1d30
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=1365588&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN COMBAT SD" group-title="BE| DAZN PPV",BE| DAZN COMBAT SD
+#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN COMBAT SD" group-title="BE| DAZN PPV", DAZN COMBAT SD
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=1365587&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN COMBAT \u1d34\u1d30" group-title="BE| DAZN PPV",BE| DAZN COMBAT \u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN COMBAT \u1d34\u1d30" group-title="BE| DAZN PPV", DAZN COMBAT \u1d34\u1d30
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=1365586&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN COMBAT \u1d41\u1d34\u1d30" group-title="BE| DAZN PPV",BE| DAZN COMBAT \u1d41\u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN COMBAT \u1d41\u1d34\u1d30" group-title="BE| DAZN PPV", DAZN COMBAT \u1d41\u1d34\u1d30
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=1365585&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="##### BE DAZN PPV #####" group-title="BE| DAZN PPV",##### BE DAZN PPV #####
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=1365584&extension=ts
@@ -844,7 +844,7 @@ http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=1365536&exte
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=1365535&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="BE-DAZN 50 HD (D): Serie A Femminile| Sampdoria _ Milan| Sun 21 Apr 13:30" group-title="BE| DAZN PPV",BE-DAZN 50 HD (D): Serie A Femminile| Sampdoria _ Milan| Sun 21 Apr 13:30
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=1365534&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="### LUXEMBURG ###" group-title="BE| WALLONIÃ‹",### LUXEMBURG ###
+#EXTINF:-1 tvg-id="" tvg-name="### LUXEMBURG ###" group-title=BELGIQUE,### LUXEMBURG ###
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=816652&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="LUX| RTL HD" group-title="EU| LUXEMBOURG",LUX| RTL HD
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=816650&extension=ts
