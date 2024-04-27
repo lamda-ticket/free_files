@@ -523,31 +523,31 @@ http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=812133&exten
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=812132&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="### BE ENFANTS WL ###" group-title="BELGIQUE",### BE ENFANTS WL ###
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=812196&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| DISNEY CHANNEL HD" group-title="BELGIQUE", DISNEY CHANNEL HD
+#EXTINF:-1 tvg-id="" tvg-name="BE| DISNEY CHANNEL HD" group-title="BE ENFANTS", DISNEY CHANNEL HD
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=812194&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| DISNEY JUNIOR HD" group-title="BELGIQUE", DISNEY JUNIOR HD
+#EXTINF:-1 tvg-id="" tvg-name="BE| DISNEY JUNIOR HD" group-title="BE ENFANTS", DISNEY JUNIOR HD
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=812193&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| NICKELODEON HD" group-title="BELGIQUE", NICKELODEON HD
+#EXTINF:-1 tvg-id="" tvg-name="BE| NICKELODEON HD" group-title="BE ENFANTS", NICKELODEON HD
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=812192&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| NICKELODEON JUNIOR HD" group-title="BELGIQUE", NICKELODEON JUNIOR HD
+#EXTINF:-1 tvg-id="" tvg-name="BE| NICKELODEON JUNIOR HD" group-title="BE ENFANTS", NICKELODEON JUNIOR HD
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=812191&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| NICKELODEON 4 TEEN HD" group-title="BELGIQUE", NICKELODEON 4 TEEN HD
+#EXTINF:-1 tvg-id="" tvg-name="BE| NICKELODEON 4 TEEN HD" group-title="BE ENFANTS", NICKELODEON 4 TEEN HD
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=812190&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| GULLI  HD" group-title="BELGIQUE", GULLI  HD
+#EXTINF:-1 tvg-id="" tvg-name="BE| GULLI  HD" group-title="BE ENFANTS", GULLI  HD
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=812189&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| PIWI+ HD" group-title="BELGIQUE", PIWI+ HD
+#EXTINF:-1 tvg-id="" tvg-name="BE| PIWI+ HD" group-title="BE ENFANTS", PIWI+ HD
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=812188&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| TIJI HD" group-title="BELGIQUE", TIJI HD
+#EXTINF:-1 tvg-id="" tvg-name="BE| TIJI HD" group-title="BE ENFANTS", TIJI HD
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=812187&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| TELETOON+ HD" group-title="BELGIQUE", TELETOON+ HD
+#EXTINF:-1 tvg-id="" tvg-name="BE| TELETOON+ HD" group-title="BE ENFANTS", TELETOON+ HD
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=812186&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| BOING HD" group-title="BELGIQUE", BOING HD
+#EXTINF:-1 tvg-id="" tvg-name="BE| BOING HD" group-title="BE ENFANTS", BOING HD
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=812185&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| BOOMERANG HD" group-title="BELGIQUE", BOOMERANG HD
+#EXTINF:-1 tvg-id="" tvg-name="BE| BOOMERANG HD" group-title="BE ENFANTS", BOOMERANG HD
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=812184&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| TOONAMI HD" group-title="BELGIQUE", TOONAMI HD
+#EXTINF:-1 tvg-id="" tvg-name="BE| TOONAMI HD" group-title="BE ENFANTS", TOONAMI HD
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=812183&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| CARTOON NETWORK HD" group-title="BELGIQUE", CARTOON NETWORK HD
+#EXTINF:-1 tvg-id="" tvg-name="BE| CARTOON NETWORK HD" group-title="BE ENFANTS", CARTOON NETWORK HD
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=812182&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="### BE CINEMA WL ###" group-title="BELGIQUE",### BE CINEMA WL ###
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=812180&extension=ts
@@ -569,23 +569,23 @@ http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=812174&exten
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=812173&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="### BE SPORTS WL ###" group-title="BELGIQUE",### BE SPORTS WL ###
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=812172&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| VOO SPORT WORLD 1 HD" group-title="BELGIQUE", VOO SPORT WORLD 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="BE| VOO SPORT WORLD 1 HD" group-title="BE SPORTS", VOO SPORT WORLD 1 HD
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=812171&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| VOO SPORT WORLD 2 HD" group-title="BELGIQUE", VOO SPORT WORLD 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="BE| VOO SPORT WORLD 2 HD" group-title="BE SPORTS", VOO SPORT WORLD 2 HD
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=812170&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| VOO SPORT WORLD 3 HD" group-title="BELGIQUE", VOO SPORT WORLD 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="BE| VOO SPORT WORLD 3 HD" group-title="BE SPORTS", VOO SPORT WORLD 3 HD
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=812169&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| ELEVEN PRO LEAGUES 1 HD (FR)" group-title="BELGIQUE", ELEVEN PRO LEAGUES 1 HD (FR)
+#EXTINF:-1 tvg-id="" tvg-name="BE| ELEVEN PRO LEAGUES 1 HD (FR)" group-title="BE SPORTS", ELEVEN PRO LEAGUES 1 HD (FR)
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=812168&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| ELEVEN PRO LEAGUES 2 HD (FR)" group-title="BELGIQUE", ELEVEN PRO LEAGUES 2 HD (FR)
+#EXTINF:-1 tvg-id="" tvg-name="BE| ELEVEN PRO LEAGUES 2 HD (FR)" group-title="BE SPORTS", ELEVEN PRO LEAGUES 2 HD (FR)
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=812167&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| ELEVEN PRO LEAGUES 3 HD (FR)" group-title="BELGIQUE", ELEVEN PRO LEAGUES 3 HD (FR)
+#EXTINF:-1 tvg-id="" tvg-name="BE| ELEVEN PRO LEAGUES 3 HD (FR)" group-title="BE SPORTS", ELEVEN PRO LEAGUES 3 HD (FR)
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=812166&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| ELEVEN SPORTS 1 (FR)" group-title="BELGIQUE", ELEVEN SPORTS 1 (FR)
+#EXTINF:-1 tvg-id="" tvg-name="BE| ELEVEN SPORTS 1 (FR)" group-title="BE SPORTS", ELEVEN SPORTS 1 (FR)
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=812165&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| ELEVEN SPORTS 2 (FR)" group-title="BELGIQUE", ELEVEN SPORTS 2 (FR)
+#EXTINF:-1 tvg-id="" tvg-name="BE| ELEVEN SPORTS 2 (FR)" group-title="BE SPORTS", ELEVEN SPORTS 2 (FR)
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=812164&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BE| ELEVEN SPORTS 3 (FR)" group-title="BELGIQUE", ELEVEN SPORTS 3 (FR)
+#EXTINF:-1 tvg-id="" tvg-name="BE| ELEVEN SPORTS 3 (FR)" group-title="BE SPORTS", ELEVEN SPORTS 3 (FR)
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=812163&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="### BE DOCUMENTAIRE WL ###" group-title="BELGIQUE",### BE DOCUMENTAIRE WL ###
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=812150&extension=ts
@@ -858,4 +858,3 @@ http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=816649&exten
 #EXTINF:-1 tvg-id="" tvg-name="LUX| CHAMBER TV HD" group-title="EU| LUXEMBOURG",LUX| CHAMBER TV HD
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:30:03:1F&stream=816651&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="LUX| ELDORADIO TV" group-title="EU| LUXEMBOURG",LUX| ELDORADIO TV
-
